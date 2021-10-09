@@ -20,7 +20,7 @@ Alabama Department of Public Safety,110 days 19:15:27.916276334
 Alachua County Sheriff,60 days 02:17:57.795249200
 Alachua Police Department,1171 days 08:51:23.402351008
 Alamance County Sheriff,7 days 08:00:00
-Alameda County Sheriff's Office,146 days 03:10:00.590807542
+Alameda County Sheriff's Office,146 days 05:10:00.590807542
 Alameda Police Department,73 days 07:24:43.610380750
 Alamosa County Sheriff,2 days 20:00:00
 Alaska Department of Public Safety,77 days 01:46:20.641561
@@ -42,7 +42,7 @@ Allegany County Sheriff's Office,19 days 00:56:12.495855500
 Allegany Village Police Department,24 days 06:10:12.290585500
 Alleghany County Sheriff's Office,126 days 12:06:05
 Allegheny County Police Department,23 days 10:57:22.908037166
-Allegheny County Sheriff's Office,5 days 04:19:38.672149333
+Allegheny County Sheriff's Office,5 days 08:19:38.672149333
 Allen Parish Sheriff's Office,91 days 20:00:00
 Allenstown Police Department,18 days 18:52:07.808976
 Allentown Police Department,467 days 15:12:06.330640328
@@ -66,7 +66,7 @@ Anadarko Police Department,4 days 16:24:26.978893
 Anaheim Police Department,170 days 02:06:25.737491858
 Anchorage Police Department,20 days 14:22:42.170621
 Anderson County Sheriff,3 days 20:00:00
-Andover Police Department,9 days 17:25:15.775914333
+Andover Police Department,10 days 01:25:15.775914333
 Androscoggin County Sheriff,6 days 18:46:08.334129
 Angelica Village Police Department,22 days 01:06:44.367699
 Angels Camp Police Department,26 days 17:16:42.996534
@@ -97,7 +97,7 @@ Arvada Police Department,20 days 04:00:00
 Arvin Police Department,13 days 20:00:00
 Asbury Park Police Department,5 days 23:03:12.233863
 Asharoken Village Police Department,324 days 11:17:49.293826
-Asheville Police Department,23 days 11:00:37.947334083
+Asheville Police Department,23 days 13:00:37.947334083
 Ashland Police Department,114 days 14:00:00
 Asotin County Police Department,39 days 23:47:48.958369
 Assumption Parish Sheriff's Office,8 days 20:00:00
@@ -107,9 +107,9 @@ Athens Village Police Department,599 days 02:37:58.041837496
 Athens-Clarke Police Department,11 days 21:07:39.447334
 Atherton Police Department,144 days 08:25:57.629625
 Athol Police Department,9 days 04:22:14.825308
-Atlanta Police Department,20 days 19:36:27.072965600
+Atlanta Police Department,20 days 19:58:36.303734830
 Atlantic City Police Department,309 days 08:22:21.081423752
-Atlantic County Sheriff's Office,0 days 07:50:34.799850500
+Atlantic County Sheriff's Office,0 days 19:50:34.799850500
 Atlantis Police Department,3 days 01:54:46.599292
 Attica Village Police Department,36 days 08:19:08.638266
 Attleboro Police Department,262 days 02:45:37.861964668
@@ -136,14 +136,14 @@ Ball Ground Police Department,8 days 18:56:36.998570500
 Ballston Spa Village Police Department,1 days 11:00:56.745992
 Baltimore County Police Department,104 days 06:48:41.736691356
 "Baltimore County, Md Sheriff's Office",112 days 23:38:25.080474
-Baltimore Police Department,61 days 12:59:11.290538486
+Baltimore Police Department,61 days 13:53:11.290538486
 Bangor Police Department,11 days 08:41:27.486997
 Banks County Sheriff's Office,96 days 21:41:05.770221
 Banning Police Department,25 days 23:05:15.342053
 Bannock County Sheriff,4 days 17:22:14.907007
 Barboursville Police Dept,80 days 12:44:24.001371
 Barker Village Police Department,4 days 14:13:28.164158
-Barnstable County Sheriff's Office,13 days 15:23:04.233068250
+Barnstable County Sheriff's Office,13 days 17:23:04.233068250
 Barnstable Police Department,559 days 11:40:23.286467416
 Barren County Sheriff's Office,386 days 20:00:00
 Barrington Police Department,35 days 08:00:00
@@ -211,7 +211,7 @@ Beverly Hills Police Department,23 days 21:27:37.359479571
 Bexar County Sheriff's Office,33 days 19:30:00
 Bexley Police Department,8 days 19:10:23.466132
 Bibb County Sheriff's Office,31 days 21:07:09.362003
-Biddeford Police Department,15 days 08:00:00
+Biddeford Police Department,15 days 20:00:00
 Bienville Parish Sheriff's Office,30 days 08:00:00
 Big Spring Police Department,319 days 20:00:00
 Billings Police Department,10 days 20:00:00
@@ -219,7 +219,7 @@ Biloxi Police Department,48 days 11:40:00
 Binghamton Police Department,77 days 23:20:17.157910625
 Birmingham Police Department,266 days 04:08:18.535541500
 Biscayne Park Police Department,28 days 06:23:24.485092
-Bismarck Police Department,11 days 13:45:00
+Bismarck Police Department,11 days 19:45:00
 Black River Village Police Department,102 days 00:25:59.722213
 Blacksburg Police Department,5 days 22:38:51.146935400
 Blairsville Police Department,4 days 10:51:40.729067500
@@ -243,8 +243,8 @@ Boone County Sheriff's Department,27 days 13:46:59.922886333
 Boone County Sheriff's Office,12 days 23:44:38.351668
 Bossier Parish Sheriff's Office,22 days 19:00:00
 Bossier Sheriffs Office,56 days 17:28:21.882776
-Boston Police Department,130 days 22:04:10.844007016
-Boston University Police,64 days 15:00:00
+Boston Police Department,130 days 22:34:18.375387770
+Boston University Police,64 days 19:48:00
 Bothell Police Department,10 days 23:55:46.542942500
 Boulder City Police Department,175 days 04:47:34.948046
 Boulder County Sheriff's Office,11 days 16:30:33.477811166
@@ -278,7 +278,7 @@ Bridgewater police department,3 days 23:01:14.879043
 Brighton Town Police Department,188 days 16:54:44.190652
 Brisbane Police Department,12 days 17:46:09.590098
 Bristol County Sheriff's Office,90 days 18:05:12.347084462
-Bristol Police Department,4 days 02:00:00
+Bristol Police Department,4 days 08:00:00
 Bristol Township Police Department,20 days 23:39:42.011390
 Bristow Police Department,26 days 20:00:00
 Broadmoor Police Protection District,27 days 18:11:36.713273
@@ -334,7 +334,7 @@ Cabarrus County Sheriff,22 days 20:45:21.367271
 "Cabell County Sheriff's Office, WV",11 days 12:04:01.303871
 Cache County Sheriff,30 days 22:41:58.625167
 Cairo Town Police Department,0 days 20:00:00
-Calais Police Department,-1 days +20:00:00
+Calais Police Department,0 days 20:00:00
 Calaveras County Sheriff,9 days 15:30:47.854648666
 Calaveras Sheriff's Office,34 days 01:25:31.185637
 Calcasieu Parish Sheriff's Office,37 days 17:47:00.925677
@@ -350,7 +350,7 @@ California City Police Department,23 days 18:12:32.030589
 Calumet City Police Department,32 days 00:06:22.835591
 "Calvert County Sheriff's Department, Prince Frederick",123 days 01:59:59.888881
 Cambria County Sheriff's Office,1 days 02:30:33.830225
-Cambridge Police Department,82 days 00:30:12.048488018
+Cambridge Police Department,82 days 01:44:41.014005259
 Cambridge Village Police Department,31 days 01:59:05.904759
 Camden County Police Department,29 days 07:30:20.079941500
 Camden County Sheriff,6 days 19:59:55.707117
@@ -397,13 +397,13 @@ Carroll County Sheriff's Office,27 days 00:49:24.337255666
 Carroll County Sheriffs Office,0 days 20:32:53.269925
 Carroll Town Police Department,22 days 16:59:51.829051
 Carrollton Police Department,31 days 14:03:20.867572
-Carson City Sheriff’s Department,371 days 12:49:29.087680
+Carson City Sheriff’s Department,371 days 18:49:29.087680
 Carteret County Sheriff's Office,29 days 23:01:46.758749
 Cartersville Police Department,91 days 19:39:00.485130
 Carthage Police Department,156 days 17:42:59.982196
-Carthage Village Police Department,-1 days +20:00:00
+Carthage Village Police Department,0 days 20:00:00
 Carver County Sheriff's Office (minnesota),196 days 00:55:06.885370
-Cary Police Department,65 days 05:02:43.414432889
+Cary Police Department,65 days 07:42:43.414432889
 Casa Grande Police Department,20 days 20:10:44.233584
 Cass County Sheriff's Office,18 days 07:46:57.698253
 Cass County Sheriff’s Office,445 days 23:13:07.359656
@@ -430,14 +430,14 @@ Chambersburg Police Department,15 days 07:39:10.418376
 Champaign County Sheriff,4 days 21:33:00.541355
 Champaign Police Department,12 days 23:27:08.798123333
 Chandler Police Department,88 days 10:25:06.558569863
-Chapel Hill Police Department,70 days 12:52:47.520335279
-Chardon Police,-1 days +20:00:00
+Chapel Hill Police Department,70 days 13:50:23.520335279
+Chardon Police,0 days 20:00:00
 Charles County Sheriff's Office,158 days 04:58:40
 Charleston County Sheriff's Office,69 days 20:55:03.051836333
 Charleston Police Department,32 days 04:46:29.916847923
-Charlestown Police Department,1 days 02:00:00
+Charlestown Police Department,1 days 14:00:00
 Charlotte County Sheriff's Office,28 days 00:27:12.181799400
-Charlotte-Mecklenburg Police Department,100 days 04:13:56.359493021
+Charlotte-Mecklenburg Police Department,100 days 04:43:19.624799143
 Charlottesville Police Department,141 days 23:40:31.030929222
 Chatham County Sheriff,24 days 16:26:16.148560
 Chatham County Sheriff's Office,35 days 02:01:32.787986
@@ -446,7 +446,7 @@ Chatham Township Police Department,12 days 00:00:58.146943
 Chattahoochee Hills Police,20 days 20:27:55.976894
 Chattanooga Police Department,7 days 18:53:09.060917
 Chattooga County Sheriff's Office,10 days 18:44:02.451356
-Chaves County Sheriff's Office,0 days 19:30:00
+Chaves County Sheriff's Office,1 days 07:30:00
 Cheatham County Sheriff’s Office,446 days 06:22:07.358083
 Cheektowaga Police Department,335 days 21:25:34.480519
 Chelan County Sheriff,14 days 01:58:42.144886
@@ -455,7 +455,7 @@ Chelsea Police Department,539 days 15:55:22.561228720
 Chemung County Sheriff,20 days 00:51:43.147911
 Chenango County Sheriff's Office,4 days 08:29:59.956104500
 Cherokee County Sheriff's Office,17 days 11:06:56.274424333
-Chesapeake City Police Department,38 days 19:41:14.273266384
+Chesapeake City Police Department,38 days 21:32:00.427112538
 Chester Police Department,180 days 20:00:00
 Chesterfield Police Department,9 days 06:52:33.261604200
 Chevy Chase Police,1 days 22:06:47.118730
@@ -476,7 +476,7 @@ Chowan County Sheriff's Office,13 days 04:30:20.044883
 Christian County Sheriff MO,284 days 08:20:51.530913
 Christian County Sheriff's Office,33 days 16:30:07.331612
 Chula Vista Police Department,30 days 09:43:20.428095762
-Cincinnati Police Department,97 days 19:35:09.885711162
+Cincinnati Police Department,97 days 20:21:36.982485355
 Citrus County Sheriff's Office,69 days 07:56:56.250041333
 Citrus Heights Police Department,204 days 08:25:03.064928250
 City Of Allen Police Department,38 days 00:38:22.567491333
@@ -485,7 +485,7 @@ City University Of New York Public Safety Department,37 days 03:34:30.542390
 City of Albany Police Department,211 days 20:16:12.059602264
 City of Canton Police Department,15 days 20:00:00
 City of Fort Collins Police Department,35 days 17:07:37.273538600
-City of Fort Lauderdale Police Department,16 days 07:28:31.990712733
+City of Fort Lauderdale Police Department,16 days 09:04:31.990712733
 City of North Las Vegas Police Department,45 days 21:54:12.920504750
 City of Ocoee Police Department,46 days 20:00:00
 City of San Luis Obispo Police Department,13 days 06:25:45.010845400
@@ -550,7 +550,7 @@ Collin County Sheriff's Office,19 days 20:00:00
 Colonie Police Department,26 days 20:35:50.686042
 Colorado Department of Public Safety,37 days 10:06:53.134453
 Colorado Division Homeland Security And Emergency Management Department Of Public Safety,21 days 01:02:45.441178
-Colorado Springs Police Department,49 days 17:38:46.046249588
+Colorado Springs Police Department,49 days 20:28:10.752131941
 Columbia County Sheriff,4 days 05:46:24.959001500
 Columbia County Sheriff's Office,13 days 10:34:39.422968750
 Columbia Falls Police Department,46 days 19:00:00
@@ -558,7 +558,7 @@ Columbia Police Department,107 days 07:20:55.366685420
 Columbus Division of Police,22 days 22:03:47.965712029
 Columbus Police Department,305 days 16:53:06.225108
 Colusa County Sheriff's Office,6 days 18:15:37.997720500
-Concord Police Department,33 days 03:50:27.405057
+Concord Police Department,33 days 05:20:27.405057
 Concordia Parish Sheriff's Office,0 days 20:00:00
 Conneaut Police Department,26 days 20:00:00
 Connecticut State Police,239 days 05:45:59.850521624
@@ -590,9 +590,9 @@ Cotati Police Department,21 days 20:26:06.299320
 Coventry Police Department,4 days 07:50:00
 Covina Police Department,36 days 15:34:46.383308
 Covington Police Department,18 days 12:11:47.002437
-Coweta County Sheriff's Office,16 days 04:54:57.588834250
+Coweta County Sheriff's Office,16 days 10:54:57.588834250
 Coxsackie Village Police Department,188 days 23:11:57.260027
-Cranston Police Department,9 days 03:37:15.840540555
+Cranston Police Department,9 days 06:17:15.840540555
 Crawford County Sheriff's Office,6 days 03:07:10.930070500
 Crawford Police Department,87 days 20:00:00
 Creek County Sheriff's Office,41 days 20:00:00
@@ -615,7 +615,7 @@ Curry County Sheriff,413 days 00:56:00
 Custer County Sheriff,35 days 08:00:00
 Cuyahoga County Sheriff,32 days 20:00:00
 Cypress Police Department,35 days 13:07:04.358306666
-Dallas County Sheriff's Department,20 days 11:08:33.859798
+Dallas County Sheriff's Department,20 days 23:08:33.859798
 Dallas County Sheriff's Office,86 days 02:42:17.557284
 Dallas Police Department,107 days 20:08:48.819717984
 Dallas Police Department (Ga),144 days 21:44:28.106312
@@ -665,7 +665,7 @@ Dennis Police Department,358 days 18:04:27.265828336
 Denton County Sheriff,3 days 12:00:55.566596
 Denton Police Department,68 days 14:56:17.771166600
 Denver County Sheriff,2 days 20:00:00
-Denver Police Department,37 days 20:54:30.382477246
+Denver Police Department,37 days 21:50:36.616243480
 Department Of Police Accountability,264 days 16:48:50.775630332
 "Department Of Public Safety, Georgia State Patrol",1 days 22:48:59.149318
 "Department Of State Police, Emergency Management And Homeland Security Division",6 days 22:00:21.513553
@@ -703,7 +703,7 @@ Douglas County Sheriff,20 days 01:50:32.572929
 Douglas County Sheriff's Office,29 days 12:15:05.115083666
 Douglas County Sheriffs Office (NV),13 days 12:02:22.901102
 Douglasville Police Department,3 days 08:33:56.114985500
-Dover Police Department,1 days 07:54:54.104717142
+Dover Police Department,1 days 14:46:19.819002857
 Downers Grove Police Department,36 days 00:18:20.009571
 Downey Police Department,586 days 15:24:12.529489592
 Doylestown Township Police Department,119 days 08:00:00
@@ -718,7 +718,7 @@ Duluth Police Department,710 days 04:06:10.991195336
 Dunwoody Police Department,12 days 12:11:14.475060
 Duplin County Sheriff's Office,50 days 23:13:16.093193
 Durham County Sheriff's Office,59 days 19:00:00
-Durham Police Department,40 days 03:20:20.777292630
+Durham Police Department,40 days 04:13:40.777292630
 Duval County Sheriff,20 days 17:50:41.922123
 Duxbury Police Department,8 days 21:34:41.543057
 Eagle Mountain Police Department,56 days 14:25:37.544750
@@ -730,13 +730,13 @@ East Carroll Parish Sheriff's Office,226 days 12:19:11.622957
 East Feliciana Parish Sheriff's Office,11 days 20:00:00
 East Fishkill Town Police Department,19 days 22:42:18.513189
 East Greenbush Police Department,36 days 20:00:00
-East Greenwich Police Department,4 days 10:58:49.396809200
-East Hampton Town Police Department,141 days 03:39:47.959684
-East Hampton Village Police Department,18 days 19:30:00
+East Greenwich Police Department,4 days 15:46:49.396809200
+East Hampton Town Police Department,141 days 15:39:47.959684
+East Hampton Village Police Department,19 days 07:30:00
 East Lansing Police Department,46 days 07:30:00
-East Liverpool Police Department,-1 days +20:00:00
+East Liverpool Police Department,0 days 20:00:00
 East Palo Alto Police Department,261 days 14:52:26.006835
-East Providence Police Department,6 days 14:24:34.380505
+East Providence Police Department,6 days 16:48:34.380505
 East Rochester Village Police Department,132 days 17:46:21.292649
 East Rutherford Police Department,34 days 00:02:47.455586500
 Easthampton Police Department,2 days 06:29:19.203660500
@@ -757,7 +757,7 @@ El Dorado County Sheriff's Office,104 days 18:41:08.897448858
 El Dorado Police Department,5 days 11:57:23.027974
 El Monte Police Department,30 days 12:12:18.447225800
 El Paso County Sheriff,67 days 05:47:47.629701500
-El Paso County Sheriff's Office,-10 days +20:00:00
+El Paso County Sheriff's Office,9 days 20:00:00
 El Paso Police Department,59 days 18:01:13.194966375
 El Segundo Police Department,23 days 03:43:13.406016
 Elbert County Sheriff,0 days 20:00:00
@@ -810,7 +810,7 @@ Excelsior Springs Police Department,1 days 22:47:01.077570
 Executive Office of Public Safety and Security,142 days 13:31:22.905840530
 Fairbanks Police Department,4 days 19:00:00
 Fairfax County Department Of Public Safety Communications,0 days 19:10:45.985619
-Fairfax County Police Department,15 days 21:10:36.040063762
+Fairfax County Police Department,15 days 22:19:10.325778047
 Fairfax County Sheriff,9 days 13:29:46.456455375
 Fairfield Police Department,31 days 00:18:15.894322182
 Fairmont Police Department,5 days 12:48:35.058448
@@ -821,7 +821,7 @@ Falls Church Police Department,56 days 20:37:04.296043500
 Fallsburg Police Department,148 days 07:05:46.435881
 Falmouth Police Department,17 days 07:37:29.931035
 Fannin County Sheriff's Office,91 days 19:43:19.798113
-Fargo Police Department,28 days 14:16:02.488315666
+Fargo Police Department,28 days 22:16:02.488315666
 Farmers Branch Police Department,78 days 12:28:53.223708500
 Farmington Hills Police Department,27 days 14:44:41.014749666
 Farmington Police Department,12 days 11:01:33.921228
@@ -923,7 +923,7 @@ Genesee County Sheriff,100 days 00:16:54.044308
 Geneseo Village Police Department,35 days 21:40:27.900085
 Geneva City Police Department,378 days 07:28:57.605226
 Geneva Police Department,31 days 20:00:00
-Georgia Department of Public Safety,32 days 03:45:55.313730250
+Georgia Department of Public Safety,32 days 04:57:55.313730250
 "Georgia Institute of Technology Police Department, Office of Emergency Preparedness",4 days 08:00:00
 Georgia Tech Police Department,38 days 01:48:17.294326
 Germantown Police Department,19 days 04:29:17.374578
@@ -946,7 +946,7 @@ Glenn County Sheriffs Office,8 days 00:27:36.991795
 Glenview Police Department Illinois,12 days 02:49:34.896892250
 Glenwood Springs Police Department,43 days 20:00:00
 Globe Sheriff's Office,3 days 19:00:00
-Glocester Police Department,1 days 14:00:00
+Glocester Police Department,2 days 02:00:00
 Gloucester Police Department,1201 days 20:00:00
 Gloversville City Police Department,349 days 04:39:43.176792
 Glynn County Sheriff's Department,21 days 19:59:38.480011333
@@ -962,11 +962,11 @@ Goshen Police Department,1 days 20:00:00
 Goshen Town Police Department,437 days 15:32:40.441757336
 Graham County Sheriff's Department,22 days 22:23:19.881453
 Graham Police Department,299 days 03:55:22.694987
-Grand Forks Police Department,3 days 14:46:41.634660600
+Grand Forks Police Department,3 days 19:34:41.634660600
 Grand Island Town Police Department,55 days 11:42:36.465572333
 Grand Junction Police Department,3 days 13:53:18.529032666
 Grand Prairie Police Department,40 days 10:07:53.642638928
-Grand Rapids Police Department,149 days 19:40:00
+Grand Rapids Police Department,150 days 03:40:00
 Grant County Sheriff,40 days 09:50:26.655118500
 Grant County Sheriff's Office,92 days 10:14:21.860141
 Grants Pass Department of Public Safety,31 days 22:33:57.625504
@@ -993,12 +993,12 @@ Greene County Sheriff's Office,397 days 01:46:48.469531
 Greene Village Police Department,47 days 17:11:13.356270
 Greenfield Police Department,13 days 01:29:04.425484
 Greenlee County Sheriff'S Office,172 days 00:03:43.961143
-Greensboro Police Department,141 days 22:44:33.006701038
+Greensboro Police Department,141 days 23:39:56.083624116
 Greensburg Police Department,61 days 11:08:14.510426
 Greenville County Sheriff's Department,28 days 11:59:40.472052500
 Greenville Police Department,52 days 09:26:50.513570143
 Greenwood Lake Village Police Department,187 days 05:35:39.220771
-Greer Police Department,-1 days +19:00:00
+Greer Police Department,0 days 19:00:00
 Griffith Police Department (IN),12 days 22:19:44.748340
 Grosse Ile Police,4 days 19:39:58.122164
 Grosse Pointe Park Public Safety,106 days 00:12:18.773719
@@ -1015,14 +1015,14 @@ Gulf Breeze Police Department,3 days 22:35:25.071501500
 Gulf County Sheriff's Office,1 days 19:49:45.245887
 Gunnison Police Department,2 days 20:25:11.702630
 Gurnee Police Department,1 days 14:54:47.572757
-Gwinnett County Police Department,98 days 14:16:43.194902165
+Gwinnett County Police Department,98 days 18:16:43.194902165
 Gwinnett County Sheriff,22 days 21:52:54.316137
 Haddon Heights Police Department,3 days 20:00:00
 Hadley Police Department,1 days 20:00:00
 Hagan Police Department,7 days 01:46:50.819886
 Hagerstown City Police Department,49 days 04:14:03.004102500
 Hagerstown Police Department,58 days 20:49:34.734516
-Haines City Police Department,3 days 20:15:02.396543
+Haines City Police Department,6 days 08:15:02.396543
 Hall County Sheriff,21 days 01:06:10.074866
 Hamblen County Sheriff,6 days 19:24:03.615474
 Hamburg Village Police Department,390 days 04:40:00.353195
@@ -1044,17 +1044,17 @@ Hardee County Sheriff's Office,51 days 03:36:25.407927666
 Hardin County Sheriff,253 days 17:44:33.235442
 Hardin County Sheriff's Office,76 days 07:46:57.698253
 Hardin County Sheriffs Office,97 days 22:07:33.531026
-Harlingen Police Department,6 days 20:00:00
+Harlingen Police Department,7 days 08:00:00
 Harnett County Sheriff,86 days 19:13:38.722501
-Harris County Sheriff,93 days 21:36:22.609385421
+Harris County Sheriff,93 days 22:52:09.977806474
 Harris County Sheriff's Office,30 days 21:56:01.409880
 Harrisburg Police Department,190 days 16:40:49.335034250
 Hart County Sheriff's Office,7 days 22:53:48.275712
-Hartford Police Department,235 days 05:30:50.273974944
+Hartford Police Department,235 days 06:46:37.642396
 Harvard University Police,35 days 13:30:38.567082285
 Harwood Heights Police Department Illinois,54 days 03:10:17.150033
 Haverhill Police Department,9 days 02:49:05.163715625
-Hawaii Department of Public Safety,35 days 19:41:52.829351708
+Hawaii Department of Public Safety,35 days 22:41:52.829351708
 Hawaii Police Department,25 days 10:40:34.752965500
 Hawkins County Sheriff,516 days 06:22:07.358083
 Hawthorne Police Department,224 days 20:17:28.299046600
@@ -1089,7 +1089,7 @@ Highland Park Police Department,6 days 19:30:00
 Hill Country Village Police Department,14 days 00:24:20.661835
 Hillsboro Police Department,490 days 23:25:51.922193
 Hillsborough County Sheriff,37 days 23:41:48.560073
-Hillsborough Police Department,3 days 10:54:04.143581500
+Hillsborough Police Department,3 days 22:54:04.143581500
 Hillsdale County Sheriff's Office,23 days 05:16:53.199213500
 Hinds County Sheriff,210 days 20:00:00
 Hinesville Police Department,19 days 11:05:23.199159
@@ -1124,7 +1124,7 @@ Hot Spring County Sheriff's Office,10 days 10:14:21.860141
 Houston County Sheriff,7 days 12:58:13.866375600
 Houston County Sheriff's Office,174 days 21:33:21.362472
 Houston Police Department,58 days 11:46:46.867798829
-Howard County Police Department,251 days 12:03:41.180109112
+Howard County Police Department,251 days 14:43:41.180109112
 Howard County Sheriff,18 days 19:07:01.319037
 Howard County Sheriff's Office,81 days 19:42:29.646032
 Hudson County Sheriff's Department,29 days 21:55:12.667644
@@ -1149,11 +1149,11 @@ Hyattsville Police Department,191 days 03:16:05.304387
 Hyde Park Town Police Department,357 days 08:50:49.483990
 Iberia Parish Sheriff's Office,83 days 20:00:00
 Iberville Parish Sheriff's Office,309 days 23:56:00
-Idaho State Police,34 days 09:42:23.307889033
+Idaho State Police,34 days 10:30:23.307889033
 Illinois State Police,44 days 07:50:56.980348609
 Imperial County Sheriff's Office,131 days 00:35:20.862379250
 Independence County Sheriff's Office,14 days 21:34:09.283162
-Independence Police Department,322 days 06:20:46.652169500
+Independence Police Department,322 days 10:20:46.652169500
 Independent Police Department,197 days 08:52:20.579934
 Independent Police Review Authority,116 days 21:40:21.038495700
 Indian Creek Village Police Department,29 days 19:21:37.708450666
@@ -1161,9 +1161,9 @@ Indian Hills Police Department,4 days 00:57:57.407983
 Indian River County Sheriff's Department,48 days 08:14:17.599250750
 Indian River Shores Public Safety Department,20 days 13:22:40.921753
 Indiana Integrated Public Safety Commission,37 days 20:00:00
-Indiana State Police,89 days 08:05:40.457307157
+Indiana State Police,89 days 08:50:40.457307157
 Indiana University Police Department,48 days 22:19:26.184063
-Indianapolis Metropolitan Police Department,35 days 21:44:55.847651714
+Indianapolis Metropolitan Police Department,35 days 22:14:19.112957836
 Ingham County Sheriff,139 days 17:11:26.100315500
 Inglewood Police Department,571 days 19:00:01.702768256
 Ingram Police Department,13 days 19:18:41.072055
@@ -1175,7 +1175,7 @@ Ionia County Sheriff's Office,11 days 21:47:54.614675
 Iosco County Sheriff's Office,14 days 18:24:06.483487
 Iowa City Police Department,9 days 12:14:03.729692750
 Iowa Department of Public Safety,73 days 10:55:48.674897118
-"Iowa Department of Public Safety, Division of Criminal Investigation",-1 days +20:00:00
+"Iowa Department of Public Safety, Division of Criminal Investigation",0 days 20:00:00
 Iredell County Sheriff,17 days 15:29:20.716333
 Irondale Police,45 days 08:43:27.948809
 Irondequoit Police Department,49 days 06:05:10.599579500
@@ -1189,16 +1189,16 @@ Itasca Police Department,33 days 04:12:51.318604
 Ithaca Police Department,99 days 09:01:09.784964
 Iuka Police Department,307 days 12:23:45.828441
 Izard County Sheriff'S Office,3 days 00:54:38.798140
-Jackson County Sheriff,120 days 04:59:41.927077
+Jackson County Sheriff,120 days 16:59:41.927077
 Jackson County Sheriff's Office,296 days 02:57:02.267120712
 Jackson County Sheriffs Office,40 days 07:34:01.766296500
 Jackson County Sheriff’s Office,80 days 13:24:48.358773
 Jackson Parish Sheriff's Office,15 days 08:00:00
-Jackson Police Department,92 days 02:52:25.065120667
+Jackson Police Department,92 days 10:52:25.065120667
 Jacksonville Beach Police Department,10 days 15:12:58.744613
 Jacksonville Police Department,63 days 11:27:36.791849667
 Jacksonville Sheriff's Office,77 days 05:34:07.532350001
-Jamestown Police Department,9 days 14:00:00
+Jamestown Police Department,9 days 20:00:00
 Jasper County Sheriff's Office,19 days 18:31:46.150462
 Jefferson City Police Department,31 days 13:27:38.495596
 Jefferson County Sheriff,32 days 17:05:52.556811750
@@ -1208,7 +1208,7 @@ Jefferson County Sheriff's Office,256 days 10:11:14.750639500
 Jefferson County Sheriffs Office,21 days 14:27:56.596447
 Jefferson County TX Sheriff Office,18 days 11:05:23.199159
 Jefferson Davis Parish Sheriff's Office,38 days 20:00:00
-Jefferson Parish Sheriff,54 days 01:48:00.374034
+Jefferson Parish Sheriff,54 days 04:28:00.374034
 Jefferson Parish Sheriff's Office,116 days 20:00:00
 Jefferson Police Department,29 days 20:00:00
 Jersey City Police Department,212 days 00:57:20.422901748
@@ -1219,9 +1219,9 @@ Johnson County Sheriff's Office,190 days 21:18:07.399504
 Johnston County Sheriff's Office,40 days 18:36:39.477561500
 Johnston Police Department,15 days 04:53:57.775948600
 Joliet Police Department,9 days 19:00:00
-Jones County Sheriff's Office,25 days 16:38:30.899983200
+Jones County Sheriff's Office,25 days 21:26:30.899983200
 Jonesboro Police Department,210 days 18:18:54.081992500
-Jupiter Police Department,31 days 12:36:21.752976
+Jupiter Police Department,31 days 20:36:21.752976
 Justice And Public Safety Cabinet,29 days 18:50:54.361024
 Kalamazoo County Sheriff,79 days 20:35:55.454104
 Kalkaska County Sheriff's Office,12 days 17:13:08.445745
@@ -1288,7 +1288,7 @@ Lackawanna City Police Department,74 days 08:53:52.332764
 "Lackawanna County, Pa Sheriff's Office",21 days 18:29:26.639383
 Lacy Lakeview Police Department,6 days 02:12:20.894003
 Lafayette County Sheriff's Office,25 days 07:51:34.811253333
-Lafayette Police Department,51 days 10:52:57.173652833
+Lafayette Police Department,51 days 14:52:57.173652833
 Lafourche Parish Sheriff's Office,14 days 08:37:12.563178
 Laguna Beach Police Department,14 days 03:02:36.372587500
 Lake Arthur Police Department,550 days 22:47:30.573275
@@ -1325,8 +1325,8 @@ Laredo Police Department,102 days 00:05:14.235226251
 Larimer County Sheriff,1 days 03:20:00
 Las Animas County Sheriff's Office,379 days 02:32:15.518235
 Las Animas Police Department,486 days 20:00:00
-Las Cruces Police Department,39 days 22:00:50.975149
-Las Vegas Metropolitan Police Department,102 days 08:21:51.820814405
+Las Cruces Police Department,40 days 01:26:33.832291857
+Las Vegas Metropolitan Police Department,102 days 08:49:33.359275943
 Lasalle Parish Sheriff's Office,342 days 20:00:00
 Lassen County Sheriff's Department,50 days 04:09:28.663166
 Lauderhill Police Department,37 days 00:00:19.243662
@@ -1378,15 +1378,15 @@ Lincoln County Sheriff's Department,107 days 19:45:00
 Lincoln County Sheriff's Office,33 days 21:57:43.082325200
 Lincoln Parish Sheriff's Office,142 days 20:00:00
 Lincoln Park Police Department,12 days 04:03:53.712781
-Lincoln Police Department,28 days 09:04:52.833437
+Lincoln Police Department,28 days 13:52:52.833437
 Lincolnshire Police Department,1 days 09:58:15.396886
 Lincolnwood Police Department,24 days 21:06:16.964074
 Linden Police Department,28 days 22:57:11.304705
 Lindsay Police Department,8 days 18:41:27.907250
 Litchfield Police Department,4 days 23:35:48.687694
 Lithonia Police Department,123 days 22:19:58.590248
-Little Compton Police Department,1 days 20:00:00
-Little Rock Police Department,152 days 23:33:49.057662776
+Little Compton Police Department,2 days 08:00:00
+Little Rock Police Department,153 days 02:13:49.057662776
 Littleton Police Department,2 days 17:04:33.780876
 Livermore Police Department,105 days 07:00:09.458044500
 Livingston County Sheriff,156 days 00:10:18.644520500
@@ -1415,7 +1415,7 @@ Lonoke County Sheriff'S Office,17 days 12:16:26.854056500
 Lorena Police Department,32 days 17:18:01.607937666
 Los Alamitos Police Department,59 days 21:17:11.754159
 Los Altos Police Department,26 days 12:03:37.511023500
-Los Angeles County Sheriff's Department,128 days 22:55:31.020304394
+Los Angeles County Sheriff's Department,128 days 23:46:56.734590108
 Los Angeles Police Department,160 days 00:12:52.391325528
 Los Angeles School Police Department,76 days 08:27:31.609768600
 Los Banos Police Department,7 days 15:28:17.886907
@@ -1431,14 +1431,14 @@ Lowell Police Department,108 days 13:55:08.374434776
 Lowndes County Sheriff's Office,20 days 03:13:42.331570
 Lowville Village Police Department,355 days 11:45:36.979544
 Lubbock County Sheriff's Office,40 days 23:06:50.768733500
-Lubbock Police Department,50 days 12:00:33.607422062
+Lubbock Police Department,50 days 13:30:33.607422062
 Luce County Sheriff,0 days 08:01:27.904414
 Lufkin Police Department,20 days 02:03:29.702626
 Lumberton Police Department,3 days 17:24:39.876854
 Lumpkin County Sheriff's Office,25 days 18:00:07.527075
 Lynchburg Police Department,138 days 11:09:26.321621
 Lyndeborough Police Department,5 days 00:15:47.816871
-Lynn Police Department,136 days 17:22:57.035077100
+Lynn Police Department,136 days 18:34:57.035077100
 Lynnfield Police Department,17 days 19:00:00
 MARTA Police Department,19 days 08:26:31.635824
 MBTA Transit Police,44 days 02:10:54.545454545
@@ -1452,11 +1452,11 @@ Madison County Sheriff,47 days 17:31:54.961950
 Madison County Sheriff's Department,20 days 16:20:19.890211500
 Madison County Sheriff's Office,37 days 21:20:14.563344
 Madison County Sheriff’s Office,59 days 20:08:15.355229
-Madison Police Department,108 days 22:23:13.041118970
+Madison Police Department,108 days 23:08:13.041118970
 Madisonville Police Department,4 days 04:22:47.812690
 Mahanoy Township Police Department,808 days 11:05:23.199159
 Mahaska County Sheriff,261 days 20:00:00
-Maine State Police,21 days 03:27:14.563544437
+Maine State Police,21 days 04:12:14.563544437
 Malden Police Department,135 days 17:34:35.688507250
 Malvern Police Department,97 days 11:05:23.199159
 Malverne Village Police Department,119 days 00:08:18.669017
@@ -1464,7 +1464,7 @@ Mamaroneck Town Police Department,95 days 14:59:14.214874500
 Mamou Police Department,148 days 17:57:24.468021
 Manalapan Police Department,49 days 03:36:55.627211333
 Manatee County Sheriff's Office,16 days 00:12:11.278022500
-Manchester Center Police Department,7 days 20:00:00
+Manchester Center Police Department,8 days 08:00:00
 Manchester Police Department,73 days 08:50:39.931273800
 Mandan Police Department,38 days 19:00:00
 Manhattan Beach Police Department,53 days 06:25:15.516917
@@ -1543,7 +1543,7 @@ Meigs Police Department,1188 days 21:28:13.484520
 Melbourne Police Department,21 days 15:42:31.671576666
 Melrose Police Department,30 days 18:32:50.018091
 Memorial Villages Police Department,14 days 00:12:43.473575
-Memphis International Airport Police  Department,575 days 03:19:59.362855
+Memphis International Airport Police  Department,575 days 11:19:59.362855
 Memphis Police Department,120 days 20:17:52.312770678
 Menasha Police,5 days 20:46:25.167236
 Mendham Police Department,40 days 20:00:00
@@ -1561,8 +1561,8 @@ Merrimack Police Department,34 days 05:07:51.225949
 Mesa Police Department,58 days 15:04:35.533577917
 Mesquite Police Department,23 days 21:17:45.305523285
 Mesquite Police Department NV,34 days 19:44:18.577657500
-Metropolitan Nashville Police Department,35 days 23:46:39.811359500
-Metropolitan Police Department,177 days 07:35:04.601542136
+Metropolitan Nashville Police Department,36 days 01:06:39.811359500
+Metropolitan Police Department,177 days 07:59:29.008321796
 Metropolitan Transit Authority Police,111 days 00:29:33.813717
 Metter Police Department,16 days 14:31:25.601836
 Miami Beach Police Department,50 days 10:32:20.660891
@@ -1575,14 +1575,14 @@ Michigan State Police,88 days 07:09:35.972671065
 Middlesex County Sheriff,8 days 21:35:35.859801
 Middlesex County Sheriff's Office,67 days 11:45:21.108976286
 Middleton Police Department,251 days 19:05:02.267858248
-Middletown Police Department,22 days 00:58:42.661862800
+Middletown Police Department,22 days 08:10:42.661862800
 Midland County Sheriff,22 days 22:17:20.377901400
 Midland Police Department,60 days 06:48:35.997288
 Midlothian Police Department,595 days 15:22:10.581592
 Midlothian Police Department TX,21 days 09:21:35.068100666
 Midway Police Department,15 days 11:05:23.199159
 Midwest City Police Department,17 days 16:05:37.582564
-Milford Police Department,20 days 23:51:31.865587700
+Milford Police Department,21 days 04:39:31.865587700
 Mill Valley Police Department,20 days 01:44:46.789387857
 Millburn Police Department,13 days 11:07:54.729097
 Millcreek Police Department,149 days 15:54:41.838588
@@ -1596,17 +1596,17 @@ Milwaukee County Sheriff,97 days 23:23:31.500252429
 Milwaukee Police Department,73 days 22:04:48.698630917
 Mineral County Sheriff's Office,917 days 13:04:20.112136992
 Minneapolis Parks Police,30 days 03:56:01.120510
-Minneapolis Police Department,90 days 13:55:28.392010707
+Minneapolis Police Department,90 days 15:24:05.315087630
 Minnehaha County Sheriff,10 days 07:16:10.886218500
-Minnesota Department of Public Safety,102 days 03:40:00
+Minnesota Department of Public Safety,102 days 11:40:00
 Minocqua Police Department,39 days 13:38:15.633709
 Minot Police Department,3 days 20:00:00
 Miramar Police Department,74 days 07:10:31.480407600
-Mississippi County Sheriff,-1 days +20:00:00
+Mississippi County Sheriff,0 days 20:00:00
 Mississippi Department of Public Safety,248 days 17:10:55.720307712
 Missoula County Sheriff,1184 days 00:56:00
 Missouri City Police Department,256 days 18:48:48.865260668
-Missouri Department of Public Safety,12 days 11:08:34.285714285
+Missouri Department of Public Safety,12 days 14:34:17.142857142
 Missouri Police Chiefs Association,14 days 11:05:23.199159
 Moberly Police Department,31 days 07:13:37.344218
 Mobile County Sheriff's Department,404 days 20:08:38.568138500
@@ -1617,7 +1617,7 @@ Mohave County Sheriff's Office,31 days 20:00:00
 Monmouth County Sheriff’s Office,22 days 05:47:33.554261333
 Mono County Sheriff,13 days 07:42:06.813747
 Monongalia County Sheriff's Office,6 days 14:33:47.183726
-Monroe County Sheriff,28 days 21:46:38.402215666
+Monroe County Sheriff,29 days 00:58:38.402215666
 Monroe County Sheriff's Department,419 days 15:38:40.423093
 Monroe County Sheriff's Office,129 days 14:20:20.621852
 Monroe Police Department,264 days 22:16:28.410645
@@ -1630,7 +1630,7 @@ Montebello Police Department,59 days 16:02:54.832570500
 Monterey County Sheriff’s Office,73 days 01:58:49.420962571
 Monterey Park Police Departmentt,12 days 08:09:50.198302
 Montgomery County Police Department,150 days 10:33:50.449837818
-Montgomery County Sheriff,112 days 16:15:33.964630332
+Montgomery County Sheriff,112 days 21:35:33.964630332
 Montgomery County Sheriff's Department,20 days 23:30:34.934476
 Montgomery County Sheriff's Office,166 days 05:19:11.571120910
 "Montgomery County, Pa Sheriff's Office",55 days 22:29:10.250596
@@ -1639,7 +1639,7 @@ Montgomery Police Department,466 days 12:44:26.843906008
 Monticello Village Police Department,50 days 23:38:57.924236
 Montmorency County Sheriff's Office,418 days 16:24:58.249630
 Montpelier Police Department,2 days 19:59:41.651527500
-Montrose County Sheriff's Office,-1 days +20:00:00
+Montrose County Sheriff's Office,0 days 20:00:00
 Montville Police Department,32 days 21:34:17.562944
 Montville Township Police Department,6 days 20:00:00
 Mooresville Police Department,10 days 19:14:19.593105
@@ -1687,7 +1687,7 @@ Myrtle Beach Police Department,30 days 20:00:00
 Nacogdoches County Sheriff,50 days 17:12:12.473925
 Nahant Police Department,5 days 19:00:00
 Nantucket County Sheriff’s Department,63 days 09:05:00.721461333
-Nantucket Police Department,20 days 11:17:38.047880166
+Nantucket Police Department,20 days 19:17:38.047880166
 Napa County Sheriff,77 days 21:05:46.285500250
 Napa Police Department,25 days 06:06:13.037881750
 Naperville Police Department,88 days 12:59:40.986798444
@@ -1699,12 +1699,12 @@ Nassau County Sheriff,889 days 11:11:09.255816992
 Nassau County Sheriff's Office,106 days 19:25:41.551273
 Natick Police Department,11 days 16:51:42.117219545
 National City Police Department,116 days 20:35:06.804842500
-Navarro County Sheriff,-1 days +20:00:00
+Navarro County Sheriff,0 days 20:00:00
 Needham Police Department,7 days 19:00:00
 Neshoba County Sheriff's Department,5 days 15:00:54.300039
 Nevada City Police Department,103 days 06:03:18.140650
 Nevada County Sheriff,21 days 16:48:53.131258800
-Nevada Department of Public Safety,45 days 11:26:54.545454545
+Nevada Department of Public Safety,45 days 15:48:43.636363636
 New Bedford Police Department,24 days 01:51:28.065833470
 New Berlin Police Department,34 days 20:00:00
 New Bern Police Department,23 days 11:07:08.475113
@@ -1722,7 +1722,7 @@ New Jersey State Police,53 days 22:49:16.444892490
 New Lenox Police Department,3 days 17:07:46.661397
 New Mexico Department of Public Safety,85 days 04:00:00
 "New Mexico Department of Public Safety, Grants Management Bureau",45 days 20:00:00
-New Mexico State Police,111 days 12:34:50.970866258
+New Mexico State Police,111 days 13:28:10.970866258
 New Middletown Village Police Department,16 days 23:42:40.628223
 New Orleans Police Department,81 days 19:16:58.874150222
 New Paltz Town & Village Police Department,314 days 12:27:13.712293
@@ -1747,7 +1747,7 @@ Newport News Police Department,2 days 20:00:00
 Newport Police Department,5 days 14:00:00
 Newton County Sheriff's Office,23 days 07:25:01.767708
 Newton County Sheriffs Office,16 days 05:56:51.362969
-Newton Police Department,298 days 16:39:41.565520936
+Newton Police Department,298 days 19:51:41.565520936
 Newtown Police Department,67 days 06:19:22.758152250
 Nez Perce County Sheriff's Office,26 days 01:01:25.288788
 Niagara County Sheriff,86 days 17:26:52.873825
@@ -1770,15 +1770,15 @@ North Charleston Police Department,45 days 18:48:05.326532307
 North Greenbush Town Police Department,88 days 22:57:21.689392
 North Haven Police,15 days 18:12:03.608763
 North Hornell Village Police Department,288 days 14:09:45.290705
-North Kingstown Police Department,25 days 02:00:00
-North Little Rock Police Department,3 days 15:18:29.412091250
+North Kingstown Police Department,25 days 08:00:00
+North Little Rock Police Department,3 days 21:18:29.412091250
 North Miami Beach Police Department,143 days 19:28:39.749968
 North Miami Police Department,27 days 23:36:57.631870500
 North Palm Beach Police Department,18 days 06:07:51.288125400
 North Park Police Department,67 days 14:42:44.837681
 North Providence Police Department,16 days 02:09:23.759215
 North Reading Police Department,5 days 19:30:00
-North Smithfield Police Department,0 days 02:00:00
+North Smithfield Police Department,0 days 20:00:00
 Northampton County Sheriff,572 days 22:28:00
 Northampton Police Department,535 days 10:32:19.348145416
 Northeastern University Division of Public Safety,36 days 19:00:00
@@ -1816,26 +1816,26 @@ Office of the Sheriff - Contra Costa County,60 days 12:54:21.976837400
 Ogden City Police Department,96 days 21:00:45.117672571
 Ogle County Sheriff's Office,18 days 07:34:00.050867
 Oglethorpe County Sheriff's Office,79 days 15:54:56.235415
-Ohio Department of Public Safety,28 days 07:54:36.185198
-Okaloosa County Sheriffs Office,3 days 20:00:00
+Ohio Department of Public Safety,28 days 10:18:36.185198
+Okaloosa County Sheriffs Office,4 days 08:00:00
 Okaloosa County Sheriff’s Office,130 days 20:00:00
 Okanogan County Sheriff's Office,11 days 12:58:09.708122
 Okeechobee County Sheriff's Office,70 days 03:03:41.407208333
-Oklahoma City Police Department,121 days 07:08:25.305276058
+Oklahoma City Police Department,121 days 08:29:55.871313794
 Oklahoma County Sheriff,23 days 08:29:53.195452400
 Oklahoma Department of Public Safety,810 days 07:28:15.155773384
 Olathe Police Department,125 days 14:38:33.991714144
 Old Brookville Village Police Department,302 days 06:21:01.339484
 Old Dominion University Police Department,136 days 20:00:00
 Olean City Police Department,32 days 22:38:23.343931
-Olympia Police Department,164 days 19:49:50.892760638
+Olympia Police Department,164 days 22:00:45.438215182
 Omaha Police Department,58 days 23:47:10.115208640
 Oneida County Sheriff,20 days 02:05:48.033965500
 Oneida County Sheriff's Office,10 days 19:24:44.027794
 Ontario County Sheriff,18 days 20:00:00
 Ontario Police Department,41 days 17:08:52.934681545
 Ontonagon County Sheriff,440 days 08:01:27.904414
-Orange County Sheriff,10 days 08:00:00
+Orange County Sheriff,10 days 20:00:00
 Orange County Sheriff's Office,56 days 10:21:26.677368568
 Orange Police Department,60 days 23:12:12.852295273
 Orangeburg County Sheriff,36 days 20:00:00
@@ -1844,7 +1844,7 @@ Oregon State Police,68 days 18:20:25.793017470
 Orem Police Department,6 days 19:10:41.115704
 Orford Police Department,11 days 12:09:10.461422
 Oriskany Village Police Department,25 days 09:12:34.749844
-Orlando Police Department,52 days 08:10:40.878508579
+Orlando Police Department,52 days 10:04:21.931140157
 Oro Valley Police,36 days 20:00:00
 Osage Beach Police Department,20 days 13:01:25.289208
 Osceola County Sheriff's Department,151 days 21:41:26.339550
@@ -1858,19 +1858,19 @@ Otter Tail County Sheriff,0 days 20:00:00
 Ouachita Parish Sheriff's Office,8 days 04:24:54.694608
 Ouray County Sheriff's Office,62 days 19:56:14.787229500
 Outagamie County Sheriff,4 days 07:18:03.852839500
-Overland Park Police Department,61 days 09:10:22.252791
+Overland Park Police Department,61 days 13:10:22.252791
 Overland Police Department,56 days 14:52:30.684889
 Overton County Sheriff,20 days 06:22:07.358083
 Owego Village Police Department,266 days 22:20:55.079177
-Oxford County Sheriff's Office,83 days 11:40:00
-Oxford Police Department,16 days 21:22:38.611430750
+Oxford County Sheriff's Office,83 days 19:40:00
+Oxford Police Department,17 days 03:22:38.611430750
 Oxnard Police Department,23 days 22:52:18.905195579
 Ozark Police Department,17 days 08:45:19.174484
 Ozaukee County Sheriff,0 days 20:00:00
 Pacific Community Police Station,29 days 00:48:21.464428
 Pacifica Police Department,21 days 09:40:50.023996250
 Painted Post Village Police Department,74 days 06:03:12.899553
-Palatine Police Department,1 days 19:58:35.574371
+Palatine Police Department,2 days 07:58:35.574371
 Palm Bay Police Department,146 days 01:49:57.252774
 Palm Beach Gardens Police Department,449 days 20:17:03.341885504
 Palm Beach Police Department,115 days 12:16:47.417286
@@ -1930,7 +1930,7 @@ Phoenixville Police Department,391 days 08:01:00.881428
 Piatt County Sheriff's Office,31 days 16:58:36.236489
 Pickens County Sheriff's Office,83 days 21:08:08.798098
 Piedmont Police Department,74 days 18:25:30.851109333
-Pierce County Sheriff's Department,115 days 01:57:23.530359144
+Pierce County Sheriff's Department,115 days 03:05:57.816073430
 Pierce County Sheriff's Office,15 days 21:55:07.056691
 Piermont Village Police Department,100 days 05:30:56.978116500
 Pike County Sheriff,1 days 20:00:00
@@ -1970,13 +1970,13 @@ Plymouth County Sheriff's Department,28 days 06:38:00.786786222
 Plymouth Police Department,43 days 10:49:48.573069
 Poinsett County Sheriff's Office,76 days 19:50:27.906139
 Pointe Coupee Parish Sheriff's Office,550 days 20:00:00
-Police,47 days 16:58:44.433749441
+Police,47 days 18:23:26.786690617
 Police - Manchester-by-the-sea,13 days 14:50:18.696991
 Police Board,22 days 12:46:13.614822333
-Police Department,27 days 15:34:45.174809745
+Police Department,27 days 16:05:23.472682085
 "Police Department - Beverly, MA",7 days 20:00:00
 Police Department Borough of Cliffside Park,307 days 03:28:13.026528
-Polk County Sheriff,144 days 12:32:25.986919294
+Polk County Sheriff,144 days 13:57:08.339860470
 Pomona Police Department,64 days 13:45:04.282889600
 Pompano Beach Police Department,13 days 08:00:00
 Pontotoc County Sheriff's Department,12 days 10:48:37.362171
@@ -1992,18 +1992,18 @@ Port Hueneme Police Department,22 days 20:30:28.356419
 Port Jervis City Police Department,22 days 05:04:43.265670
 Port Orchard Police Department,63 days 13:21:41.696947
 Port St. Lucie Police Department,21 days 18:05:37.438289500
-Port of Seattle Police Department,63 days 09:37:26.830889562
+Port of Seattle Police Department,63 days 11:07:26.830889562
 Portage Police Department,3 days 07:53:01.144876200
 Porter County Sheriff,6 days 20:00:00
 Porterdale Police Department,6 days 05:05:53.744194500
 Porterville Police Department,9 days 19:00:00
-Portland Police Bureau,221 days 16:40:39.613412912
-Portland Police Department,41 days 07:27:05.735927200
-Portsmouth Police Department,10 days 07:58:40.085081285
+Portland Police Bureau,221 days 17:15:46.930486084
+Portland Police Department,41 days 09:51:05.735927200
+Portsmouth Police Department,10 days 14:50:05.799367
 Potsdam Village Police Department,154 days 12:16:14.967446
 Pottawatomie County Sheriff,18 days 20:00:00
 Pottawattamie County Sheriff,8 days 20:00:00
-Poughkeepsie Police Department,97 days 18:17:28.017845500
+Poughkeepsie Police Department,107 days 06:17:28.017845500
 Pound Ridge Town Police Department,36 days 20:00:00
 Poweshiek County Sheriff's Office,544 days 10:10:39.431236
 Prairie Village Police Department,1 days 21:15:58.014761
@@ -2016,7 +2016,7 @@ Prince William County Police,15 days 00:30:37.890038666
 Prince William County Sheriff,19 days 20:00:00
 Princeton Police Department,22 days 14:33:06.144267
 Princeton Township Police Department,9 days 22:39:38.676771
-Providence Police Department,50 days 15:06:24.414925709
+Providence Police Department,50 days 15:52:51.511699903
 Provincetown Police Department,41 days 20:13:01.472998
 Provo Police Department,15 days 08:08:01.923011
 Prowers County Sheriff,6 days 20:48:43.024697
@@ -2062,20 +2062,20 @@ Renton Police Department,129 days 16:31:12.281572250
 Revere Police Department,493 days 21:48:38.494524456
 Rhinebeck Village Police Department,307 days 11:36:34.193825
 Rhode Island Capitol Police,8 days 21:06:50.327530
-Rhode Island Department of Public Safety,29 days 23:08:34.285714285
+Rhode Island Department of Public Safety,30 days 02:34:17.142857143
 Rhode Island State Police,28 days 02:13:27.329160500
 Rialto Police Department,216 days 17:36:34.096080668
 Richardson Police Department,6 days 18:12:31.629623
 Richland County Sheriff's Department,19 days 20:00:00
 Richland County Sheriff's Office,14 days 18:21:09.586868
-Richmond City Sheriff's Office,-1 days +20:00:00
-Richmond Police Department,48 days 11:35:35.929091583
+Richmond City Sheriff's Office,0 days 20:00:00
+Richmond Police Department,48 days 12:55:35.929091583
 Ridgecrest Police Department,58 days 16:30:42.165601
 Rindge Police Department,6 days 19:27:21.526053
 Ringgold Police Department,33 days 19:00:00
 Rio Blanco County Sheriff's Office,2 days 20:00:00
 Rio Dell Police Department,9 days 23:24:58.684625
-Rio Grande County Sheriff's Office,4 days 06:49:56.811844
+Rio Grande County Sheriff's Office,4 days 18:49:56.811844
 Rio Rancho Police Department,20 days 19:28:40.814513
 Ripon Police Department,13 days 08:44:24.221360
 River Forest Police Department,12 days 19:17:08.571428571
@@ -2109,7 +2109,7 @@ Rowlett Police Department,133 days 11:26:31.328897
 Roxbury Police Department,13 days 04:41:28.519937
 Royal Oak Police Department,20 days 20:00:00
 Rumson Police Department,1 days 11:15:35.023152
-Russell County Sheriff,11 days 19:20:00
+Russell County Sheriff,12 days 03:20:00
 Rutgers University Police Department,9 days 20:34:16.612310
 Rutherford County Sheriff,64 days 02:16:49.783505286
 Rye Brook Village Police Department,267 days 14:15:56.605707
@@ -2127,7 +2127,7 @@ Saint Albans Police Department,43 days 17:02:36.384562
 Saint Augustine Police Department,15 days 20:00:00
 Saint Charles County Sheriff,59 days 09:04:50.607540
 "Saint Clair Police Department, Saint Clair",37 days 23:26:00.420586
-Saint Paul Police Department,20 days 16:32:07.516348133
+Saint Paul Police Department,20 days 18:08:07.516348133
 Salamanca Police Department,70 days 07:01:38.587828
 Salem County Sheriff,21 days 08:17:29.606079
 Salem Police Department,58 days 18:20:50.731510859
@@ -2140,7 +2140,7 @@ Salt Lake City Police Department,143 days 17:08:13.284683900
 Salt Lake City Unified Police Department,17 days 20:00:00
 Salt Lake County Sheriff's Office,13 days 22:54:05.295038
 San Angelo Police Department,293 days 00:56:00
-San Antonio Police Department,54 days 11:16:09.997650543
+San Antonio Police Department,54 days 12:18:46.519389674
 San Benito County Sheriff,48 days 20:14:51.610323333
 San Bernardino County Sheriff,171 days 12:03:44.238177758
 San Bernardino Police Department,68 days 19:54:03.945288750
@@ -2150,13 +2150,13 @@ San Diego County Sheriff's Department,38 days 13:07:36.785411875
 San Diego Harbor Police Department,32 days 12:31:20.540748444
 San Diego Police Department,36 days 22:06:05.734984420
 San Francisco Police Commission,188 days 11:47:06.497706250
-San Francisco Police Department,73 days 16:46:13.280348174
+San Francisco Police Department,73 days 17:40:46.007620901
 San Francisco Sheriff's Department,174 days 15:01:02.149155820
 San Gabriel Police Department,18 days 14:37:18.447796
 San Joaquin County Sheriff's Office,49 days 13:43:05.305041800
-San Jose Police Department,73 days 02:13:00.936039933
+San Jose Police Department,73 days 03:49:00.936039933
 San Juan County Sheriff,7 days 20:00:00
-San Leandro Police Department,24 days 12:50:30.582673200
+San Leandro Police Department,24 days 17:38:30.582673200
 San Luis Obispo County Sheriff,70 days 04:30:32.778515
 San Marino Police Department,43 days 14:48:48.051541
 San Mateo County Sheriff’s Office,18 days 06:47:27.477083277
@@ -2170,7 +2170,7 @@ Sands Point Village Police Department,94 days 20:27:39.185530
 Sandusky Police Department,15 days 21:46:39.121671
 Sandwich Police Department,5 days 02:08:13.150829
 Sandy Springs Police Department,58 days 16:32:57.034679778
-Sangamon County Sheriff's Office,2 days 20:00:00
+Sangamon County Sheriff's Office,3 days 08:00:00
 Sangamon County Sheriff’s Office,21 days 14:17:42.834321
 Sanilac County Sheriff's Department,5 days 20:00:00
 Santa Ana Police Department,162 days 02:20:56.126761588
@@ -2215,7 +2215,7 @@ Scranton Police Department,14 days 00:12:12.988650
 Screven County Sheriffs Office,28 days 07:25:01.767708
 Seaford Police Department,53 days 20:00:00
 Seal Beach Police Department,65 days 18:02:55.922948667
-Seattle Police Department,117 days 11:50:36.771669956
+Seattle Police Department,117 days 11:59:33.417632688
 Sedgwick County Sheriff,65 days 21:17:07.397993
 Sedgwick County Sheriff's Office,41 days 07:45:50.107098
 Seekonk Police Department,3 days 07:51:36.952821
@@ -2288,7 +2288,7 @@ Solano County Sheriff,13 days 15:22:28.760226500
 Somers Town Police Department,341 days 06:37:35.271278
 Somerset County Sheriff,10 days 18:06:19.495940
 Somerset Police Department,61 days 20:00:00
-Somerville Police Department,83 days 10:17:07.500653093
+Somerville Police Department,83 days 10:50:36.802978675
 Sonoma County Sheriff's Office,19 days 09:57:10.046273500
 Souderton Police Department,80 days 20:00:00
 South Burlington Police Department,8 days 06:36:52.859664
@@ -2297,13 +2297,13 @@ South Fayette Township Police Department,1 days 20:00:00
 "South Fulton Police Department, South Fulton",38 days 03:03:30.799855
 South Gate Police Department,57 days 19:58:51.758148667
 South Jordan Police Department,8 days 06:20:26.552559666
-South Kingstown Police Department,1 days 08:00:00
+South Kingstown Police Department,1 days 20:00:00
 South Lake Tahoe Police Department,14 days 22:56:17.106901333
 South Miami Police Department,27 days 01:17:18.141055
 South Nyack-Grand View Village Police Department,437 days 19:46:14.280062
 South Portland Police Department,55 days 15:46:13.092414
 South San Francisco Police Department,12 days 10:10:42.807439
-Southampton Village Police Department,143 days 01:38:48.404526
+Southampton Village Police Department,143 days 13:38:48.404526
 Southborough Police Department,5 days 20:00:00
 Southbridge Police Department,1146 days 20:00:00
 Southern Chester County Regional Police Department,222 days 05:15:23.151670
@@ -2322,12 +2322,12 @@ Spartanburg County Sheriff,8 days 20:00:00
 Spearfish Police Department,7 days 23:47:03.463768500
 Spencer Village Police Department,84 days 05:21:43.296131
 Spokane County Sheriff's Office,93 days 06:48:27.197931948
-Spokane Police Department,134 days 07:48:07.518051640
+Spokane Police Department,134 days 08:45:43.518051640
 Spokane Valley Police Department,78 days 09:16:40.957573
 Spotswood Police Department,5 days 20:00:00
 Spotsylvania County Sheriff,7 days 07:30:00
-Springdale Police Department,124 days 03:40:00
-Springfield Police Department,107 days 06:22:07.768126230
+Springdale Police Department,124 days 11:40:00
+Springfield Police Department,107 days 06:59:03.152741614
 "Springfield, Oregon - Police Department",3 days 12:25:05.298565
 St Charles Parish Sheriff,24 days 15:00:00
 St Cloud Police Department,55 days 19:30:00
@@ -2336,8 +2336,8 @@ St John the Baptist Parish Sheriff's Office,17 days 20:00:00
 St Johns County Sheriff's Department,55 days 19:00:00
 St Johns County Sheriff's Office,19 days 19:00:00
 St Landry Parish Sheriff's Office,909 days 10:49:49.895094
-St Lucie County Sheriff's Office,-1 days +19:00:00
-St Martin Parish Sheriff's Office,-1 days +20:00:00
+St Lucie County Sheriff's Office,0 days 19:00:00
+St Martin Parish Sheriff's Office,0 days 20:00:00
 St Mary Parish Sheriff's Office,13 days 20:00:00
 St Michaels Police Department FOIA,422 days 09:48:53.418979
 St Paul Police Department,51 days 07:30:33.647018500
@@ -2350,15 +2350,15 @@ St. George Police Department,233 days 07:57:51.302350500
 St. Johns County Sheriff's Office,402 days 11:20:10.105471
 St. Johnsville Village Police Department,40 days 04:05:55.377696
 St. Lawrence County Sheriff,19 days 02:02:45.734660
-St. Louis County Police Department,35 days 09:29:20.250730823
+St. Louis County Police Department,35 days 09:57:34.368377882
 St. Louis County Sheriff,6 days 02:26:48.655425
 St. Louis Metropolitan Police Department,86 days 18:52:58.999583766
 "St. Louis Park Police Department, St. Louis Park",30 days 13:49:14.857421
 St. Marys County Sheriff,21 days 19:52:46.040312500
 St. Matthews Police Department,22 days 17:08:47.939927
-St. Petersburg Police Department,22 days 08:50:57.229899823
+St. Petersburg Police Department,22 days 11:40:21.935782176
 St. Regis Mohawk Tribal Police Department,28 days 07:44:15.492440
-Stafford County Sheriff's Office,5 days 11:40:00
+Stafford County Sheriff's Office,5 days 19:40:00
 Stallion Springs Police Department,21 days 18:01:48.775400
 Stamford Police Department,181 days 11:36:36.699740832
 "Stanford University Department Of Public Safety, Stanford",325 days 18:18:28.988432
@@ -2373,7 +2373,7 @@ Steuben County Sheriff's Office,7 days 22:04:30.664184500
 Stevens County Sheriff's Office,36 days 18:51:19.532017500
 Stewart County Sheriff's Office,86 days 21:11:11.843192
 Stockport Police Department,40 days 08:25:43.694860
-Stockton Police Department,70 days 09:30:19.792615916
+Stockton Police Department,70 days 10:30:19.792615916
 Stockton Unified School District Police Department,221 days 22:23:16.944675500
 Stone County Sheriff,5 days 20:00:00
 Stone County Sheriff's Office,1106 days 18:26:01.921392992
@@ -2387,7 +2387,7 @@ Sublette County Sheriff's Office,417 days 22:42:12.866411
 "Sudbury, Ma Police Department",108 days 15:12:18.047236
 Suffern Village Police Department,104 days 10:02:46.761596500
 Suffolk County Police Department,137 days 19:23:24.234286888
-Suffolk County Sheriff's Department,156 days 23:20:25.206882806
+Suffolk County Sheriff's Department,157 days 00:00:25.206882806
 Suffolk County Sheriff's Office,132 days 12:33:29.354378
 Suffolk University Police,267 days 20:00:00
 Sullivan County Sheriff,7 days 20:00:00
@@ -2417,7 +2417,7 @@ Tacoma Police Department,118 days 03:34:21.597864504
 Taft Police Department,6 days 23:37:31.340081500
 Taliaferro County Sheriff's Office,38 days 07:25:01.767708
 Tallahassee Police Department,127 days 05:59:12
-Tampa Police Department,163 days 05:50:53.457692998
+Tampa Police Department,163 days 08:01:48.003147544
 Taney County Sheriff,427 days 10:59:49.524682
 Tangipahoa Parish Sheriff's Office,11 days 20:00:00
 Tarpon Springs Police Department,74 days 20:00:00
@@ -2451,7 +2451,7 @@ Tigard Police Department,12 days 20:00:00
 Tioga County Sheriff,7 days 19:08:43.491232
 Tippah County Sheriff's Department,27 days 08:25:54.749240
 Titusville Police Department,24 days 09:14:24.520851
-Tiverton Police Department,4 days 02:00:00
+Tiverton Police Department,4 days 08:00:00
 Toledo Police Department,97 days 20:25:39.469325501
 Tom Green County Sheriff,6 days 20:00:00
 Tompkins County Sheriff Office,22 days 21:35:38.657753
@@ -2486,7 +2486,7 @@ Tulare County Sheriff,140 days 23:32:38.520010
 Tulare County Sheriff's Office,29 days 19:00:00
 Tulare Police Department,37 days 00:35:16.515082
 Tulsa County Sheriff,13 days 22:57:31.707705600
-Tulsa Police Department,102 days 10:21:51.682537550
+Tulsa Police Department,102 days 11:33:51.682537550
 Tunnel Hill Police Department,220 days 13:29:49.704477
 Tuolumne County Sheriff,31 days 19:13:27.503691333
 Turlock Police Department,29 days 04:38:51.089863333
@@ -2510,17 +2510,17 @@ UVM Police,3 days 19:09:49.674419
 Ukiah Police Department,13 days 08:21:18.281337
 Ulster County Sheriff,51 days 14:09:09.065516
 Ulster County Sheriffs Office,50 days 09:01:31.948754333
-Umatilla County Sheriff,-1 days +20:00:00
+Umatilla County Sheriff,0 days 20:00:00
 Union City Police Department,54 days 06:43:14.229709625
 Union County Sheriff,15 days 12:28:59.747485857
 Union County Sheriff's Department,34 days 14:38:07.774918
-Union County Sheriff's Office,11 days 13:59:33.021728666
+Union County Sheriff's Office,11 days 21:59:33.021728666
 Union County Sheriffs Office,31 days 21:05:01.364329
 Union Parish Police Jury,24 days 20:00:00
 Union Parish Sheriff's Office,14 days 20:00:00
 Union county sheriff's office,1 days 00:51:23.945814
 Uniontown Police Department,76 days 23:47:06.412720500
-United States Capitol Police,78 days 15:34:48.142120499
+United States Capitol Police,81 days 01:34:48.142120499
 University City Police Department,24 days 19:00:00
 University Of Connecticut Police Department,42 days 04:54:55.722054
 University Of New Mexico Police Department,15 days 23:27:23.957755
@@ -2537,7 +2537,7 @@ University of Colorado-Boulder Police Department,9 days 19:00:00
 University of Kansas Medical Center Police Department,17 days 19:00:00
 University of Kentucky Police Department,17 days 20:00:00
 University of Maryland Department of Public Safety,46 days 19:00:00
-"University of Massachusetts, Amherst Police Department",14 days 22:46:56.863022250
+"University of Massachusetts, Amherst Police Department",15 days 01:46:56.863022250
 University of New Hampshire Police Department,2 days 16:11:36.775682
 University of North Carolina at Charlotte Police & Public Safety,634 days 14:10:41.025489
 University of North Carolina at Greensboro Police Department,728 days 02:31:08.268025
@@ -2564,22 +2564,22 @@ Ventura County Sheriff's Department,67 days 08:09:42.277554923
 Ventura Police Department,153 days 00:45:19.597979750
 Vermilion County Sheriff,132 days 23:43:19.683622334
 Vermilion Parish Sheriff's Office,48 days 20:00:00
-Vermont State Police,47 days 21:26:19.433489567
+Vermont State Police,47 days 23:50:19.433489567
 Vernon Hills Police Department,6 days 10:30:48.807743
 Vernon Parish Sheriff's Office,847 days 15:50:39.988976992
 Verona Police Department,96 days 00:33:45.788015
 Vestal Town Police Department,383 days 06:58:19.900433
-Victoria County Sheriff,-1 days +20:00:00
+Victoria County Sheriff,0 days 20:00:00
 Victorville Police Department,614 days 23:47:57.947566
 Vigo County Sheriff,3 days 13:26:17.607120
 Vilas County Sheriff's Office,11 days 17:55:18.918485
 Villa Park Police Department,5 days 16:16:31.872780
 Village Police Department,3 days 20:00:00
 Vineland Police Department,22 days 16:00:00
-Virginia Beach Police Department,143 days 07:09:42.434826
+Virginia Beach Police Department,143 days 10:57:04.540089158
 Virginia Military Institute Police,2 days 09:56:25.172493750
-Virginia State Police,13 days 22:37:26.744323604
-Virginia Tech Police Department,2 days 03:40:00
+Virginia State Police,13 days 23:07:26.744323604
+Virginia Tech Police Department,2 days 11:40:00
 Visalia Police Department,288 days 05:24:12.198629664
 Volusia County Sheriff's Office,61 days 05:04:20.698379286
 Waco Police Department,183 days 12:26:28.670530500
@@ -2588,7 +2588,7 @@ Wahkiakum County Sheriff,8 days 09:56:10.207125
 Wake County Sheriff's Department,203 days 19:28:27.138509
 Wakefield Police Department,9 days 15:30:52.684742
 Walker County Sheriff's Office,23 days 23:13:14.546364
-Waller County Sheriff's Office,32 days 20:00:00
+Waller County Sheriff's Office,33 days 08:00:00
 Wallowa County Sheriff,58 days 20:00:00
 Walnut Creek Police Department,15 days 22:58:32.554796800
 Walpole Police Department,11 days 20:00:00
@@ -2604,19 +2604,19 @@ Ware Police Department,15 days 05:40:39.465665
 Wareham Police Department,37 days 06:18:33.698028857
 Warner Police Department,6 days 18:58:47.540714
 Warner Robins Police Department,19 days 01:22:12.754267500
-Warren County Sheriff,7 days 12:28:33.936598
+Warren County Sheriff,7 days 20:28:33.936598
 Warren County Sheriff's Office,50 days 08:33:26.467070
 Warren Police Department,19 days 00:21:59.297527111
 Warrenton Police Department,4 days 05:56:51.362969
 Warsaw Police Department,14 days 20:00:00
 Warsaw Village Police Department,53 days 00:16:11.135537
-Warwick Police Department,6 days 09:30:37.360427700
-Wasco County Sheriff,-1 days +20:00:00
+Warwick Police Department,6 days 11:54:37.360427700
+Wasco County Sheriff,0 days 20:00:00
 Washington Association of Sheriffs and Police Chiefs,14 days 20:00:00
 Washington County Police Department,0 days 17:57:48.983797
 Washington County Sheriff,118 days 00:03:10.744686554
 Washington County Sheriff's Department,25 days 07:30:00
-Washington County Sheriff's Office,52 days 11:55:05.055272900
+Washington County Sheriff's Office,52 days 14:19:05.055272900
 Washington Court House Police Department,49 days 08:00:00
 Washington Island Police Department,14 days 20:00:00
 Washington Parish Sheriff's Office,113 days 20:00:00
@@ -2676,7 +2676,7 @@ West Valley-Mission Community College District Police Department,13 days 02:47:2
 West Virginia Department of Military Affairs and Public Safety,6 days 19:00:00
 West Virginia Division of Protective Services (WV Capitol Police),37 days 19:09:35.677150
 West Virginia State Police,49 days 19:30:57.142471111
-West Warwick Police Department,9 days 20:00:00
+West Warwick Police Department,10 days 02:00:00
 West Wendover Police Department,30 days 11:37:32.562853
 Westchester County Sheriff,98 days 06:02:23.828167500
 Westerly Police Department,5 days 02:00:00
@@ -2704,7 +2704,7 @@ Whitman Police Department,14 days 20:16:25.050354
 Whittier Police Department,22 days 00:09:18.297201
 Wichita County Sheriff,0 days 20:00:00
 Wichita Falls Police Department,10 days 19:19:22.608482500
-Wichita Police Department,28 days 00:45:29.952211166
+Wichita Police Department,28 days 01:45:29.952211166
 Wilkes County Sheriff's Office,23 days 07:25:01.767708
 Wilkinson County Sheriff's Office,13 days 16:34:10.209486
 Williams Police Department,19 days 03:42:36.737665
@@ -2718,7 +2718,7 @@ Willits Police Department,71 days 18:51:05.563741
 Wilmette Police Department,143 days 10:51:39.605931500
 Wilmington Police Department,53 days 20:55:50.561509217
 "Wilshire Community Police Station, Wilshire Park",41 days 20:08:50.811958
-Wilson County Sheriff,138 days 09:43:35.895955400
+Wilson County Sheriff,138 days 14:31:35.895955400
 Wilton Police Department,11 days 19:00:00
 Winchester Police Department,173 days 00:19:19.273598500
 Windham Police Department,28 days 21:11:08.254929
@@ -2729,7 +2729,7 @@ Winnemucca Police Department,16 days 19:59:55.961455
 Winooski Police Department,33 days 04:47:21.808210
 Winston County Sheriff,5 days 20:00:00
 Winston County Sheriff's Office,21 days 19:00:00
-Winston-Salem Police Department,109 days 05:52:44.326365416
+Winston-Salem Police Department,109 days 07:52:44.326365416
 Winthrop Police Department,1084 days 14:38:00.357094
 Wiscasset Police Department,11 days 20:00:00
 Wise County Sheriff,27 days 21:51:23.127746
@@ -2752,7 +2752,7 @@ Worcester County Sheriff,464 days 03:36:08.648736
 Worcester County Sheriff's Office,14 days 12:47:06.842003500
 Worcester Police Department,31 days 04:10:35.294117647
 Worcester State University Police,14 days 14:21:03.917824
-Wright County Sheriff Office,-1 days +20:00:00
+Wright County Sheriff Office,0 days 20:00:00
 Wright Township Police Department,2 days 19:00:00
 Wyandotte County Sheriff,1140 days 18:20:11.302684992
 Wyoming County Sheriff's Department,21 days 22:54:06.235733
@@ -2778,7 +2778,7 @@ Ypsilanti Police Department,54 days 20:00:00
 Yreka Police Department,40 days 23:42:17.988252
 Yuba City Police Department,36 days 18:46:12.265515
 Yuba County Sheriff,8 days 20:00:00
-Yuma County Sheriff,4 days 01:54:10.465400
+Yuma County Sheriff,4 days 13:54:10.465400
 Yuma County Sheriff's Office,248 days 02:59:37.551832
 Yuma Police Department,109 days 07:08:19.337959666
 Zanesville Police Department,23 days 08:58:40.132203500

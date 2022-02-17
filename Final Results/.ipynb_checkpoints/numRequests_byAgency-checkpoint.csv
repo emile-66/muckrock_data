@@ -1,0 +1,3512 @@
+,Agency,Requests Received
+0,New York City Police Department,556
+1,Chicago Police Department,508
+2,Boston Police Department,369
+3,Seattle Police Department,326
+4,Massachusetts State Police,241
+5,Los Angeles Police Department,236
+6,San Francisco Police Department,189
+7,Metropolitan Police Department,171
+8,Philadelphia Police Department,155
+9,Los Angeles County Sheriff's Department,139
+10,Baltimore Police Department,134
+11,Texas Department of Public Safety,132
+12,Denver Police Department,124
+13,Portland Police Bureau,119
+14,Houston Police Department,111
+15,San Diego Police Department,101
+16,Austin Police Department,95
+17,Columbus Division of Police,95
+18,Detroit Police Department,95
+19,Atlanta Police Department,95
+20,Dallas Police Department,90
+21,Las Vegas Metropolitan Police Department,87
+22,St. Louis County Police Department,87
+23,Long Beach Police Department,86
+24,Illinois State Police,86
+25,Minneapolis Police Department,86
+26,Phoenix Police Department,83
+27,St. Louis Metropolitan Police Department,83
+28,New York State Police,82
+29,Oakland Police Department,81
+30,Cambridge Police Department,78
+31,Virginia State Police,76
+32,Orange County Sheriff's Office,75
+33,Oklahoma City Police Department,75
+34,Charlotte-Mecklenburg Police Department,75
+35,Miami Police Department,75
+36,Cleveland Police Department,73
+37,Police Department,73
+38,San Jose Police Department,73
+39,Indianapolis Metropolitan Police Department,72
+40,Milwaukee Police Department,72
+41,Pennsylvania State Police,71
+42,New Jersey State Police,69
+43,Fort Worth Police Department,68
+44,Department of Public Safety,66
+45,Springfield Police Department,64
+46,Michigan State Police,64
+47,Vermont State Police,63
+48,Sacramento Police Department,62
+49,Oregon State Police,62
+50,Albuquerque Police Department,62
+51,Miami-Dade County Police,61
+52,San Antonio Police Department,61
+53,Buffalo Police Department,60
+54,Maryland State Police,60
+55,Kansas City Police Department,59
+56,New Orleans Police Department,59
+57,Connecticut State Police,58
+58,Evanston Police Department,56
+59,Tampa Police Department,55
+60,Delaware State Police,55
+61,Cook County Sheriff,54
+62,Richmond Police Department,54
+63,Indiana State Police,54
+64,El Paso Police Department,54
+65,Newark Police Department,54
+66,Somerville Police Department,54
+67,Baltimore County Police Department,54
+68,Metropolitan Nashville Police Department,53
+69,New Hampshire State Police,53
+70,Tucson Police Department,53
+71,Suffolk County Sheriff's Department,52
+72,Memphis Police Department,52
+73,Fairfax County Police Department,51
+74,San Bernardino County Sheriff,51
+75,Louisville Metro Police,51
+76,Charlottesville Police Department,50
+77,Broward County Sheriff,50
+78,New Mexico State Police,49
+79,Honolulu Police Department,49
+80,Rhode Island State Police,48
+81,Fresno Police Department,48
+82,Police,48
+83,Cincinnati Police Department,48
+84,West Virginia State Police,48
+85,Tacoma Police Department,47
+86,Kentucky State Police,47
+87,Maine State Police,47
+88,Montgomery County Police Department,47
+89,Raleigh Police Department,45
+90,Worcester Police Department,45
+91,Idaho State Police,44
+92,Reno Police Department,44
+93,Louisiana State Police,44
+94,Jacksonville Sheriff's Office,43
+95,Orlando Police Department,43
+96,Ferguson Police Department,42
+97,Spokane Police Department,41
+98,Omaha Police Department,40
+99,Prince George's County Police Department,38
+100,Sheriff's Office,38
+101,Durham Police Department,37
+102,King County Sheriff's Office,37
+103,Hawaii Department of Public Safety,37
+104,Harris County Sheriff,36
+105,Madison Police Department,36
+106,Bakersfield Police Department,36
+107,Pittsburgh Bureau of Police,36
+108,Providence Police Department,35
+109,North Carolina Department of Public Safety,35
+110,Sacramento County Sheriff,35
+111,Wilmington Police Department,35
+112,Nassau County Police Department,34
+113,Mesa Police Department,34
+114,Lowell Police Department,34
+115,Salem Police Department,34
+116,Arlington Police Department,34
+117,Chicago Office Of Police Accountability,33
+118,Wichita Police Department,32
+119,Multnomah County Sheriff's Office,32
+120,Salt Lake City Police Department,31
+121,Brookline Police Department,31
+122,Executive Office of Public Safety and Security,30
+123,Alameda County Sheriff's Office,30
+124,Lee County Sheriff's Office,30
+125,Maricopa County Sheriff,30
+126,Chapel Hill Police Department,29
+127,Burlington Police Department,29
+128,Riverside County Sheriff,29
+129,San Diego County Sheriff,29
+130,Greensboro Police Department,29
+131,Virginia Beach Police Department,29
+132,Concord Police Department,29
+133,Iowa Department of Public Safety,29
+134,Palo Alto Police Department,29
+135,Office of the Sheriff - Contra Costa County,28
+136,Bellevue Police Department,28
+137,Ventura County Sheriff's Department,28
+138,Baton Rouge Police Department,28
+139,Port Orchard Police Department,28
+140,Birmingham Police Department,27
+141,Stockton Police Department,27
+142,Pierce County Sheriff's Department,27
+143,Irvine Police Department,27
+144,Oxnard Police Department,27
+145,Quincy Police Department,27
+146,Hartford Police Department,27
+147,Berkeley Police Department,27
+148,Toledo Police Department,26
+149,Department of Public Safety and Correctional Services,26
+150,Topeka Police Department,26
+151,Lynn Police Department,26
+152,Lawrence Police Department,26
+153,Georgia Department of Public Safety,25
+154,Polk County Sheriff,25
+155,Columbia Police Department,25
+156,Spokane County Sheriff's Office,25
+157,Marin County Sheriff,25
+158,DeKalb County Police Department,24
+159,Hennepin County Sheriff,24
+160,Tulsa Police Department,24
+161,Scottsdale Police Department,24
+162,Lincoln Police Department,24
+163,Chula Vista Police Department,24
+164,Amherst Police Department,24
+165,Aurora Police Department,24
+166,Plano Police Department,23
+167,Monroe County Sheriff,23
+168,San Mateo County Sheriff’s Office,23
+169,Kern County Sheriff's Office,23
+170,Jefferson County Sheriff,23
+171,Rochester Police Department,23
+172,Chandler Police Department,23
+173,Colorado Springs Police Department,23
+174,Glendale Police Department,23
+175,San Diego County Sheriff's Department,23
+176,Jacksonville Police Department,23
+177,Boulder Police Department,22
+178,Bristol County Sheriff's Office,22
+179,Saint Paul Police Department,22
+180,Washington County Sheriff's Office,22
+181,Morton County Sheriff,22
+182,Anaheim Police Department,22
+183,Essex County Sheriff,21
+184,Fall River Police Department,21
+185,MBTA Transit Police,21
+186,Gainesville Police Department,21
+187,City of Albany Police Department,21
+188,Alexandria Police Department,21
+189,Fremont Police Department,21
+190,New Bedford Police Department,21
+191,Brockton Police Department,21
+192,Fresno County Sheriff's Office,20
+193,St. Petersburg Police Department,20
+194,New Castle County Police Department,20
+195,Little Rock Police Department,20
+196,Arlington County Police Department,20
+197,Norfolk Police Department,20
+198,Lubbock Police Department,20
+199,Newton Police Department,20
+200,Revere Police Department,20
+201,Everett Police Department,20
+202,Kennewick Police,20
+203,Winston-Salem Police Department,19
+204,Jefferson County Sheriff's Department,19
+205,Office of the Sheriff,19
+206,Boise Police Department,19
+207,Kansas City Kansas Police Department,19
+208,Santa Ana Police Department,19
+209,Fort Wayne Police,19
+210,Franklin County Sheriff's Office,19
+211,Lake County Sheriff's Office,19
+212,Erie County Sheriff's Office,19
+213,Ohio Department of Public Safety,19
+214,Missouri Department of Public Safety,18
+215,Brevard County Sheriff,18
+216,Auburn Police Department,18
+217,Watertown Police Department,18
+218,Franklin Police Department,18
+219,Oakland County Sheriff's Office,18
+220,Corpus Christi Police Department,18
+221,Olympia Police Department,18
+222,Anchorage Police Department,18
+223,Lewisville Police Department,18
+224,Modesto Police Department,18
+225,City of Fort Lauderdale Police Department,18
+226,Pasadena Police Department,18
+227,Hillsborough County Sheriff,18
+228,Oklahoma Department of Public Safety,18
+229,Syracuse Police Department,17
+230,Vallejo Police Department,17
+231,Des Moines Police Department,17
+232,"Carlsbad, CA Police Department",17
+233,Niles Police Department Illinois,17
+234,Plymouth Police Department,17
+235,Taunton Police Department,17
+236,Pittsfield Police Department,17
+237,Nevada Department of Public Safety,17
+238,Imperial County Sheriff's Office,17
+239,Charleston Police Department,17
+240,Medford Police Department,17
+241,Barnstable County Sheriff's Office,17
+242,New Haven Police Department,17
+243,Portland Police Department,17
+244,North Charleston Police Department,17
+245,Independent Police Review Authority,16
+246,Milton Police Department,16
+247,San Francisco Sheriff's Department,16
+248,Irving Police Department,16
+249,Gwinnett County Police Department,16
+250,Chesapeake City Police Department,16
+251,Utah Department of Public Safety,16
+252,Laredo Police Department,16
+253,Natick Police Department,16
+254,Bloomington Police Department,16
+255,Torrance Police Department,16
+256,Suffolk County Police Department,16
+257,Mississippi Department of Public Safety,16
+258,Riverside Police Department,16
+259,Port of Seattle Police Department,16
+260,Arkansas State Police,16
+261,Tempe Police Department,16
+262,Alabama Department of Public Safety,16
+263,Anne Arundel County Police Department,15
+264,Santa Clara County Sheriff,15
+265,Grand Prairie Police Department,15
+266,Northampton Police Department,15
+267,Santa Clara Police Department,15
+268,Washington County Sheriff,15
+269,Washoe County Sheriffs Office,15
+270,Hayward Police Department,15
+271,Jackson Police Department,15
+272,Fairfield Police Department,15
+273,San Bernardino Police Department,15
+274,Ventura Police Department,15
+275,Haverhill Police Department,14
+276,Bellingham Police Department,14
+277,Pinellas County Sheriff's Office,14
+278,Montgomery Police Department,14
+279,Braintree Police Department,14
+280,Pima County Sheriff,14
+281,Kent Police Department,14
+282,Santa Monica Police Department,14
+283,Fayetteville Police Department,14
+284,Lafayette Police Department,14
+285,Sheriff,14
+286,Lakewood Police Department,14
+287,Waco Police Department,14
+288,Plymouth County Sheriff's Department,14
+289,South Dakota Department of Public Safety,14
+290,Henderson Police Department,14
+291,Asheville Police Department,14
+292,Orange Police Department,14
+293,Howard County Police Department,13
+294,Middletown Police Department,13
+295,Frisco Police Department,13
+296,Greenville Police Department,13
+297,Hialeah Police Department,13
+298,City of Santa Barbara Police Department,13
+299,Alaska Department of Public Safety,13
+300,Mckee Kentucky Sheriff's Department,13
+301,Peoria Police Department,13
+302,Oceanside CA Police Department,13
+303,Gilbert Police Department,13
+304,Garland Texas Police Department,13
+305,Reading Police Department,13
+306,City of North Las Vegas Police Department,13
+307,Framingham Police Department,13
+308,Skokie Police Department,13
+309,Cresskill Police Department,13
+310,Ramsey County Sheriff's Department,13
+311,Norfolk County Sheriff's Office,13
+312,Jackson County Sheriff's Office,13
+313,"University of California, Berkeley Police Department",13
+314,Kenosha Police Department,12
+315,Santa Rosa Police Department,12
+316,Milwaukee County Sheriff,12
+317,Redlands Police Department,12
+318,Savannah-Chatham Metropolitan Police Department,12
+319,Fitchburg Police Department,12
+320,Fontana Police Department,12
+321,McKinney Police Department,12
+322,Santa Cruz Police Department,12
+323,Cumberland County Sheriff's Office,12
+324,Jersey City Police Department,12
+325,Central Falls Police Department,12
+326,Palm Beach Sheriff's Office,12
+327,Mount Prospect Police Department,12
+328,Malden Police Department,12
+329,Wareham Police Department,12
+330,Clovis Police Department,12
+331,Citrus Heights Police Department,12
+332,Frederick County Sheriff's Office,12
+333,Park Ridge Police Department,12
+334,Green Bay Police Department,12
+335,Loudoun County Sheriff's Office,12
+336,Chelsea Police Department,12
+337,Ontario Police Department,12
+338,Morgan County Sheriff's Office,12
+339,Wakefield Police Department,11
+340,Warren Police Department,11
+341,Miami Beach Police Department,11
+342,Escondido Police Department,11
+343,Sparks Police Department,11
+344,San Diego Harbor Police Department,11
+345,Collier County Sheriff's Office,11
+346,Milford Police Department,11
+347,Seminole County Sheriff,11
+348,Knoxville Police Department,11
+349,Montgomery County Sheriff's Office,11
+350,Sarasota Police Department,11
+351,Sarasota County Sheriff's Office,11
+352,East Providence Police Department,11
+353,Middlesex County Sheriff's Office,11
+354,Redwood City Police Department,11
+355,Massachusetts Environmental Police,11
+356,Louisville Metro Police Department,11
+357,Tewksbury Police Department,11
+358,Tallahassee Police Department,11
+359,Roseville Police Department,11
+360,Peabody Police Department,11
+361,Lansing Police Department,11
+362,Pawtucket Police Department,11
+363,Bridgeport Police Department,11
+364,Fargo Police Department,11
+365,Pleasanton Police Department,11
+366,Sandy Springs Police Department,11
+367,Manchester Police Department,11
+368,Cary Police Department,11
+369,Bismarck Police Department,11
+370,Clearwater Police Department,10
+371,Hennepin County Sheriff's Office,10
+372,Warwick Police Department,10
+373,Santa Barbara County Sheriff's Office,10
+374,Huntsville Police Department,10
+375,Abington Police Department,10
+376,Vacaville Police Department,10
+377,Barnstable Police Department,10
+378,Rhode Island Department of Public Safety,10
+379,El Dorado County Sheriff's Office,10
+380,Chattanooga Police Department,10
+381,Clackamas County Sheriff's Office,10
+382,Killeen Police Department,10
+383,Wayne County Sheriff,10
+384,Troy Police Department,10
+385,Vancouver Police Department,10
+386,McLennan County Sheriff,10
+387,Alamance County Sheriff,10
+388,West Palm Beach Police Department,10
+389,Volusia County Sheriff's Office,10
+390,Henderson Police,10
+391,McAllen Police Department,10
+392,New Hanover County Sheriff's Office,10
+393,Escambia County Sheriff's Office,10
+394,Mountain View Police Department,10
+395,Montgomery County Sheriff,10
+396,Huntington Beach Police Department,10
+397,Garden Grove Police Department,10
+398,Lexington Division of Police,10
+399,Harris County Sheriff's Office,10
+400,Simi Valley Police Department,10
+401,Marlborough Police Department,10
+402,Merced County Sheriff's Department,9
+403,Santa Fe Police Department,9
+404,Williamson County Sheriff,9
+405,Jefferson Parish Sheriff,9
+406,Corona Police Department,9
+407,Evansville Police Department,9
+408,Cranston Police Department,9
+409,Metropolitan Transit Authority Police,9
+410,Naperville Police Department,9
+411,City of Fort Collins Police Department,9
+412,Gastonia Police Department,9
+413,"University of Massachusetts, Amherst Police Department",9
+414,Adams County Sheriff's Office,9
+415,Union County Sheriff,9
+416,Elgin Police Department,9
+417,Ashland Police Department,9
+418,Elk Grove Police Department,9
+419,UNC-Chapel Hill Department of Public Safety,9
+420,Dearborn Police Department,9
+421,Akron Police Department,9
+422,Lewis County Sheriff's Department,9
+423,Boulder County Sheriff's Office,9
+424,"Montgomery County, TX Sheriff",9
+425,Mobile Police Department,9
+426,Utica Police Department,9
+427,Roswell Police Department,9
+428,Pinal County Sheriff's Office,9
+429,Shasta County Sheriff,9
+430,Danvers Police Department,9
+431,Philadelphia Sheriff's Office,9
+432,Dedham Police Department,9
+433,Clark County Sheriff's Office,9
+434,Portsmouth Police Department,9
+435,Travis County Sheriff's Department,9
+436,San Mateo Police Department,9
+437,Sioux Falls Police Department,9
+438,Ithaca Police Department,9
+439,Des Plaines Police Department,9
+440,Walnut Creek Police Department,9
+441,Sonoma County Sheriff's Office,9
+442,Sacramento County Sheriff's Department,9
+443,St Paul Police Department,9
+444,El Paso County Sheriff,9
+445,Midland Police Department,9
+446,Novato Police Department,9
+447,Provo Police Department,9
+448,Sunrise Police Department,8
+449,Round Rock Police Department,8
+450,Hidalgo County Sheriff's Office,8
+451,Salinas Police Department,8
+452,Rockford Police Department,8
+453,Beaverton Police Department,8
+454,High Point Police Department,8
+455,Stamford Police Department,8
+456,Hays County Sheriff's Office,8
+457,Mendocino County Sheriff's Department,8
+458,Beacon City Police Department,8
+459,Norwood Police Department,8
+460,Burbank Police Department,8
+461,North Providence Police Department,8
+462,Binghamton Police Department,8
+463,North Andover Police Department,8
+464,Cherokee County Sheriff's Office,8
+465,Norman Police Department,8
+466,Niagara County Sheriff,8
+467,Chico Police Department,8
+468,Fairfax County Sheriff,8
+469,New Mexico Department of Public Safety,8
+470,West Springfield Police Department,8
+471,Dover Police Department,8
+472,Nantucket Police Department,8
+473,Clark County Sheriff's Department,8
+474,Fullerton Police Department,8
+475,Williamson County Sheriffs Office,8
+476,Clay County Sheriff's Office,8
+477,Monterey County Sheriff’s Office,8
+478,Minnesota Department of Public Safety,8
+479,Cobb County Police Department,8
+480,Middleton Police Department,8
+481,Snohomish County Sheriff's Office,8
+482,Merced Police Department,8
+483,Antioch California Police Department,8
+484,Anoka County Sheriff's Office,8
+485,Leicester Police Department,8
+486,Boston University Police,8
+487,Rapid City Police Department,8
+488,Brentwood Police Department,8
+489,Scituate Police Department,8
+490,Lake County Sheriff,8
+491,Lakeland Police Department,8
+492,Hollywood Police Department,8
+493,Union City Police Department,8
+494,Canton Police Department,8
+495,Las Cruces Police Department,8
+496,Appleton Police Department,8
+497,San Joaquin County Sheriff's Office,8
+498,Olathe Police Department,8
+499,Sheriff's Department,8
+500,Virginia Department of Public Safety,8
+501,Hopkinton Police Department,8
+502,Livermore Police Department,8
+503,Beverly Hills Police Department,8
+504,Bibb County Sheriff's Office,7
+505,Santa Rosa County Sheriff's Office,7
+506,Duluth Police Department,7
+507,Sausalito Police Department,7
+508,Douglas County Sheriffs Office (NV),7
+509,South Bend Police Department,7
+510,Shreveport Police Department,7
+511,Boca Raton Police Department,7
+512,Bexar County Sheriff's Office,7
+513,Seal Beach Police Department,7
+514,Downey Police Department,7
+515,Southbridge Police Department,7
+516,Douglas County Sheriff,7
+517,East Baton Rouge Parish Sheriff's Office,7
+518,Shrewsbury Police Department,7
+519,Independence Police Department,7
+520,Humboldt County Sheriff's Office,7
+521,Jefferson County Sheriffs Office,7
+522,Lowndes County Sheriff's Office,7
+523,Laramie County Sheriff,7
+524,Dayton Police Department,7
+525,Greenville County Sheriff's Department,7
+526,Carson City Sheriff’s Department,7
+527,Overland Park Police Department,7
+528,Grand Rapids Police Department,7
+529,Vineland Police Department,7
+530,Culver City Police Department,7
+531,Wake County Sheriff's Department,7
+532,Ogden City Police Department,7
+533,Gloucester Police Department,7
+534,Charles County Sheriff's Office,7
+535,Eugene Police Department,7
+536,Norwalk Police Department,7
+537,Niagara Falls Police Department,7
+538,Pomona Police Department,7
+539,West Covina Police Department,7
+540,Gary Police Department,7
+541,Westminster Police Department,7
+542,Manalapan Police Department,7
+543,Alameda Police Department,7
+544,Federal Way Police Department.,7
+545,Woodbridge Police Department,7
+546,Foxborough Police Department,7
+547,Yakima Police Department,7
+548,Fort Myers Police Department,7
+549,Yonkers Police Department,7
+550,Mill Valley Police Department,7
+551,Miami Gardens Police Department,7
+552,Mesquite Police Department,7
+553,Tustin Police Department,7
+554,Enfield Police Department,7
+555,Hawthorne Police Department,7
+556,Renton Police Department,7
+557,Kitsap County Sheriff's Office,7
+558,Harvard University Police,7
+559,Department Of Police Accountability,7
+560,Pulaski County Sheriff,7
+561,River Forest Police Department,7
+562,Kauai Police Department,7
+563,Beaumont Police Department,7
+564,Denver County Sheriff,7
+565,Hammond Police Department,7
+566,Rutherford County Sheriff,7
+567,"La Mesa, CA Police Department",7
+568,Rialto Police Department,7
+569,Johnson County Sheriff's Office,7
+570,Richardson Police Department,7
+571,Port St. Lucie Police Department,7
+572,Belmont Police Department,7
+573,Madison County Sheriff's Office,6
+574,Coventry Police Department,6
+575,Santa Cruz County Sheriff's Office,6
+576,Newport News Police,6
+577,Chelmsford Police Department,6
+578,Port Chester Police Department,6
+579,Coral Springs Police Department,6
+580,Keene Police Department,6
+581,Manatee County Sheriff's Office,6
+582,Denton Police Department,6
+583,Coral Gables Police Department,6
+584,Morton Grove Police Department,6
+585,Clifton Police Department,6
+586,Rome Police Department,6
+587,Joliet Police Department,6
+588,Columbia County Sheriff's Office,6
+589,Salt Lake County Sheriff's Office,6
+590,San Luis Obispo County Sheriff,6
+591,Smithfield Police Department,6
+592,North Little Rock Police Department,6
+593,Oak Park Police Department,6
+594,Longmeadow Police Department,6
+595,Daly City Police Department,6
+596,Lafourche Parish Sheriff's Office,6
+597,Poughkeepsie Police Department,6
+598,Lane County Sheriff's Office,6
+599,Placerville Police Department,6
+600,Placer County Sheriff,6
+601,Calhoun County Sheriff's Office,6
+602,Kootenai County Sheriff,6
+603,Danville Police Department,6
+604,Solano County Sheriff,6
+605,Pasco Police Department,6
+606,Dane County Sheriff,6
+607,Jackson County Sheriff,6
+608,San Francisco Police Commission,6
+609,Charlotte County Sheriff's Office,6
+610,Palm Beach Police Department,6
+611,Palm Beach Gardens Police Department,6
+612,Oxford Police Department,6
+613,Shelby County Sheriff,6
+614,Lincoln County Sheriff's Office,6
+615,Osceola County Sheriff's Department,6
+616,Cecil County Sheriff's Office,6
+617,Cumberland Police Department,6
+618,Redding Police Department,6
+619,Burrillville Police Department,6
+620,Redondo Beach Police Department,6
+621,Brazoria County Sheriff's Office,6
+622,Carroll County Sheriffs Office,6
+623,San Leandro Police Department,6
+624,Emeryville Police Department,6
+625,Tyler Police Department,6
+626,Tuscaloosa Police Department,6
+627,Arvada Police Department,6
+628,Flint Police Dept.,6
+629,Trumbull Police Department,6
+630,Glenview Police Department Illinois,6
+631,El Monte Police Department,6
+632,"Glendora, CA Police Department",6
+633,Ann Arbor Police Department,6
+634,Forsyth County Sheriff's Office,6
+635,Springdale Police Department,6
+636,Benton County Sheriff's Office,6
+637,Tiburon Police Department,6
+638,Fort Bend County Sheriff's Office,6
+639,Thurston County Sheriff,6
+640,Thornton Police Department,6
+641,Texas Department Of Public Safety,6
+642,Amarillo Police Department,6
+643,Airport Police Department,6
+644,Worcester County Sheriff's Office,6
+645,Allegheny County Sheriff's Office,6
+646,Allegheny County Police Department,6
+647,Surprise Police Department,6
+648,Hernando County Sheriff's Department,6
+649,Bergen County Police Department,6
+650,State College Area Police Department,6
+651,Stark County Sheriff,6
+652,Stanislaus County Sheriff's Department,6
+653,South San Francisco Police Department,6
+654,Frederick Police Department,6
+655,BART Police,6
+656,police department,6
+657,Atlantic City Police Department,6
+658,University of Washington Police,6
+659,Florence Police Department,6
+660,Grand Forks Police Department,6
+661,Hudson Police Department,6
+662,Blacksburg Police Department,6
+663,Westerly Police Department,5
+664,Brookhaven Police Department,5
+665,Johnston Police Department,5
+666,Corning Police Department,5
+667,Pembroke Pines Police Department,5
+668,Jones County Sheriff's Office,5
+669,Nevada County Sheriff,5
+670,"Department of Public Safety, Architectural Access Board",5
+671,Plumas County Sheriff,5
+672,Brownsville Police Department,5
+673,Carrollton Police Department,5
+674,Gardena Police Department,5
+675,City Of Allen Police Department,5
+676,Jupiter Police Department,5
+677,Citrus County Sheriff's Office,5
+678,West Virginia Division of Protective Services (WV Capitol Police),5
+679,West Valley Police Department,5
+680,West Sacramento Police Department,5
+681,Palos Verdes Estates Police Department,5
+682,Gaston County Sheriff,5
+683,City of San Luis Obispo Police Department,5
+684,Nantucket County Sheriff’s Department,5
+685,Falls Church Police Department,5
+686,White Plains Department of Public Safety,5
+687,Hingham Police Department,5
+688,Jamestown Police Department,5
+689,Winchester Police Department,5
+690,Greene County Sheriff,5
+691,Pearland Police Department,5
+692,Wilson County Sheriff,5
+693,Mariposa County Sheriff,5
+694,Clayton County Police Department,5
+695,Marietta Police Department,5
+696,Clarksville Police Department,5
+697,Williamsburg Police Department,5
+698,Bristol Police Department,5
+699,Claremont Police Department,5
+700,San Benito County Sheriff,5
+701,Carroll County Sheriff,5
+702,Mansfield Police Department,5
+703,Munster Police Department,5
+704,Murrieta Police Department,5
+705,Sumter County Sheriff's Office,5
+706,Fulton County Sheriff's Office,5
+707,Buena Park Police Department,5
+708,Hawaii Police Department,5
+709,Petaluma Police Department,5
+710,Madison County Sheriff's Department,5
+711,North Palm Beach Police Department,5
+712,Los Angeles School Police Department,5
+713,Washington County Sheriff's Department,5
+714,Lincoln County Sheriff's Department,5
+715,Glenn County Sheriff,5
+716,Trenton Police Department,5
+717,Hamilton County Sheriff's Office,5
+718,Prince William County Police,5
+719,Hamilton County Sheriff,5
+720,Placentia Police Department,5
+721,Champaign Police Department,5
+722,Logan County Sheriff's Office,5
+723,Portage Police Department,5
+724,Tulare County Sheriff,5
+725,Lockport City Police Department,5
+726,Tulsa County Sheriff,5
+727,Okaloosa County Sheriffs Office,5
+728,Walton County Sheriff's Office,5
+729,Oklahoma County Sheriff,5
+730,Camden Police Department,5
+731,Guilford County Sheriff's Office,5
+732,Cedar Rapids Police Department,5
+733,Lexington Police Department,5
+734,North Miami Police Department,5
+735,Plattsburgh Police Department,5
+736,Pike County Sheriff's Office,5
+737,West Fargo Police Department,5
+738,Chino Police Department,5
+739,Newport Police Department,5
+740,Leon County Sheriff Department,5
+741,Harrisburg Police Department,5
+742,Kent County Sheriff,5
+743,Covina Police Department,5
+744,Grays Harbor County Sheriff's Office,5
+745,Palm Bay Police Department,5
+746,Leon County Sheriff's Office,5
+747,Davie Police Department,5
+748,Lumberton Police Department,5
+749,Coweta County Sheriff's Office,5
+750,Chesterfield Police Department,5
+751,Redwood Police Department,5
+752,Larimer County Sheriff,5
+753,North Attleboro Police Department,5
+754,Tonawanda Town Police Department,5
+755,North Kingstown Police Department,5
+756,Butte County Sheriff,5
+757,El Cajon Police Department,5
+758,Tiverton Police Department,5
+759,"Office of the Attorney General, Department of Law and Public Safety",5
+760,Taylor County Sheriff's Office,5
+761,Franklin County Sheriff,5
+762,York City Police Department,5
+763,Miramar Police Department,5
+764,Cochise County Sheriff's Office,5
+765,Hudson County Sheriff's Department,5
+766,Collin County Sheriff's Office,5
+767,Huntington Police Department,5
+768,South Lake Tahoe Police Department,5
+769,"Mesa County, CO Sheriff",5
+770,Woonsocket Police Department,5
+771,Schuyler County Sheriff's Office,5
+772,Monroe County Sheriff's Office,5
+773,Aberdeen Police Department,5
+774,Maui Police Department,5
+775,Midland County Sheriff,5
+776,Alachua County Sheriff,5
+777,Flagler County Sheriff's Office,5
+778,Douglas County Sheriff's Office,5
+779,Houston County Sheriff,5
+780,East Greenwich Police Department,5
+781,Bethel Park Police Department,5
+782,Inglewood Police Department,5
+783,St Charles Parish Sheriff,5
+784,Columbia County Sheriff,5
+785,Snoqualmie Police Department,5
+786,Fayette County Sheriff,5
+787,St Michaels Police Department FOIA,5
+788,Smyrna Police Department,5
+789,Mercer County Sheriff,5
+790,Santa Maria Police Department,5
+791,Dickson County Sheriff's Office,5
+792,Mohave County Sheriff's Office,5
+793,Modoc County Sheriff,5
+794,Albemarle County Police Department,5
+795,Southampton Village Police Department,5
+796,Glocester Police Department,4
+797,Duval County Sheriff,4
+798,Warren County Sheriff's Office,4
+799,Lacey Police Department,4
+800,Durham County Sheriff's Office,4
+801,Calcasieu Parish Sheriff's Office,4
+802,Charleston County Sheriff's Office,4
+803,Trinity County Sheriff,4
+804,Lombard Police Department,4
+805,Lodi Police Department,4
+806,Ocala Police Department,4
+807,La Habra Police Department,4
+808,Oconee County Sheriff's Office,4
+809,Bangor Police Department,4
+810,Calhoun County Sheriff's Department,4
+811,Hampden County Sheriff's Office,4
+812,Arcadia Police Department,4
+813,Ada County Sheriff's Office,4
+814,Edinburg Police Department,4
+815,Weber County Sheriff's Office,4
+816,Webb County Sheriff,4
+817,Bethlehem Police Department,4
+818,Waxahachie Police Department,4
+819,Waukegan Police Department,4
+820,Shawnee County Sheriff's Department,4
+821,Bartlett Police Department,4
+822,Randolph Police Department,4
+823,Adair County Sheriff 's Department,4
+824,Spencer Village Police Department,4
+825,Stafford County Sheriff's Office,4
+826,Kings County Sheriff,4
+827,North Smithfield Police Department,4
+828,Washoe County Sheriff,4
+829,Creve Coeur Police Department,4
+830,Indian River County Sheriff's Department,4
+831,Eureka Police Department,4
+832,Spearfish Police Department,4
+833,Hampshire County Sheriff,4
+834,Midlothian Police Department TX,4
+835,Colorado Department of Public Safety,4
+836,Pueblo County Sheriff's Office,4
+837,Charlestown Police Department,4
+838,Mecklenburg County Sheriff's Office,4
+839,Southern Chester County Regional Police Department,4
+840,Goodyear Police Department,4
+841,Del Norte County Sheriff's Office,4
+842,Danbury Police Department,4
+843,Cass County Sheriff's Office,4
+844,Siskiyou County Sheriff,4
+845,Pacifica Police Department,4
+846,"Dallas, TX Police Department",4
+847,DuPage County Sheriff,4
+848,Lassen County Sheriff's Department,4
+849,Palm Springs Police Department,4
+850,Valdosta Police Department,4
+851,College Station Police Department,4
+852,Uxbridge Police Department,4
+853,Pershing County Sheriff's Office,4
+854,Lawton Police Department,4
+855,Peoria County Sheriff,4
+856,Ventura County Sheriff,4
+857,Bloomfield Police Department,4
+858,Attleboro Police Department,4
+859,Pennington County Sheriff's Office,4
+860,Lee County Sheriff,4
+861,College Park Police Department,4
+862,Greenfield Police Department,4
+863,Mercer County Sheriff's Office,4
+864,Hull Police Department,4
+865,police,4
+866,Greene County sheriffs Office,4
+867,Passaic County Sheriff,4
+868,Paterson Police Department,4
+869,Lewis County Sheriff's Office,4
+870,"Pima County Sheriff's Department, Tuscon",4
+871,Yuma Police Department,4
+872,Virginia Military Institute Police,4
+873,Pompano Beach Police Department,4
+874,Hagerstown Police Department,4
+875,Douglasville Police Department,4
+876,Baldwin Park Police Department,4
+877,Iowa City Police Department,4
+878,Melbourne Police Department,4
+879,Oneida County Sheriff,4
+880,Little Compton Police Department,4
+881,Erie Police Department,4
+882,Gwinnett County Sheriff,4
+883,Sierra County Sheriff's Office,4
+884,Decatur Police Department,4
+885,Orange County Sheriff,4
+886,Cuyahoga County Sheriff,4
+887,UVM Police,4
+888,Sierra Vista Police Department,4
+889,Lamar County Sheriff's Department,4
+890,Downers Grove Police Department,4
+891,Orchard Park Town Police Department,4
+892,Lincolnwood Police Department,4
+893,South Kingstown Police Department,4
+894,Ulster County Sheriffs Office,4
+895,Abilene Texas Police Department,4
+896,South Jordan Police Department,4
+897,South Gate Police Department,4
+898,Pitkin County Sheriff's Office,4
+899,Fort Bragg Police Department,4
+900,Hampton Police Division,4
+901,Harnett County Sheriff,4
+902,Kane County Sheriff's Department,4
+903,Alpine County Sheriff's Office,4
+904,St. Johns County Sheriff's Office,4
+905,West Warwick Police Department,4
+906,Berkshire County Sheriff's Office,4
+907,Herndon Police Department,4
+908,Garfield County Sheriff,4
+909,Columbus Police Department,4
+910,Whittier Police Department,4
+911,West Seneca Town Police Department,4
+912,West New York Police Department,4
+913,Bradford County Sheriff's Office,4
+914,Mount Vernon City Police Department,4
+915,East Carolina State University Police Department,4
+916,Missouri City Police Department,4
+917,Tarrant County Sheriff's Office,4
+918,Wright County Sheriff Office,4
+919,Albany Police Department,4
+920,Madera County Sheriff's Office,4
+921,New Shoreham Police Department,4
+922,"Department Of Public Safety, Georgia State Patrol",4
+923,Mobile County Sheriff's Department,4
+924,Island County Sheriff's Office,4
+925,Saratoga County Sheriff,4
+926,Helena Police Department,4
+927,City of Westminster Police,4
+928,Napa County Sheriff,4
+929,Napa Police Department,4
+930,Narragansett Police Department,4
+931,Brookfield Police Department,4
+932,Scarsdale Village Police Department,4
+933,Sussex County Sheriff,4
+934,Municipal Police Training Committee,4
+935,Mono County Sheriff,4
+936,Sutter County Sheriff's Office,4
+937,Whatcom County Sheriff's Office,4
+938,Hermosa Beach Police Department,4
+939,Salt Lake City Unified Police Department,4
+940,Russell County Sheriff,4
+941,Colusa County Sheriff's Office,4
+942,Broome County Sheriff,4
+943,Galt Police Department,4
+944,Rowan County Sheriff's Office,4
+945,New Britain Police Department,4
+946,Bergen County Sheriff's Office (NJ),4
+947,Wichita Falls Police Department,4
+948,Kennett Square Police Department,4
+949,Tehama County Sheriff's Office,4
+950,Jackson County Sheriff’s Office,4
+951,Marion County Sheriffs Office,4
+952,Foster Police Department,4
+953,Kennesaw Police Department,4
+954,Morris County Sheriff,4
+955,Newport Beach Police Department,4
+956,Richland Police Department,4
+957,Costa Mesa Police Department,4
+958,Riley County Police Department,4
+959,Eden Police Department,4
+960,Mineral County Sheriff's Office,4
+961,Massachusetts Executive Office of Public Safety and Security - Office of the Chief Medical Examiner,4
+962,Seneca Falls Village Police Department,4
+963,Hillsboro Police Department,4
+964,West Hartford Police Department,4
+965,"Keller, TX Police Department",4
+966,West Greenwich Police Department,4
+967,San Rafael Police Department,4
+968,Fairbanks Police Department,4
+969,Newtown Police Department,4
+970,San Miguel County Sheriff,4
+971,Winnemucca Police Department,3
+972,Marshall Police Department,3
+973,Alexandria City Firefighters' & Police Officers' Retirement System,3
+974,Asotin County Police Department,3
+975,Custer County Sheriff,3
+976,Cypress Police Department,3
+977,Otero County Sheriff,3
+978,Marion County Sheriff,3
+979,Moreno Valley Police Department,3
+980,Grand Island Town Police Department,3
+981,Clear Creek County Sheriff,3
+982,Grand County Sheriffs Office,3
+983,Windsor Police Department,3
+984,Pasquotank County Sheriff,3
+985,Muskegon County Sheriff,3
+986,Monrovia Police Department,3
+987,Fulton County Sheriff,3
+988,Murfreesboro Police Department,3
+989,Martin County Sheriff's Office,3
+990,Morehouse Parish Sheriff's Office,3
+991,Grand Forks County Sheriff,3
+992,Orleans Parish Sheriff's Department,3
+993,Dallas County Sheriff's Department,3
+994,Marysville Police Department,3
+995,Greeley Police Department,3
+996,Ottawa County Sheriff's Office,3
+997,Mesquite Police Department NV,3
+998,Floyd County Sheriff,3
+999,Woburn Police Department,3
+1000,Cold Spring Police Department,3
+1001,"Franklin County Sheriff's Office, Pasco, Washington State",3
+1002,Lenox Police Department,3
+1003,Panama City Police Department,3
+1004,Fayette County Sheriff's Office,3
+1005,Clarkstown Police Department (NY),3
+1006,Carthage Police Department,3
+1007,Marion County Sheriff's Office,3
+1008,Paoli Police Department,3
+1009,Great Falls Police Dept.,3
+1010,Ashe County Sheriff's Office,3
+1011,Englewood Police Department,3
+1012,Memphis International Airport Police  Department,3
+1013,Coppell Police Department,3
+1014,Farmington Hills Police Department,3
+1015,Grand Junction Police Department,3
+1016,Paradise Valley Police Department,3
+1017,Ozark Police Department,3
+1018,Manteca Police Department,3
+1019,Grant County Sheriff's Office,3
+1020,Oxford County Sheriff's Office,3
+1021,Greece NY Police Department,3
+1022,Lewiston Police Department,3
+1023,Park City Police Department,3
+1024,Lewiston Town Police Department,3
+1025,Park County Sheriff's Office,3
+1026,Whitman Police Department,3
+1027,Farmington Police Department,3
+1028,Alamosa County Sheriff,3
+1029,Vermilion County Sheriff,3
+1030,Mandan Police Department,3
+1031,McDonough Police Department,3
+1032,Muskogee Police Department,3
+1033,Lorena Police Department,3
+1034,Foster City Police Department,3
+1035,North Miami Beach Police Department,3
+1036,Chittenden County Sheriff's Department,3
+1037,Annapolis Police Department,3
+1038,Waterbury Police Department,3
+1039,North Tonawanda City Police Department,3
+1040,Washtenaw County Sheriff,3
+1041,Christian County Sheriff MO,3
+1042,Watkins Glen Village Police Department,3
+1043,New Windsor Police Department,3
+1044,Arapahoe County Sheriff,3
+1045,Paulding County Sheriff's Office,3
+1046,Oak Bluffs Police Department (Martha's Vineyard),3
+1047,Madison County Sheriff,3
+1048,Etowah County Sheriff's Office,3
+1049,Missoula County Sheriff,3
+1050,Yolo County Sheriff,3
+1051,Cobb County Sheriff,3
+1052,Fountain Valley Police Department,3
+1053,Webster Police Department,3
+1054,Wellesley Police Department,3
+1055,Yellowstone County Sheriff's Office,3
+1056,Covington Police Department,3
+1057,Georgetown Police Department,3
+1058,Norcross Police Department,3
+1059,Yale University Police Department,3
+1060,Weld County Sheriff,3
+1061,Georgia Tech Police Department,3
+1062,Yakima County Sheriff's Office,3
+1063,Niagara Town Police Department,3
+1064,Excelsior Springs Police Department,3
+1065,Andover Police Department,3
+1066,Wayne County Sheriff's Office,3
+1067,Waukesha Police Department,3
+1068,American Canyon Police Department,3
+1069,Cheektowaga Police Department,3
+1070,Colonie Police Department,3
+1071,Cicero Town Police Department,3
+1072,Orangetown Town Police Department,3
+1073,Wahkiakum County Sheriff,3
+1074,Livonia Police Department,3
+1075,Waltham Police Department,3
+1076,Yell County Sheriff's Department,3
+1077,Livingston Parish Sheriff's Office,3
+1078,Monmouth County Sheriff’s Office,3
+1079,Central Marin Police Authority,3
+1080,Goshen Town Police Department,3
+1081,Onslow County Sheriff's Department,3
+1082,Okeechobee County Sheriff's Office,3
+1083,Monongalia County Sheriff's Office,3
+1084,Visalia Police Department,3
+1085,"Gadsden, AL Police Department",3
+1086,Virginia Tech Police Department,3
+1087,Nash County Sheriff,3
+1088,Woodway Police Department,3
+1089,Clinton County Sheriff,3
+1090,Galveston Police Department,3
+1091,Okanogan County Sheriff's Office,3
+1092,Warren County Sheriff,3
+1093,Collierville Police Department,3
+1094,Londonderry Police Department,3
+1095,Warner Robins Police Department,3
+1096,Ypsilanti Police Department,3
+1097,Clinton Police Department,3
+1098,Odessa Police Department,3
+1099,Essex Police Department,3
+1100,Moberly Police Department,3
+1101,Glynn County Sheriff's Department,3
+1102,Okaloosa County Sheriff’s Office,3
+1103,Walworth County Sheriffs Department,3
+1104,Yuma County Sheriff,3
+1105,Gogebic County Sheriff,3
+1106,Logan City Police Department,3
+1107,Yuma County Sheriff's Office,3
+1108,Golden Beach Police Department,3
+1109,Allentown Police Department,3
+1110,Conway County Sheriff's Office,3
+1111,Sodus Point Village Police Department,3
+1112,League Police Department,3
+1113,San Pablo Police Department,3
+1114,Hobbs Police Department,3
+1115,Town of Vienna Police Department,3
+1116,"Bergen County Sheriff, NJ",3
+1117,Cabarrus County Sheriff,3
+1118,Kings Point Police Department,3
+1119,Ramapo Town Police Department,3
+1120,Santa Paula Police Department,3
+1121,Santa Fe County Sheriff,3
+1122,Randolph County Sheriff's Office,3
+1123,Santa Clarita Police Department,3
+1124,Red Hook Village Police Department,3
+1125,St. Marys County Sheriff,3
+1126,St. Regis Mohawk Tribal Police Department,3
+1127,"Kettering, OH Police Department",3
+1128,Hardee County Sheriff's Office,3
+1129,Titusville Police Department,3
+1130,Rehoboth Beach Police Department,3
+1131,Rehoboth police department,3
+1132,Sandwich Police Department,3
+1133,Burr Ridge Police Department,3
+1134,Tigard Police Department,3
+1135,Tifton Police Department,3
+1136,Ticonderoga Town Police Department,3
+1137,Queen Anne's County Sheriff,3
+1138,Putnam County Sheriff’s Department,3
+1139,East Lansing Police Department,3
+1140,Schoolcraft Police Department,3
+1141,Sedgwick County Sheriff,3
+1142,"Deland Police Department, Deland",3
+1143,Hall County Sheriff,3
+1144,Tukwila Police Department,3
+1145,La Verne Police Department,3
+1146,Holmes County Sheriff's Office,3
+1147,"Calvert County Sheriff's Department, Prince Frederick",3
+1148,"California State University, Fullerton - University Police",3
+1149,Scott County Sheriff,3
+1150,Banks County Sheriff's Office,3
+1151,Caldwell County Sheriff's Office,3
+1152,Hoke County Sheriff,3
+1153,Calaveras County Sheriff,3
+1154,Schenectady County Sheriff,3
+1155,Knox County Sheriff,3
+1156,St. Anthony Police Department,3
+1157,Schaumburg Police Department,3
+1158,Hamilton county sheriff's office,3
+1159,East Hampton Village Police Department,3
+1160,Putnam County Sheriff,3
+1161,Saugerties Police Department,3
+1162,Kirkland Police Department,3
+1163,Bay Area Rapid Transit Police,3
+1164,Dennis Police Department,3
+1165,Sedgwick County Sheriff's Office,3
+1166,Jefferson City Police Department,3
+1167,Kalamazoo County Sheriff,3
+1168,Roosevelt Sheriff's Department,3
+1169,East Rutherford Police Department,3
+1170,Suffolk University Police,3
+1171,Easthampton Police Department,3
+1172,Hemet Police Department,3
+1173,Routt County Sheriff's Office,3
+1174,Sullivan County Sheriff's Office,3
+1175,Hempstead Village Police Department,3
+1176,Broomfield County Sheriff,3
+1177,Eastland County Sheriff's Office,3
+1178,Easton Police Department,3
+1179,Henderson County Sheriff,3
+1180,Suwannee county sheriff's office,3
+1181,Salem County Sheriff,3
+1182,Bell Gardens Police Department,3
+1183,Bronxville Police Department,3
+1184,Bellbrook Police Department,3
+1185,Surfside Police Department,3
+1186,Bell Police Department,3
+1187,Henry County Sheriff,3
+1188,Saguache County Sheriff's Office,3
+1189,Johnson County Sheriff,3
+1190,Kalamazoo Department Of Public Safety,3
+1191,"Department of Law and Public Safety, Division of Legislative Affairs",3
+1192,Stoneham Police Department,3
+1193,Edgecombe County Sheriff,3
+1194,Menlo Park Police Department,3
+1195,Burlingame Police Department,3
+1196,Bay County Sheriff,3
+1197,San Juan County Sheriff,3
+1198,Sterling Heights Police Department,3
+1199,Steuben County Sheriff's Office,3
+1200,Beachwood Police,3
+1201,Teton County Sheriff's Office,3
+1202,Jefferson County Sheriff's Office,3
+1203,Terrebonne Parish Sheriff's Office,3
+1204,Teller County Sheriff,3
+1205,Rockland County Sheriff,3
+1206,Tehachapi Police Department,3
+1207,Carroll County Sheriff's Office,3
+1208,Beaufort County Sheriff's Office,3
+1209,Hatfield Township Police Department,3
+1210,Robeson County Sheriff,3
+1211,Highland Park Police Department,3
+1212,Haverstraw Town Police Department,3
+1213,Rock Island County Sheriff,3
+1214,Rockingham County Sheriff,3
+1215,Highland Park Dept of Public Safety,3
+1216,Port Dickinson Village Police Department,3
+1217,Saint Charles County Sheriff,3
+1218,Iredell County Sheriff,3
+1219,Piscataway Police Department,3
+1220,Piedmont Police Department,3
+1221,Boone County Sheriff's Department,3
+1222,Biloxi Police Department,3
+1223,"Sheriff's Office, Augusta-Richmond County, GA",3
+1224,Horry County Police Department,3
+1225,Sheriff Department,3
+1226,Guadalupe County Sheriff,3
+1227,Avondale Estates Police Department,3
+1228,Pinole Police Department,3
+1229,Elko County Nevada Sheriff's Office,3
+1230,"Lackawanna County, Pa Sheriff's Office",3
+1231,Spokane Valley Police Department,3
+1232,Pittsburg County Sheriff's Office,3
+1233,Indian Creek Village Police Department,3
+1234,Pittsburg Police Department,3
+1235,Union County Sheriff's Office,3
+1236,Ayer Police Department,3
+1237,Sherburne County Sheriff,3
+1238,Daytona Beach Police Department,3
+1239,Azusa Police Department,3
+1240,Shepherdstown Police Department,3
+1241,Plantation Police Department,3
+1242,Canyon County Sheriff's Office,3
+1243,Cape Coral Police Department,3
+1244,Shirley Ma Police Department,3
+1245,Phoenixville Police Department,3
+1246,Payson Police Department,3
+1247,Peach County Sheriff's Office,3
+1248,Dudley Police Department,3
+1249,Somerset County Sheriff,3
+1250,Dublin Police Department (OH),3
+1251,Huntington Park Police Department,3
+1252,Danville Police Department CA,3
+1253,Carol Stream Police Department,3
+1254,Blount County Sheriff,3
+1255,Carlton County Sheriff,3
+1256,University of Colorado-Boulder Police Department,3
+1257,Perry County Sheriff's Office,3
+1258,Sioux City Police Department,3
+1259,University of Central Florida Police Department,3
+1260,Lawrence County Sheriff's Office,3
+1261,Davenport Police Department,3
+1262,Lauderhill Police Department,3
+1263,Hurst Police Department,3
+1264,University Park Police Department,3
+1265,Phillips County Sheriff's Office,3
+1266,Dracut Police Department,3
+1267,Lancaster County Sheriff's Department,3
+1268,Pitt County Sheriff,3
+1269,Doral Police Department,3
+1270,Campbell Police Department,3
+1271,Police Board,3
+1272,Tuscaloosa County Sheriff's Office,3
+1273,Ingham County Sheriff,3
+1274,Dothan Police Department,3
+1275,Spotsylvania County Sheriff,3
+1276,Bozeman Police Department,3
+1277,Sheboygan Falls Police Department,3
+1278,Tuolumne County Sheriff,3
+1279,Turlock Police Department,3
+1280,Port Authority Police Department,3
+1281,Homewood Police Department,3
+1282,Inyo County Sheriff,3
+1283,Boynton Beach Police Department,3
+1284,Gulfport Police Department,3
+1285,Lafayette County Sheriff's Office,3
+1286,Doylestown Township Police Department,2
+1287,Dixie County Sheriff's Office,2
+1288,Hickory Hills Police Department,2
+1289,Fort Walton Beach Police Department,2
+1290,Fannin County Sheriff's Office,2
+1291,Dryden Police Department,2
+1292,Highland County Sheriff,2
+1293,Friendship Town Police Department,2
+1294,Iberville Parish Sheriff's Office,2
+1295,Melrose Police Department,2
+1296,Dilley Police Department,2
+1297,Highland Falls Police Department,2
+1298,East Hampton Town Police Department,2
+1299,Dodge City Police Department,2
+1300,McLean County Sheriff,2
+1301,Foley Police Department,2
+1302,Maricopa Police Department,2
+1303,Memorial Villages Police Department,2
+1304,Dillard Police Department,2
+1305,Herkimer Police Department,2
+1306,Flower Mound Police Department,2
+1307,"Desoto County Sheriff's Office, Desoto",2
+1308,Johns Creek Police Department,2
+1309,Desert Hot Springs Police Department,2
+1310,Dolores County Sheriff,2
+1311,Huntingdon County Sheriff,2
+1312,Irondale Police,2
+1313,Huerfano County Sheriffs Office,2
+1314,Corfu Village Police Department,2
+1315,Irondequoit Police Department,2
+1316,Homestead Police Department,2
+1317,McIntosh County Sheriffs Office,2
+1318,Manhattan Police Department,2
+1319,Manheim Borough Police Department,2
+1320,Florissant Police,2
+1321,Jefferson Police Department,2
+1322,Falmouth Police Department,2
+1323,Jefferson Parish Sheriff's Office,2
+1324,East Greenbush Police Department,2
+1325,Fortuna Police Department,2
+1326,Howard County Sheriff's Office,2
+1327,Fishkill Police Department,2
+1328,Jefferson Davis Parish Sheriff's Office,2
+1329,Dunwoody Police Department,2
+1330,Holly Springs Police Department,2
+1331,East Brandywine Township Police Department,2
+1332,Franklin County sheriff,2
+1333,Highlands Town Police Department,2
+1334,Forsyth County Sheriff,2
+1335,East Palo Alto Police Department,2
+1336,Hinds County Sheriff,2
+1337,Maybrook Village Police Department,2
+1338,Hogansville Police Department,2
+1339,Martinez Police Department,2
+1340,Jacksonville Beach Police Department,2
+1341,Martinsburg Police Department,2
+1342,Jackson County Sheriffs Office,2
+1343,Jackson Parish Sheriff's Office,2
+1344,Conejos County Sheriff,2
+1345,Hinsdale County Sheriffs Office,2
+1346,Conroe Police Department,2
+1347,Farmers Branch Police Department,2
+1348,Mason County Sheriff's Office,2
+1349,Connellsville Police Department,2
+1350,Franklinville Village Police Department,2
+1351,Conneaut Police Department,2
+1352,East Aurora/Town of Aurora Police Department,2
+1353,Hinsdale Police Department,2
+1354,Colorado Division Homeland Security And Emergency Management Department Of Public Safety,2
+1355,Hiram Police Department,2
+1356,Indian River Shores Public Safety Department,2
+1357,Meadville Police Department,2
+1358,Dougherty County Sheriff,2
+1359,Conway Police Department,2
+1360,Dorchester County Sheriff,2
+1361,Hoover Police Department,2
+1362,Mayor's Office of Public Safety,2
+1363,Massachusetts Institute of Technology Police,2
+1364,Fremont County Sheriff,2
+1365,Holley Police Department,2
+1366,Marina Police Department,2
+1367,Hill Country Village Police Department,2
+1368,Medley Police Department,2
+1369,Floral Park Village Police Department,2
+1370,McMinn County Sheriff,2
+1371,Fallsburg Police Department,2
+1372,Independent Police Department,2
+1373,Cookeville Police Department,2
+1374,Eagle County Sheriff,2
+1375,Freetown Police Department,2
+1376,Hillsborough Police Department,2
+1377,Dighton Police Department,2
+1378,Flagstaff Police Department,2
+1379,Hillsdale County Sheriff's Office,2
+1380,Hopkinsville Police Department,2
+1381,Marshall County Sheriff's Office,2
+1382,McAlester Police Department,2
+1383,Fentress County Sheriff,2
+1384,Dexter Village Police Department,2
+1385,Doraville Police Department,2
+1386,Holden Police Department,2
+1387,Greene County Sheriff's Office,2
+1388,Manchester Center Police Department,2
+1389,Haines City Police Department,2
+1390,"Goleta, CA Police Department",2
+1391,Lake Charles Police Department,2
+1392,Livingston County Sheriff's Office,2
+1393,Livingston County Sheriff,2
+1394,Crump Police Department,2
+1395,Lake Forest Police Park Department,2
+1396,Gordon County Sheriff's Office,2
+1397,Lake Oswego Police Department,2
+1398,Lake Placid Police Department,2
+1399,Deer Park Police Department,2
+1400,Cuba Town Police Department,2
+1401,Lake Villa Police Department,2
+1402,Hagerstown City Police Department,2
+1403,Elbert County Sheriff,2
+1404,Elizabeth Police Department,2
+1405,Lakeville Police Department,2
+1406,Gunnison County Sheriffs Office,2
+1407,Laguna Beach Police Department,2
+1408,Dekalb County Sheriff's Office,2
+1409,Graham Police Department,2
+1410,Crowley County Sheriff,2
+1411,Delaware Police (Ohio),2
+1412,Knox County Sheriff's Office,2
+1413,Hamilton Township North Police Department,2
+1414,Kosciusko County Sheriff's Department,2
+1415,Delaware County Sheriff's Department,2
+1416,Delaware County Sheriff,2
+1417,La Palma Police Department,2
+1418,Delano Police Department,2
+1419,La Plata County Sheriffs Office,2
+1420,Etna Borough Police Department,2
+1421,La Plata Police Department,2
+1422,Hamburg Town Police Department,2
+1423,Hamblen County Sheriff,2
+1424,Loganville Police Department,2
+1425,La Salle County Sheriff,2
+1426,El Segundo Police Department,2
+1427,Lloyd Town Police Department,2
+1428,Graham County Sheriff's Department,2
+1429,Lancaster Bureau of Police,2
+1430,Kit Carson County Sheriffs Office,2
+1431,Enumclaw Police Department,2
+1432,Elmira Heights Village Police Department,2
+1433,Davidson County Sheriff,2
+1434,Enid Police Department,2
+1435,"Elmwood Park, NJ Police Department",2
+1436,Grayson County Sheriff's Office,2
+1437,Lawrenceville Police Department,2
+1438,Darien Police Department,2
+1439,Lea County Sheriff's Department,2
+1440,Greensburg Police Department,2
+1441,"Lebanon County, Pa Sheriff's",2
+1442,Lebanon Police Department,2
+1443,Lehi City Police Department,2
+1444,"Lee's Summit Police Department, Lee's Summit",2
+1445,Leelanau County Sheriff's Office,2
+1446,Dansville Village Police Department,2
+1447,Greenburgh Police Department,2
+1448,Greene Village Police Department,2
+1449,Gresham Police Department Gresham Oregon,2
+1450,Grants Pass Department of Public Safety,2
+1451,Lancaster Town Police Department,2
+1452,Elmhurst Police Department,2
+1453,Gulf County Sheriff's Office,2
+1454,Gulf Breeze Police Department,2
+1455,Cumming Police Department,2
+1456,Currituck County Sheriff's Office,2
+1457,Lincoln Parish Sheriff's Office,2
+1458,Cutler Bay Police Department,2
+1459,Liberty County Sheriff's Office,2
+1460,Ellenville Village Police Department,2
+1461,Ellicottville Town Police Department,2
+1462,Lexington County Sheriff,2
+1463,Grosse Ile Police,2
+1464,Griffith Police Department (IN),2
+1465,Davis Police Department,2
+1466,Las Animas County Sheriff's Office,2
+1467,Ellis County Sheriff's Department,2
+1468,Grant County Sheriff,2
+1469,Lewisboro Police Department,2
+1470,Long County Sheriff's Office,2
+1471,Longboat Key Police Department,2
+1472,Deschutes County Sheriff,2
+1473,Garfield Heights Police Department,2
+1474,Kanawha County Sheriff,2
+1475,Kane County Sheriff,2
+1476,Gaston County Police Department,2
+1477,Madera Police Department,2
+1478,"Department of Law and Public Safety, Division of Consumer Affairs",2
+1479,Macon County Sheriff's Office,2
+1480,Kemper County Sheriff,2
+1481,Macomb County Sheriff,2
+1482,Costilla County Sheriff,2
+1483,Fairfax County Department Of Public Safety Communications,2
+1484,MARTA Police Department,2
+1485,Harrison County Sheriff's Office,2
+1486,Kennett Township Police Department,2
+1487,Lyon County Sheriff’s Department,2
+1488,Lynnfield Police Department,2
+1489,Kenosha County Sheriff,2
+1490,Geddes Town Police Department,2
+1491,Kalispell Police Department,2
+1492,Hawkins County Sheriff,2
+1493,Geneseo Village Police Department,2
+1494,Gardner Police Department,2
+1495,Johnston County Sheriff's Office,2
+1496,Gallatin County Sheriff's Office,2
+1497,Hendry County Sheriff,2
+1498,Mamaroneck Town Police Department,2
+1499,Fairview Police Fairview Oregon,2
+1500,Cornwall-on-Hudson Police Department,2
+1501,Derry Police Department,2
+1502,Gallup Police Department,2
+1503,Derby Police Department,2
+1504,Jonesboro Police Department,2
+1505,Fairport Village Police Department,2
+1506,Coronado Police Department,2
+1507,Garden City Police Department,2
+1508,Fairmont Police Department,2
+1509,Heidelberg Police Department,2
+1510,Head of the Harbor Village Police Department,2
+1511,Haywood County Sheriff's Office,2
+1512,Lynchburg Police Department,2
+1513,Denton County Sheriff,2
+1514,Kirkwood Police Department,2
+1515,Kinder Police Department,2
+1516,El Cerrito Police Department,2
+1517,Crawford Police Department,2
+1518,Gilchrist County Sheriff's Office,2
+1519,Kingsburg Police Department,2
+1520,Giles County Sheriff's Office,2
+1521,Gilmer County Sheriff's Office,2
+1522,Kingston Police Department,2
+1523,Kiowa County Sheriffs Office,2
+1524,Gilpin County Sheriffs Office,2
+1525,Glades County Sheriff's Office,2
+1526,Los Altos Police Department,2
+1527,Los Alamitos Police Department,2
+1528,Evangeline Parish Sheriff's Office,2
+1529,Lonoke County Sheriff'S Office,2
+1530,Longview Police Department,2
+1531,Longmont Police Department,2
+1532,Eureka County Nevada Sheriff's Office,2
+1533,King George County Sheriff's Office,2
+1534,Hancock Village Police Department,2
+1535,Geneva Police Department,2
+1536,Delta County Sheriff,2
+1537,Evergreen Park Police Department,2
+1538,Kent County Sheriff's Office,2
+1539,Harlingen Police Department,2
+1540,Kentwood Police Department,2
+1541,Harford County Sheriff,2
+1542,"Georgia Institute of Technology Police Department, Office of Emergency Preparedness",2
+1543,Lubbock County Sheriff's Office,2
+1544,Edison Police Department,2
+1545,Germantown Police Department,2
+1546,Hanson Police Department,2
+1547,Gettysburg Police Department,2
+1548,Crawford County Sheriff's Office,2
+1549,Key West Police Department,2
+1550,Giddings Police Department,2
+1551,Keyport Police Department,2
+1552,Loves Park Police Department,2
+1553,Loveland Police Department,2
+1554,Corvallis Police Department,2
+1555,Florida Village Police Department,2
+1556,Menomonee Falls Police Department,2
+1557,Rio Rancho Police Department,2
+1558,Rio Blanco County Sheriff's Office,2
+1559,Burke County Sheriff's Office,2
+1560,Burleigh County Sheriff's Department,2
+1561,Ridgeland Police Department,2
+1562,Ridgecrest Police Department,2
+1563,University of Cincinnati Police Department,2
+1564,Richmond City Sheriff's Office,2
+1565,Richland Parish Sheriff's Office,2
+1566,Burlington County Sheriff,2
+1567,Richland County Sheriff's Department,2
+1568,Augusta Police Department,2
+1569,Rensselaer County Sheriff,2
+1570,Rensselaer City Police Department,2
+1571,Red River Parish Sheriff's Office,2
+1572,University of North Carolina at Charlotte Police & Public Safety,2
+1573,University of North Carolina at Greensboro Police Department,2
+1574,Rankin County Sheriff's Office,2
+1575,Atlantic County Sheriff's Office,2
+1576,Upper Darby Police Department,2
+1577,Byron Police Department,2
+1578,Upson County Sheriff's Department,2
+1579,Puyallup Police Department,2
+1580,Putnam County Sheriff's Office,2
+1581,Cache County Sheriff,2
+1582,Utah County Sheriff's Office,2
+1583,Pueblo Police Department,2
+1584,Cairo Town Police Department,2
+1585,Rio Grande County Sheriff's Office,2
+1586,Ripon Police Department,2
+1587,Salina Police Department,2
+1588,Buncombe County Sheriff,2
+1589,Salamanca Police Department,2
+1590,Saint Joseph County Sheriff,2
+1591,Saint Albans Police Department,2
+1592,Brockport Police Department,2
+1593,Saginaw County Sheriff's Office,2
+1594,Broken Arrow Police Department,2
+1595,Rye City Police Department,2
+1596,"Brooklyn Center, Mn Police",2
+1597,Rutgers University Police Department,2
+1598,Russell County Sheriff's Office,2
+1599,Union county sheriff's office,2
+1600,Uniontown Police Department,2
+1601,University City Police Department,2
+1602,Brunswick County Sheriff,2
+1603,Brunswick Police Department,2
+1604,University Of Connecticut Police Department,2
+1605,Rocky Mount Police Department,2
+1606,Buckeye Police Department,2
+1607,Buda Police Department,2
+1608,Rockdale County Sheriff,2
+1609,Buena Vista Police Department,2
+1610,Aventura Police Department,2
+1611,University Of Pennsylvania Police Department,2
+1612,Roanoke County Police,2
+1613,Riverside County Sheriffs Department,2
+1614,University of California Santa Barbara Police Department,2
+1615,University of Chicago Police Department,2
+1616,Prowers County Sheriff,2
+1617,Provincetown Police Department,2
+1618,Athol Police Department,2
+1619,Atherton Police Department,2
+1620,Waller County Sheriff's Office,2
+1621,Platte County Missouri Sheriff’s Office,2
+1622,Arlington County Sheriff's Department,2
+1623,Wallowa County Sheriff,2
+1624,Plant City Police Department,2
+1625,Walton County Sheriff,2
+1626,Canby Police Department,2
+1627,Candor Village Police Department,2
+1628,Pine Plains Police Department,2
+1629,Canton Public Safety,2
+1630,Piermont Village Police Department,2
+1631,Wappingers Falls Village Police Department,2
+1632,Ardsley Police Department,2
+1633,Cape Girardeau Police Department,2
+1634,Archuleta County Sheriff,2
+1635,Ware Police Department,2
+1636,Philmont Village Police Department,2
+1637,Philadelphia Village Police Department,2
+1638,Phelps Village Police Department,2
+1639,Person County Sheriff's Office,2
+1640,Perrysburg Police Department,2
+1641,Carlisle Borough Police Department,2
+1642,Carlsbad Police Department,2
+1643,Pensacola Police Department,2
+1644,Antwerp Village Police Department,2
+1645,Carmel Town Police Department,2
+1646,Carnegie Police Department,2
+1647,Pleasant Hill Police Department,2
+1648,Suffern Village Police Department,2
+1649,Campbell County Sheriff,2
+1650,Pope County Sheriff's Office,2
+1651,Prince George's County Sheriff Department,2
+1652,Caldwell Parish Sheriff's Office,2
+1653,Van Wert County Sheriff,2
+1654,Athens-Clarke Police Department,2
+1655,Vanderburgh County Sheriff,2
+1656,Pound Ridge Town Police Department,2
+1657,Athens Village Police Department,2
+1658,Porterdale Police Department,2
+1659,Athens Police Department,2
+1660,Port Jervis City Police Department,2
+1661,Port Byron Village Police Department,2
+1662,Camden County Police Department,2
+1663,Vermilion Parish Sheriff's Office,2
+1664,Virginia Commonwealth University Police Department,2
+1665,Camden County Sheriff,2
+1666,Camden County Sheriff's Office,2
+1667,Polk County Sheriff's Office,2
+1668,Camden Village Police Department,2
+1669,Verona Police Department,2
+1670,Cameron County Sheriff Department,2
+1671,Vigo County Sheriff,2
+1672,Vilas County Sheriff's Office,2
+1673,Police Department Borough of Cliffside Park,2
+1674,"Police Department - Beverly, MA",2
+1675,Police - Manchester-by-the-sea,2
+1676,Ascension Parish Sheriffs Office,2
+1677,Salem State University Police,2
+1678,Saline County Sheriff's Office,2
+1679,Pelham Village Police Department,2
+1680,Sweetwater Police Department,2
+1681,Berlin Police Department,2
+1682,Bedford Police Department (tx),2
+1683,Taft Police Department,2
+1684,Bedford Police Department,2
+1685,Talladega County Sheriff's Office,2
+1686,Bernardsville Police Department,2
+1687,Taney County Sheriff,2
+1688,Berwyn Police Department,2
+1689,Tangipahoa Parish Sheriff's Office,2
+1690,St Cloud Police Department,2
+1691,Spartanburg County Sheriff,2
+1692,Beauregard Parish Sheriffs Office,2
+1693,Spalding County Sheriff,2
+1694,Biddeford Police Department,2
+1695,Bienville Parish Sheriff's Office,2
+1696,Tazewell County Sheriff,2
+1697,Tenafly Police Department,2
+1698,Billings Police Department,2
+1699,Southern Crescent College Police Department,2
+1700,South Windsor Police Department,2
+1701,Tensas Parish Sheriff's Office,2
+1702,Terre Haute Police Department,2
+1703,South Fayette Township Police Department,2
+1704,South Burlington Police Department,2
+1705,Thomasville Police Department GA,2
+1706,Blairsville Police Department,2
+1707,Batte Creek Police Department,2
+1708,St Lucie County Sheriff's Office,2
+1709,Sweetwater County Sheriff,2
+1710,Sampson County Sheriff,2
+1711,St. Ann Police Department,2
+1712,Sugar Land Police Department,2
+1713,Belmont Village Police Department,2
+1714,Storm Lake Police Department,2
+1715,Storey County Sheriff's Office,2
+1716,Sullivan County Sheriff,2
+1717,Belvedere Police Department,2
+1718,Summit Count Sheriff,2
+1719,Sumner County Sheriff's Office,2
+1720,Stockton Unified School District Police Department,2
+1721,Stockport Police Department,2
+1722,Belle Meade Police Department,2
+1723,Sunny Isles Beach Police Department,2
+1724,Stevens County Sheriff's Office,2
+1725,Stephenson County Sheriff,2
+1726,Bensalem Township Police Department,2
+1727,Bent County Sheriff,2
+1728,Benton County Sheriff,2
+1729,Surry County Sheriff's Office,2
+1730,Sutton Police Department,2
+1731,Berkeley County Sheriff,2
+1732,Swampscott Police Department,2
+1733,St. George Police Department,2
+1734,St. Croix County Sheriff's Office,2
+1735,Swansea Police Department,2
+1736,St. Cloud Police Department,2
+1737,St. Clair Sheriff's Department,2
+1738,St. Clair County Sheriff's Office,2
+1739,Somers Town Police Department,2
+1740,Batavia City Police Department,2
+1741,Bloomingdale Police Department (IL),2
+1742,Smith County Sheriff's Office,2
+1743,Trussville Police Department,2
+1744,"Baltimore County, Md Sheriff's Office",2
+1745,Ballwin Police Department,2
+1746,Ballston Spa Village Police Department,2
+1747,Ball Ground Police Department,2
+1748,Scott County Sheriff's Office,2
+1749,Branson Police Department,2
+1750,Brant Town Police Department,2
+1751,Meridian Police Department,2
+1752,Brawley Police Department,2
+1753,Tuxedo Park Village Police Department,2
+1754,Brea Police Department,2
+1755,Brevard County Sheriff's Office,2
+1756,Saugus Police Department,2
+1757,Saratoga Springs Police Department,2
+1758,Saratoga Springs City Police Department,2
+1759,Tuxedo Police Department,2
+1760,Sangamon County Sheriff’s Office,2
+1761,Sangamon County Sheriff's Office,2
+1762,Brewster Village Police Department,2
+1763,Baker County sheriff's office,2
+1764,Bridgeville Police Department,2
+1765,Bridgewater Township Police Department,2
+1766,Bridgewater police department,2
+1767,Baca County Sheriff,2
+1768,Ukiah Police Department,2
+1769,Bristol Township Police Department,2
+1770,Selma Police Department,2
+1771,Bowie Police Department,2
+1772,Seneca Police Department,2
+1773,Sheriff's office,2
+1774,Sleepy Hollow Village Police Department,2
+1775,Tompkins County Sheriff Office,2
+1776,Blue Springs Police Department,2
+1777,Blythe Police Department,2
+1778,Simmons College Police,2
+1779,Siloam Springs Police Department,2
+1780,Barstow Police Department,2
+1781,Bolivar Police Department,2
+1782,Torrance County Sheriff,2
+1783,Torrington Police Department,2
+1784,Barrington Police Department,2
+1785,Sherwood Police Department,2
+1786,Boone County Sheriff's Office,2
+1787,Trumbull County Sheriff,2
+1788,Sheriff's Office FOIA,2
+1789,"Towson Police Department, Towson",2
+1790,Shelbyville Police Department,2
+1791,Shelby Police Department,2
+1792,Shelby County Sheriff's Office,2
+1793,Bothell Police Department,2
+1794,Shawnee Police Department,2
+1795,Boulder City Police Department,2
+1796,Sharp County Sheriff's Office,2
+1797,Shandaken Town Police Department,2
+1798,Bow Police Department,2
+1799,Trumansburg Police Department,2
+1800,Washington Association of Sheriffs and Police Chiefs,2
+1801,Pleasants County Sheriffs Dep,2
+1802,Newaygo County Sheriff,2
+1803,Northfield Police Department,2
+1804,New Hartford Town Police Department,2
+1805,Alcona County Sheriff's Office,2
+1806,Willimantic Police Department,2
+1807,Willing Police Department,2
+1808,Wilmette Police Department,2
+1809,New Brunswick Police (New Jersey),2
+1810,New Brighton Public Safety,2
+1811,Wilton Police Department,2
+1812,City of Ocoee Police Department,2
+1813,National City Police Department,2
+1814,Nassau County Sheriff's Office,2
+1815,Windham Police Department,2
+1816,Nashua Police Department,2
+1817,Nahant Police Department,2
+1818,Nacogdoches County Sheriff,2
+1819,Winn Parish Sheriff's Office,2
+1820,Muskegon Police Department,2
+1821,Muscogee County Sheriff,2
+1822,Winnebago County Sheriff,2
+1823,Murray County Sheriff's Office,2
+1824,Claiborne Parish Sheriff's Office,2
+1825,Muncie Police Department,2
+1826,Clark County Sheriff,2
+1827,Albany County Sheriff,2
+1828,Wiscasset Police Department,2
+1829,Mount Pleasant Police Department,2
+1830,Wolcott Police Department,2
+1831,"New Mexico Department of Public Safety, Grants Management Bureau",2
+1832,New Paltz Town & Village Police Department,2
+1833,New Port Richey Police Department,2
+1834,Allegany County Sheriff's Office,2
+1835,Chattooga County Sheriff's Office,2
+1836,Allendale County Sheriffs Office,2
+1837,Chaves County Sheriff's Office,2
+1838,North Reading Police Department,2
+1839,Cheatham County Sheriff’s Office,2
+1840,North Haven Police,2
+1841,Weymouth Police Department,2
+1842,Wheat Ridge Police,2
+1843,North Carolina State University Police Department,2
+1844,Chenango County Sheriff's Office,2
+1845,North Adams Police Department,2
+1846,Allegany Village Police Department,2
+1847,Cheyenne County Sheriff,2
+1848,Christiansburg Police Department,2
+1849,Alhambra Police Department,2
+1850,Niles Police Department,2
+1851,Niagara County Sheriff (NY),2
+1852,Chichester Police Department,2
+1853,Alexandria Bay Village Police Department,2
+1854,Chicopee Police Department,2
+1855,Wicomico County Sheriff,2
+1856,Wilkes County Sheriff's Office,2
+1857,Newburgh Police Department,2
+1858,Carrboro Police Department,2
+1859,Wilkes-barre City Police Department,2
+1860,New Rochelle City Police Department,2
+1861,Clay County Sheriff,2
+1862,Mount Hope Town Police Department,2
+1863,Mounds View Police Department,2
+1864,Midwest City Police Department,2
+1865,Coachella Police Department,2
+1866,Minnehaha County Sheriff,2
+1867,Yazoo County Sheriff's Department,2
+1868,Milpitas Police Department,2
+1869,Millville Police Department,2
+1870,Millis Police Department,2
+1871,Miller County Sheriffs Office,2
+1872,York Police Department,2
+1873,Yorkville Village Police Department,2
+1874,Acworth Police Department,2
+1875,Millburn Police Department,2
+1876,Millbrook Village Police Department,2
+1877,Midlothian Police Department,2
+1878,Yavapai County Sheriff's Office,2
+1879,Cockrell Hill Police Department,2
+1880,Cocoa Police Department,2
+1881,Coeymans Town Police Department,2
+1882,Youngstown Village Police Department,2
+1883,Cohocton Police Department,2
+1884,Yuba County Sheriff,2
+1885,Miami County Sheriff,2
+1886,Zanesville Police Department,2
+1887,Metter Police Department,2
+1888,aiken public safety,2
+1889,athens-clarke county police department,2
+1890,hazlet police,2
+1891,Minot Police Department,2
+1892,"Adams County Sheriff's Office, Adams County, WA",2
+1893,Clayton County Sheriff,2
+1894,Montrose County Sheriff's Office,2
+1895,Moultrie County Sheriff's Office,2
+1896,Clayton Police Department,2
+1897,Clayton Police Department (MO),2
+1898,Moriah Town Police Department,2
+1899,Wolcott Village Police Department,2
+1900,Morgantown Police Department,2
+1901,Morgan Hill Police Department,2
+1902,Morgan County Sheriff,2
+1903,Moravia village police department,2
+1904,Wood-ridge Police Department,2
+1905,Woodridge Village Police Department,2
+1906,Woodstock Police department,2
+1907,Montpelier Police Department,2
+1908,Mohawk Village Police Department,2
+1909,Cleveland County Sheriff,2
+1910,Montgomery Town Police Department,2
+1911,Wyandotte County Sheriff,2
+1912,Cleveland Heights Police Department,2
+1913,Montezuma County Sheriff's Office,2
+1914,Monterey Park Police Departmentt,2
+1915,Montebello Police Department,2
+1916,Montcalm County Sheriff,2
+1917,Montague Police Department,2
+1918,Monroe Village Police Department,2
+1919,Clifton Springs Village Police Department,2
+1920,Addison Police Department,2
+1921,Northampton County Sheriff,2
+1922,Bellmead Police Department,2
+1923,Alpharetta Police Department,2
+1924,Central Square Village Police Department,2
+1925,Outagamie County Sheriff,2
+1926,Old Dominion University Police Department,2
+1927,West Chester Police Dept.,2
+1928,West Feliciana Parish Sheriff's Office,2
+1929,Chaffee County Sheriff,2
+1930,Chambersburg Police Department,2
+1931,West Jordan Police Department,2
+1932,Office of the Police Monitor,2
+1933,Oyster Bay Cove Village Police Department,2
+1934,Florida City Police Department,2
+1935,Amador County Sheriff's Office,2
+1936,Painted Post Village Police Department,2
+1937,Washington Township Police Department,2
+1938,Palatine Police Department,2
+1939,Casa Grande Police Department,2
+1940,Centre City Police Department,2
+1941,Ouray County Sheriff's Office,2
+1942,Ocean County Sheriff,2
+1943,West Carroll Parish Sheriff's Office,2
+1944,Otsego County Sheriff's Office,2
+1945,Andover Village Police Department,2
+1946,Catawba County Sheriff,2
+1947,Cathedral City Police Department,2
+1948,Waynesboro Police Department,2
+1949,Anderson County Sheriff,2
+1950,Cattaraugus Village Police Department,2
+1951,Cayuga Heights Police Department,2
+1952,Otter Tail County Sheriff,2
+1953,Oriskany Village Police Department,2
+1954,Cedar Park Police Department,2
+1955,Opelika Police Department,2
+1956,Cedartown Police Department,2
+1957,West Baton Rouge Parish Sheriff's Office,2
+1958,West Caldwell Police Department,2
+1959,Palmdale Public Safety,2
+1960,Wayland Village Police Department,2
+1961,Ocean Beach Village Police Department,2
+1962,West Wendover Police Department,2
+1963,Norwich City Police Department,2
+1964,Alton Police Department,2
+1965,Washington Island Police Department,2
+1966,Cartersville Police Department,2
+1967,Norwalk Public Safety Office,2
+1968,Parshall Police Department,2
+1969,Norwalk Police Dept.,2
+1970,West Miami Police Department,2
+1971,Peachtree City Police Dept,2
+1972,Washington Court House Police Department,2
+1973,Westfield Police Department,2
+1974,Westchester County Sheriff,2
+1975,Pearl Police Department,2
+1976,Nye County Sheriff’s Office,2
+1977,"Washington Terrace, Utah - Public Safety",2
+1978,Carthage Village Police Department,2
+1979,Carver County Sheriff's Office (minnesota),2
+1980,Edgewood Borough Police,1
+1981,Euless Texas Police Department,1
+1982,Bay City Police Department,1
+1983,Belleville Police Department,1
+1984,Arvin Police Department,1
+1985,Effingham County Sheriff's Office,1
+1986,Baxter County Sheriff's Office,1
+1987,Bayonne Police Department,1
+1988,Escalon Police Department,1
+1989,Abbeville Police Department,1
+1990,Angelica Village Police Department,1
+1991,Angels Camp Police Department,1
+1992,Aiken County Sheriff,1
+1993,Edgewood Police Department,1
+1994,Aitkin County Sheriff,1
+1995,Erlanger Police Department,1
+1996,Antrim County Sheriff Michigan,1
+1997,Asbury Park Police Department,1
+1998,Ferguson Township Police Department,1
+1999,Bath Village Police Department,1
+2000,Arlington Heights Police Department,1
+2001,Basehor Police Department,1
+2002,Bartow Police Department,1
+2003,Aragon Police Department,1
+2004,Edwardsville Police Department,1
+2005,Androscoggin County Sheriff,1
+2006,Alachua Police Department,1
+2007,Fenton Police Department,1
+2008,Bartow County Sheriffs Office,1
+2009,Ak-Chin Tribal Police Department,1
+2010,Bear Valley Police Department,1
+2011,Euclid Police Department,1
+2012,Acadia Parish Sheriffs Office,1
+2013,Arkansas County Sheriff's Office,1
+2014,Echols County Sheriffs Office,1
+2015,Etna Police Department,1
+2016,Eaton County Sheriff,1
+2017,Adams Village Police Department,1
+2018,Argyle Police Department,1
+2019,Fitzgerald Police Department,1
+2020,Arcata Police Department,1
+2021,Essex County Sheriff's Office,1
+2022,Anthony Texas Police,1
+2023,Bee Cave Police Department,1
+2024,Estherwood Police Department,1
+2025,Evans County Sheriff's Office,1
+2026,Bedminster Twp Police,1
+2027,Adams County Sheriff,1
+2028,Bedford Town Police Department,1
+2029,Estes Park Police Department,1
+2030,Beaverhead County Sheriff's Office,1
+2031,Addison County Sheriff Department,1
+2032,Bartow County Sheriff,1
+2033,Anniston Police Department,1
+2034,Afton Village Police Department,1
+2035,Echols County Sheriff's Office,1
+2036,Eddy County Sheriff's Department,1
+2037,Adrian Police Department,1
+2038,Arcade Police Department,1
+2039,Beaufort Police Department,1
+2040,Flemington Police Department,1
+2041,Evans Town Police Department,1
+2042,Anthony Police Department,1
+2043,Arcade Village Police Department,1
+2044,Arkansas Local Police And Fire Retirement System,1
+2045,Beaver Dam Police Department,1
+2046,Addison Village Police Department,1
+2047,Flathead County Sheriff's Office,1
+2048,Beavercreek Police Department,1
+2049,Anson County Sheriff's Office,1
+2050,Ferndale Police Department,1
+2051,Assumption Parish Sheriff's Office,1
+2052,"Effingham Police Department, Effingham, NH",1
+2053,Alfred Village Police Department,1
+2054,Elko Police Department,1
+2055,Avon Village Police Department,1
+2056,Avoyelles Parish Sheriffs Office,1
+2057,Alfred Police Department,1
+2058,Emmet County Sheriff’s Office,1
+2059,Emporia Police Department,1
+2060,Fannin County Sheriffs Office,1
+2061,Atlantic County (NJ) Department of Public Safety,1
+2062,Elkins City Police Department,1
+2063,Elkhorn Police Department,1
+2064,Alturas Police Department,1
+2065,Elkhart Police Department,1
+2066,Atlanta Police Department Auto Theft Task Force (ATTF),1
+2067,Alexander County Sheriff's Office,1
+2068,BRISTOL POLICE DEPARTMENT,1
+2069,Aldan Police Department,1
+2070,Endicott Village Police Department,1
+2071,BURLINGTON POLICE DEPARTMENT,1
+2072,Elk River Police Department,1
+2073,Ellensburg Police Department,1
+2074,Ellicott Town Police Department,1
+2075,Asharoken Village Police Department,1
+2076,Atlantis Police Department,1
+2077,Alma Police Department,1
+2078,Allenstown Police Department,1
+2079,Allen Parish Sheriff's Office,1
+2080,Alstead Police Department,1
+2081,Emanuel County Sheriffs Office,1
+2082,Eloy Police Department,1
+2083,Auraria Campus Police Department,1
+2084,Elmsford Village Police Department,1
+2085,Attica Village Police Department,1
+2086,Altamont Village Police Department,1
+2087,Falfurrias Police Department,1
+2088,Emerson College Police,1
+2089,Avery County Sheriff's Office,1
+2090,Alleghany County Sheriff's Office,1
+2091,Avoca Police Department,1
+2092,Altoona Police Department,1
+2093,Attala County Sheriff's Department,1
+2094,Allegan County Sheriff,1
+2095,Aliso Viejo Police Services,1
+2096,Amberley Police Department,1
+2097,Bainbridge Village Police Department,1
+2098,Alcorn County Sheriff,1
+2099,Baker County Sheriff,1
+2100,El Paso County Sheriff's Office,1
+2101,Albion Village Police Department,1
+2102,Banning Police Department,1
+2103,Bannock County Sheriff,1
+2104,Barber County Sheriff,1
+2105,Albion Department of Public Safety,1
+2106,Albany County Sheriff's Office,1
+2107,Amory Police Department,1
+2108,Alapaha Police Department,1
+2109,Atascadero Police Department,1
+2110,"Alma Police Department, AR",1
+2111,Barboursville Police Dept,1
+2112,Barker Village Police Department,1
+2113,El Dorado Police Department,1
+2114,Amsterdam City Police Department,1
+2115,Anadarko Police Department,1
+2116,Ashtabula County Sheriff,1
+2117,Fayette Police Department,1
+2118,Barren County Sheriff's Office,1
+2119,Amityville Village Police Department,1
+2120,Athens GA Police Department,1
+2121,Amite County Sheriff's Department,1
+2122,Englewood Cliffs Police Department,1
+2123,Elizabethtown Police Department,1
+2124,Baker County Sheriff's Office,1
+2125,Atkinson County Sheriff's Office,1
+2126,Ambler Borough Police Department,1
+2127,Fairfax County Police,1
+2128,Bal Harbour Police Department,1
+2129,Baldwin County Sheriff's Office,1
+2130,Farmersville Police Department,1
+2131,Albuquerque Civilian Police Oversight Agency,1
+2132,Amesbury Police Department,1
+2133,Faulkner County Sheriff's Office,1
+2134,Ames Police Department,1
+2135,Fair Lawn Police Department,1
+2136,Baldwinsville Village Police Department,1
+2137,Erie County Central Police Services,1
+2138,Erie County Sheriff,1
+2139,El Portal Police Department,1
+2140,Baltimore City Sheriff's Department,1
+2141,Eufaula Police Department,1
+2142,Division of Sheriffs Department of Public Safety,1
+2143,Eastchester Town Police Department,1
+2144,Cumberland County Sheriff,1
+2145,Crowley Police Department,1
+2146,Centralia Police Department,1
+2147,Central Connecticut State University Police Department,1
+2148,Centerville Police Department,1
+2149,Culpeper County Sheriff's Office,1
+2150,Centennial Police Department,1
+2151,Celina Police Department,1
+2152,Cazenovia Village Police Department,1
+2153,Creek County Sheriff's Office,1
+2154,Curry County Sheriff,1
+2155,Cayuga County Sheriff,1
+2156,Catskill Village Police Department,1
+2157,Catoosa County Sheriff's Office,1
+2158,D'Iberville Police Department,1
+2159,Dade County Sheriff's Office,1
+2160,Dakota County Sheriff,1
+2161,Centre Island Village Police Department,1
+2162,Ceres Police Department,1
+2163,Chadron Police Department,1
+2164,Chambers County Sheriff's Office,1
+2165,Chattanooga Fire And Police Pension Fund,1
+2166,Crisp County Sheriff's Office,1
+2167,Chattahoochee Hills Police,1
+2168,Chatsworth Police Department,1
+2169,Chatham Village Police Department,1
+2170,Chatham Township Police Department,1
+2171,Chatham County Sheriffs Office,1
+2172,Chatham County Sheriff's Office,1
+2173,Chatham County Sheriff,1
+2174,Crittenden County Sheriff,1
+2175,Crook County Sheriff's Office,1
+2176,Cross County Sheriff's Office,1
+2177,Chardon Police,1
+2178,Champaign County Sheriff,1
+2179,Croton-on-Hudson Village Police Department,1
+2180,Catahoula Parish Sheriff's Office,1
+2181,Caswell County Sheriff's Office,1
+2182,Castle Rock Police Department,1
+2183,Darlington County Sheriff's Office,1
+2184,Davidson County (tn) Sheriff's Of,1
+2185,Davie County Sheriff's Office,1
+2186,Cape May Police Department,1
+2187,Cape May County Sheriff's Office,1
+2188,Daviess County Sheriff,1
+2189,Canton Village Police Department,1
+2190,Dawson County Sheriff,1
+2191,Cannon County Sheriff,1
+2192,Canisteo Village Police Department,1
+2193,De Police Chiefs' Council,1
+2194,Canastota Village Police Department,1
+2195,DeSoto County Sheriff's Office,1
+2196,Canandaigua City Police Department,1
+2197,DeSoto Parish Sheriff's Office,1
+2198,DeSoto Police Department TX,1
+2199,Cape Vincent Village Police Department,1
+2200,Carbon County Sheriff's Office,1
+2201,Castle Hills Police Department,1
+2202,Caribou County Sheriff's Office,1
+2203,Cassia County Sheriff's Office,1
+2204,Cass County Sheriff’s Office,1
+2205,Cascade County Sheriff,1
+2206,Dallas County Sheriff's Office,1
+2207,Dallas Police Department (Ga),1
+2208,Dalton Police Department,1
+2209,Carteret County Sheriff's Office,1
+2210,Carrolton Police Department,1
+2211,Carroll Town Police Department,1
+2212,Carroll County Sheriff’s Department,1
+2213,Carpentersville Police Department,1
+2214,Caroline County Police Department,1
+2215,Daphne Police Department,1
+2216,Dare County Sheriff's Office,1
+2217,Darien Police Department IL,1
+2218,Crescent City Police Department,1
+2219,Chautauqua County Sheriff,1
+2220,Dearborn County Sheriff,1
+2221,Clermont Police Department,1
+2222,Comer Police Department,1
+2223,Commission To Combat Police Corruption,1
+2224,Climax Police Department,1
+2225,Community Police Commission,1
+2226,Concordia Parish Sheriff's Office,1
+2227,Conecuh County Sheriff's Office,1
+2228,Cleveland County Sheriff's Office,1
+2229,Clemson Police Department,1
+2230,Chelan County Sheriff,1
+2231,Contra Costa County Sheriff,1
+2232,Cleburne Police Department,1
+2233,Cleburne County Sheriff's Office,1
+2234,Converse County Sheriff's Office,1
+2235,"Clearwater County Sheriff's Office, Clearwater County",1
+2236,Clearwater County Sheriff's Office,1
+2237,Clayton Village Police Department,1
+2238,Clinton County Sheriff's Office,1
+2239,Cloverdale Police Department,1
+2240,Clyde Village Police Department,1
+2241,Columbus County Sheriff's Office,1
+2242,Coles County Sheriff's Office,1
+2243,Collegedale Police Department,1
+2244,Colchester Town Police Department,1
+2245,Colchester Police Department,1
+2246,Cohutta Police Department,1
+2247,Cohoes City Police Department,1
+2248,Collier County Sheriff’s Office,1
+2249,Coffee County Sheriff,1
+2250,Collins Police Department,1
+2251,Cochran Police Department,1
+2252,Cobleskill Village Police Department,1
+2253,Colquitt Police Department,1
+2254,Colton Police Department,1
+2255,Columbia Falls Police Department,1
+2256,Coahoma County Sheriff's Department,1
+2257,Conyers Police Department,1
+2258,Clayton County Sheriffs Office,1
+2259,Cooperstown Village Police Department,1
+2260,Christian County Sheriff's Office,1
+2261,Choctaw Nation Public Safety,1
+2262,Chittenango Village Police Department,1
+2263,Chisago County Sheriff,1
+2264,Chillicothe Police,1
+2265,Chickasaw Nation Lighthorse Police Department,1
+2266,Cotati Police Department,1
+2267,Covington County Sheriff's Department,1
+2268,Chicago City Council Committee On Public Safety,1
+2269,Chevy Chase Police,1
+2270,Coxsackie Village Police Department,1
+2271,Chesterfield County Sheriff,1
+2272,Chester Police Department,1
+2273,Craighead County Sheriff,1
+2274,Craven County Sheriff's Office,1
+2275,Chemung County Sheriff,1
+2276,Chowan County Sheriff's Office,1
+2277,Cortland Police Department,1
+2278,Clatskanie Police Department,1
+2279,Cortland County Sheriff's Office,1
+2280,Clarke County Sheriff's Department,1
+2281,Coos County Sheriff,1
+2282,Copiah County Sheriff's Department,1
+2283,Copley Township Police,1
+2284,Clare County Sheriff's Office,1
+2285,City of Winnfield Police Department,1
+2286,City of White Police Department,1
+2287,Corinth Police Department,1
+2288,City of Garrett Police Department,1
+2289,City of Canton Police Department,1
+2290,City University Of New York Public Safety Department,1
+2291,City Of Bridgeport Police Department,1
+2292,Corrales Police Department,1
+2293,Corrections And Public Safety Subcommittee,1
+2294,Cortland City Police Department,1
+2295,Canajoharie Village Police Department,1
+2296,Canadian County Sheriff,1
+2297,Belmar Police Department,1
+2298,Bloomingdale Police Department (NJ),1
+2299,Bolivar Village Police Department,1
+2300,Bolivar County Sheriff,1
+2301,Bolingbrook Police Department,1
+2302,Drew County Sheriff's Office,1
+2303,Blue Ridge Police Department,1
+2304,Blue Mound Police Department,1
+2305,Blount County Sheriff's Office,1
+2306,Dublin Police Department CA,1
+2307,Dobbs Ferry Village Police Department,1
+2308,Dubuque Police Department,1
+2309,Bloomingdale Police Department (GA),1
+2310,Blooming Grove Town Police Department,1
+2311,Duke University Police Department,1
+2312,Blasdell Village Police Department,1
+2313,Bladen County Sheriff's Office,1
+2314,Dunkirk City Police Department,1
+2315,Bolton Town Police Department,1
+2316,"Bond County Sheriff's Office, Bond County",1
+2317,Bonner County Sheriff's Office,1
+2318,Boonville Police Department,1
+2319,Brandon Police Department,1
+2320,Bradley County Sheriff's Office,1
+2321,Dolgeville Village Police Department,1
+2322,Bradley Beach Police Department,1
+2323,Bradford Township Police Department,1
+2324,Bradenton Police Department,1
+2325,Donalsonville Police Department,1
+2326,Dooly County Sheriffs Office,1
+2327,Bowdon Police Department,1
+2328,Bow Mar Police Department,1
+2329,Boundary County Sheriff's Office,1
+2330,Dorchester County Sheriff's Office,1
+2331,Bossier Sheriffs Office,1
+2332,Bossier Parish Sheriff's Office,1
+2333,Boonville Village Police Department,1
+2334,"Dunn Police Department, Dunn Nc",1
+2335,Blackstone Police Department,1
+2336,Black River Village Police Department,1
+2337,Berks County Sheriff,1
+2338,East Hempfield Township Police,1
+2339,East Lampeter Police Department,1
+2340,Berkeley County Sheriff's Office,1
+2341,East Liverpool Police Department,1
+2342,Bergen County (NJ) Department of Public Safety,1
+2343,Benzie County Sheriff's Office,1
+2344,Bentonville Police Department,1
+2345,Benton County Sheriff's Department,1
+2346,East Orange Police Department,1
+2347,Benicia Police Department,1
+2348,Bend Police Department,1
+2349,East Rochester Village Police Department,1
+2350,Ben Hill County Sheriffs Office,1
+2351,Ben Hill County Sheriff's Office,1
+2352,Beltsville Police Department,1
+2353,Berkeley Police Review Commission,1
+2354,East Fishkill Town Police Department,1
+2355,Biscayne Park Police Department,1
+2356,Bernalillo County Sheriff’s Department,1
+2357,Duplin County Sheriff's Office,1
+2358,Durham Town Police Department,1
+2359,Big Spring Police Department,1
+2360,Duxbury Police Department,1
+2361,Big Horn County Sheriff's Office,1
+2362,Eagle Mountain Police Department,1
+2363,Early County Sheriff's Office,1
+2364,Bexley Police Department,1
+2365,Bethlehem Town Police Department,1
+2366,Bessemer Police Department,1
+2367,Berrien County Sheriff,1
+2368,East Carroll Parish Sheriff's Office,1
+2369,East Chicago Police Department,1
+2370,East Dublin Police Department,1
+2371,East Feliciana Parish Sheriff's Office,1
+2372,Doerun Police Department,1
+2373,Braxton County Sheriff,1
+2374,Campton Police Department,1
+2375,CSU Fullerton Police Department,1
+2376,Calaveras Sheriff's Office,1
+2377,Calais Police Department,1
+2378,Calabash Police Department,1
+2379,Caddo Parish Sheriff's Office,1
+2380,Caddo County Sheriff Department,1
+2381,Delhi Village Police Department,1
+2382,"Cabell County Sheriff's Office, WV",1
+2383,CSU Bakersfield Police Department,1
+2384,Brevard County Sheriff: Canaveral Precinct,1
+2385,Delray Police Dept,1
+2386,Butts County Sheriffs Dept,1
+2387,Butts County Sheriff,1
+2388,Butte College Police Department,1
+2389,Butler Police Department,1
+2390,Butler County Sheriff's Office,1
+2391,Butler County Sheriff,1
+2392,Delaware County Sheriff's Office,1
+2393,Caledonia Village Police Department,1
+2394,Calexico Police Department,1
+2395,Calhoun County Sheriff Department,1
+2396,Camillus Town and Village Police Department,1
+2397,Camilla Police Department,1
+2398,Deerborn County Sheriff's Office,1
+2399,Deerpark Town Police Department,1
+2400,Cameron Parish Sheriff's Office,1
+2401,Defiance County Sheriff,1
+2402,Cameron County Sheriff,1
+2403,Camden County Sheriffs Office,1
+2404,Dekalb County Sheriff,1
+2405,Dekalb County Sheriff's Department,1
+2406,Cambridge Village Police Department,1
+2407,Cambria County Sheriff's Office,1
+2408,Calverton Park Police Department Missouri,1
+2409,Calumet City Police Department,1
+2410,California City Police Department,1
+2411,Demorest Police Department,1
+2412,Denham Springs Police Department,1
+2413,Burnsville  Police Department,1
+2414,Brooksville Police Department,1
+2415,Broadwater County Sheriff’s Office,1
+2416,Broadmoor Police Protection District,1
+2417,Desoto County Sheriff's Department,1
+2418,Bristow Police Department,1
+2419,Brisbane Police Department,1
+2420,Brighton Town Police Department,1
+2421,Detroit Public Schools Police K-12,1
+2422,Bridgton Police Department,1
+2423,Dewitt County Sheriff's Office,1
+2424,Diamondhead Police Department,1
+2425,Bridge City Police Department,1
+2426,Dickinson Police Department,1
+2427,Briarcliff Manor Village Police Department,1
+2428,Brevard County Sheriff: North Precinct,1
+2429,Brevard County Sheriff: East Precinct,1
+2430,Brooks County Sheriff's Office,1
+2431,Broome County Sheriffs Office,1
+2432,Burlington Police NC,1
+2433,Deposit Village Police Department,1
+2434,Burlington County (NJ) Public Safety,1
+2435,Department Of Public Safety,1
+2436,Bulverde Police Department,1
+2437,Bulloch County Sheriff's Office,1
+2438,Department Of Public Safety Records Division,1
+2439,Bullhead City Police Department,1
+2440,"Department Of State Police, Emergency Management And Homeland Security Division",1
+2441,Buffalo County Sheriff,1
+2442,"Bucks County Sheriff, PA",1
+2443,Buchanan Village Police Department,1
+2444,Bryan County Sheriff's Office,1
+2445,Brownville Village Police Department,1
+2446,Brownstown Police Department,1
+2447,Brownsburg Police Department,1
+2448,Depew Village Police Department,1
+2449,rochester police department,1
+2450,Lindsay Police Department,1
+2451,Flowood Police Department,1
+2452,San Ramon Police Department,1
+2453,Sagadahoc County Sheriff,1
+2454,Saginaw Police Department,1
+2455,Saint Augustine Police Department,1
+2456,"Saint Clair Police Department, Saint Clair",1
+2457,Salisbury Police Department,1
+2458,San Angelo Police Department,1
+2459,San Carlos Police Department,1
+2460,San Fernando Police Department,1
+2461,San Francisco State University Police Department,1
+2462,San Gabriel Police Department,1
+2463,San Joaquin Delta Community College District Police Department,1
+2464,San Juan Police Department,1
+2465,San Marino Police Department,1
+2466,San Patricio County Sheriff,1
+2467,Sands Point Village Police Department,1
+2468,Richmond Heights Police Department,1
+2469,Sandusky County Sheriff,1
+2470,Sandusky Police Department,1
+2471,Sanilac County Sheriff's Department,1
+2472,Santa Monica College Police Department,1
+2473,Saranac Lake Village Police Department,1
+2474,Sauk County Sheriff,1
+2475,Sayre Police Department,1
+2476,Schenectady City Police Department,1
+2477,Schodack Town Police Department,1
+2478,"Schoharie County Sheriff's Office, Howes Cave",1
+2479,Schoharie Village Police Department,1
+2480,Schoolcraft County Sheriff’s Office,1
+2481,Scotia Village Police Department,1
+2482,Scotland County Sheriff's Office,1
+2483,Sag Harbor Village Police Department,1
+2484,Sacramento Unified Police Department,1
+2485,Sacramento State Police Department,1
+2486,Sackets Harbor Village Police Department,1
+2487,Ringgold Police Department,1
+2488,Rio Dell Police Department,1
+2489,River Rouge Police Department,1
+2490,Riverdale City Police Department,1
+2491,Riverhead Town Police Department,1
+2492,Riverton Police Department,1
+2493,Riviera Beach Police Department,1
+2494,Robinson Police Department,1
+2495,Rock County Sheriff's Office,1
+2496,Rockbridge County Sheriff's Office,1
+2497,Rocklin Police Department,1
+2498,Rockville Centre Village Police Department,1
+2499,Rockville City Police Department,1
+2500,Rockwall County Sheriff,1
+2501,Rogers County Sheriff,1
+2502,Rogersville Police Department,1
+2503,Rosemont Police Department,1
+2504,Rosendale Town Police Department,1
+2505,Rotterdam Town Police Department,1
+2506,Round Lake Park Police Department,1
+2507,Rowan University Police,1
+2508,Rowlett Police Department,1
+2509,Roxbury Police Department,1
+2510,Royal Oak Police Department,1
+2511,Rumson Police Department,1
+2512,Rushford Town Police Department,1
+2513,Rusk County Sheriff,1
+2514,Rye Brook Village Police Department,1
+2515,Sabine Parish Sheriff's Office,1
+2516,Scranton Police Department,1
+2517,Screven County Sheriffs Office,1
+2518,Seaford Police Department,1
+2519,Simpsonville Police Department,1
+2520,Sisseton Police Department,1
+2521,Sisseton Wahpeton Oyate Police Department,1
+2522,Skaneateles Village Police Department,1
+2523,Slatington Police Department,1
+2524,Smith County Sheriff's Department,1
+2525,Smithfield City Police Department,1
+2526,Snowline Joint Unified School District Police Department,1
+2527,Socorro County Sheriff's Office,1
+2528,Soddy Daisy Police Department,1
+2529,Solvay Village Police Department,1
+2530,Somerset Police Department,1
+2531,Sonora Police Department,1
+2532,Souderton Police Department,1
+2533,"South Fulton Police Department, South Fulton",1
+2534,South Glens Falls Village Police Department,1
+2535,South Miami Police Department,1
+2536,South Nyack-Grand View Village Police Department,1
+2537,South Portland Police Department,1
+2538,Southborough Police Department,1
+2539,Southern Illinois University Carbondale Police,1
+2540,Southern Regional Police Department,1
+2541,Southgate Police Department,1
+2542,Southold Town Police Department,1
+2543,Southport Police Department,1
+2544,Southport Town Police Department,1
+2545,Southwick Police Department,1
+2546,Spalding County Sheriff’s Office,1
+2547,Sparks Police Department (GA),1
+2548,Sparta Township Police Department,1
+2549,Simsbury Police Department,1
+2550,Simpson County Sheriff's Department,1
+2551,Seaside Police Department,1
+2552,Silver Creek Village Police Department,1
+2553,Sebastian County Sheriff,1
+2554,Seekonk Police Department,1
+2555,Seguin Police Department,1
+2556,Seminole County Sheriff's Office,1
+2557,Senatobia Police Department,1
+2558,Seneca County Sheriff's Department,1
+2559,Sequim Police Department,1
+2560,Sewickley Police Department,1
+2561,Shafter Police Department,1
+2562,Shallotte Police Department,1
+2563,Sharkey County Sheriff's Department,1
+2564,Shawangunk Town Police Department,1
+2565,Shawano County Sheriff,1
+2566,Sheboygan County Sheriff,1
+2567,"Shelby Township Police Department, Shelby Township",1
+2568,Shelter Island Town Police Department,1
+2569,Shenandoah Police Department,1
+2570,Sherburne Village Police Department,1
+2571,Sheridan County Sheriff's Office,1
+2572,Sheriff's Department  City Of La Mirada,1
+2573,"Sheriff's Office, Jefferson County, Iowa",1
+2574,Sherrill City Police Department,1
+2575,Shiawassee County Sheriff's Office,1
+2576,Shively Police Department,1
+2577,Shortsville Village Police Department,1
+2578,Shoshone County Sheriff's Office,1
+2579,Sidney Village Police Department,1
+2580,Signal Hill Police Department,1
+2581,Silver City Police,1
+2582,Rindge Police Department,1
+2583,Richmond County Sheriff's Office,1
+2584,Folsom Police Department,1
+2585,Pembroke Police Department,1
+2586,Pamlico County Sheriff's Office,1
+2587,Panola County Sheriff,1
+2588,Panola County Sheriff's Department,1
+2589,Paradise Police Department,1
+2590,Paramus Police Department,1
+2591,Parker County Sheriff's Office,1
+2592,Parlier Police Department,1
+2593,Parma Police Department,1
+2594,Pascagoula Police Department,1
+2595,Payette County Sheriff's Office,1
+2596,Payne County Sheriff,1
+2597,Peekskill City Police Department,1
+2598,Pelham Manor Village Police Department,1
+2599,Pembina County Sheriff's Office,1
+2600,Pender County Sheriff's Office,1
+2601,Richland County Sheriff's Office,1
+2602,Pendleton City Police Department,1
+2603,Penn Yan Village Police Department,1
+2604,"Pennington County Sheriff's Office, Pennington County",1
+2605,Perquimans County Sheriff's Office,1
+2606,Perry County Sheriff's Department,1
+2607,Perry Village Police Department,1
+2608,Peru Police Department,1
+2609,Pettis County Sheriff,1
+2610,Pevely Police Department,1
+2611,Phoenix Village Police Department,1
+2612,Piatt County Sheriff's Office,1
+2613,Picayune Police Department,1
+2614,Pickens County Sheriff's Office,1
+2615,Pico Rivera Police Department,1
+2616,Palmyra Village Police Department,1
+2617,Palmdale Police Department,1
+2618,Palisades Interstate Parkway Police,1
+2619,Pacific Community Police Station,1
+2620,Old Brookville Village Police Department,1
+2621,Old Westbury Village Police Department,1
+2622,Olean City Police Department,1
+2623,Olive Police Department,1
+2624,Omega Police Department,1
+2625,Oneida City Police Department,1
+2626,Oneida County Sheriff's Office,1
+2627,Oneonta City Police Department,1
+2628,Ontario County Sheriff,1
+2629,Ontario County Sheriffs Office,1
+2630,Ontonagon County Sheriff,1
+2631,Orangeburg County Sheriff,1
+2632,Orem Police Department,1
+2633,Orford Police Department,1
+2634,Oro Valley Police,1
+2635,Osage Beach Police Department,1
+2636,"Oscoda County Sheriff, MI",1
+2637,Ossining Village Police Department,1
+2638,Ossipee Police Department,1
+2639,Oswego City Police Department,1
+2640,Oswego County Sheriffs Office,1
+2641,Oswego Police Department,1
+2642,Ouachita Parish Police Jury,1
+2643,Ouachita Parish Sheriff's Office,1
+2644,Overland Police Department,1
+2645,Overton County Sheriff,1
+2646,Owego Village Police Department,1
+2647,Oxford Village Police Department,1
+2648,Ozaukee County Sheriff,1
+2649,Pierce County Sheriff's Office,1
+2650,Pike County Sheriff,1
+2651,Pine Lake Police Department,1
+2652,Prairie Village Police Department,1
+2653,Presque Isle County Sheriff's Office,1
+2654,Preston County Sheriff's Department,1
+2655,Preston Police Department,1
+2656,Prince William County Sheriff,1
+2657,Princeton Police Department,1
+2658,Princeton Texas Police Department,1
+2659,Princeton Township Police Department,1
+2660,Public Safety Department,1
+2661,Public Safety Personnel Retirement System,1
+2662,Pulaski Village Police Department,1
+2663,Pullman Police Department,1
+2664,Purcellville Police Department,1
+2665,Queen Creek Police Department,1
+2666,Quitman County Sheriff's Department,1
+2667,"Quitman County Sheriff's Office, Quitman County",1
+2668,Quogue Village Police Department,1
+2669,Raleigh County Sheriff's Office,1
+2670,Rancho Cucamonga Sheriff,1
+2671,Randall County Sheriff,1
+2672,Rankin County Sheriff's Department,1
+2673,Raymondville Police Department,1
+2674,Red Bank Police Department,1
+2675,Red Bluff Police Department,1
+2676,"Red Lake County Sheriff's Office, Red Lake County",1
+2677,"Redford Township Police Department, Redford Township",1
+2678,Reno County Sheriff,1
+2679,Rhinebeck Village Police Department,1
+2680,Rhode Island Capitol Police,1
+2681,Richfield Police Department,1
+2682,Presidio Police Department,1
+2683,Prairie County Sheriff's Office,1
+2684,Pineville Police Department,1
+2685,Poweshiek County Sheriff's Office,1
+2686,Piscataquis County Sheriff,1
+2687,Pittsfield Township Police Department,1
+2688,Pittsylvania County Sheriff's Department (Virginia),1
+2689,Plains Twp Police Department,1
+2690,Plaquemines Parish Sheriff's Department,1
+2691,Platte County Sheriff's Office,1
+2692,Plattekill Town Police Department,1
+2693,Pleasant Grove Police Department,1
+2694,Pleasantville Village Police Department,1
+2695,Poinsett County Sheriff's Office,1
+2696,Point Pleasant Police Department,1
+2697,Pointe Coupee Parish Sheriff's Office,1
+2698,Police Department Parkersburg,1
+2699,"Police Department, Anderson City",1
+2700,"Police Department, Butte",1
+2701,"Police Department, Records",1
+2702,Police Dept,1
+2703,"Police Dept, North Slope",1
+2704,Pontotoc County Sheriff's Department,1
+2705,Pooler Police Department,1
+2706,Poplar Bluff Police Department,1
+2707,Port Arthur Police Department,1
+2708,Port Hueneme Police Department,1
+2709,Porter County Sheriff,1
+2710,Porterville Police Department,1
+2711,Portville Village Police Department,1
+2712,Potsdam Village Police Department,1
+2713,Pottawatomie County Sheriff,1
+2714,Pottawattamie County Sheriff,1
+2715,Speedway Police Department,1
+2716,Spotswood Police Department,1
+2717,Spring Valley Village Police Department,1
+2718,Webster Groves Police Dept,1
+2719,Watauga Police Department,1
+2720,Watchung Police Department,1
+2721,Waterford Town & Village Police Department,1
+2722,Waterloo Village Police Department,1
+2723,Watertown City Police Department,1
+2724,Waterville Police Department,1
+2725,Watervliet City Police Department,1
+2726,Waukesha County Sheriff,1
+2727,Waupaca County Sheriff,1
+2728,Waverly Village Police Department,1
+2729,Weare Police Department,1
+2730,Weatherford Police Department,1
+2731,Weathersfield Police Department,1
+2732,Webb Town Police Department,1
+2733,Weedsport Village Police Department,1
+2734,"Springfield, Oregon - Police Department",1
+2735,Wellsville Village Police Department,1
+2736,Wenatchee Police Department,1
+2737,Wendover Police Department,1
+2738,Wentworth Institute of Technology Police,1
+2739,West Buechel Police Department,1
+2740,West Carthage Village Police Department,1
+2741,West Des Moines Police Department,1
+2742,West Hempfield Township Police,1
+2743,West Hennepin Police Department (minnesota),1
+2744,West Hollywood Sheriff's Department,1
+2745,West Lafayette Police Department,1
+2746,West Lampeter Police,1
+2747,West Richland Police Department,1
+2748,West Union Police Department,1
+2749,Watauga County Sheriff's Office,1
+2750,Washingtonville Village Police Department,1
+2751,Washington Parish Sheriff's Office,1
+2752,Washington County Police Department,1
+2753,Vernon Hills Police Department,1
+2754,Vernon Parish Sheriff's Office,1
+2755,Vestal Town Police Department,1
+2756,Victoria County Sheriff,1
+2757,Victorville Police Department,1
+2758,Villa Park Police Department,1
+2759,Villa Rica Police Department,1
+2760,Village Police Department,1
+2761,Wadsworth Police Department,1
+2762,Wakulla County Sheriff's Office,1
+2763,Walden Village Police Department,1
+2764,Walker County Sheriff's Office,1
+2765,Waller Police Department,1
+2766,Wallkill Town Police Department,1
+2767,Walpole Police Department,1
+2768,Walthall County Sheriff's Department,1
+2769,Walton County Sheriffs Office,1
+2770,Walton Village Police Department,1
+2771,Walworth County Sheriff's Department,1
+2772,Ward County Sheriff's Office,1
+2773,Ware County Sheriff,1
+2774,Warner Police Department,1
+2775,Warren County Sheriffs Office,1
+2776,Warrenton Police Department,1
+2777,Warsaw Police Department,1
+2778,Warsaw Village Police Department,1
+2779,Warwick Town Police Department,1
+2780,Wasco County Sheriff,1
+2781,Washakie County Sheriff's Office,1
+2782,West Valley-Mission Community College District Police Department,1
+2783,West Virginia Department of Military Affairs and Public Safety,1
+2784,Westchester County Police Department,1
+2785,Wise County Sheriff,1
+2786,Wolfeboro Police Department,1
+2787,Wood County Sheriff's Office,1
+2788,Woodbury County Sheriff,1
+2789,Woodbury Town Police Department,1
+2790,Woodford County Sheriff's Office,1
+2791,Woodlake Police Department,1
+2792,Woodruff County Sheriff's Office,1
+2793,Woodruff Police Department,1
+2794,Worcester County Sheriff,1
+2795,Worcester State University Police,1
+2796,Worth County Sheriff's Office,1
+2797,Wright Township Police Department,1
+2798,Wyoming County Sheriff's Department,1
+2799,Wyoming Police Department,1
+2800,Xenia Police Department,1
+2801,Yadkin County Sheriff's Office,1
+2802,Yamhill County Sheriff's Office,1
+2803,Yancey County Sheriff's Office,1
+2804,Yankton Police Department,1
+2805,Yates County Sheriffs Office,1
+2806,York County Sheriff,1
+2807,York County Sheriff's Office,1
+2808,Yorktown Town Police Department,1
+2809,Youngstown Police Department,1
+2810,Yreka Police Department,1
+2811,Yuba City Police Department,1
+2812,Zachary Police Department,1
+2813,Zebulon Police Department,1
+2814,palestine police department,1
+2815,Wixom Police Department,1
+2816,Winthrop Police Department,1
+2817,Westfield State University Public Safety,1
+2818,Winston County Sheriff's Office,1
+2819,Westfield Village Police Department,1
+2820,Westhampton Beach Village Police Department,1
+2821,Westmoreland County Sheriff,1
+2822,Weston County Sheriff's Office,1
+2823,Weston Police Department,1
+2824,Wetumpka Police Department,1
+2825,Wexford County Sheriff's Office,1
+2826,Wharton Police Dept.,1
+2827,Wheeling Police Department,1
+2828,Wheelock College Department of Public Safety,1
+2829,White County Sheriff's Office,1
+2830,White County Sheriffs Office,1
+2831,Whitefish Bay Police Department,1
+2832,Whitehall Village Police Department,1
+2833,Whitesboro Village Police Department,1
+2834,Whiteside County Sheriff's Office,1
+2835,Whitestown Town Police Department,1
+2836,Whitfield County Sheriff's Office,1
+2837,Wichita County Sheriff,1
+2838,Wilkinson County Sheriff's Department,1
+2839,Wilkinson County Sheriff's Office,1
+2840,Williams Police Department,1
+2841,Williamsport Police Department,1
+2842,Willits Police Department,1
+2843,"Wilshire Community Police Station, Wilshire Park",1
+2844,Winnebago County Sheriff's Office,1
+2845,Winooski Police Department,1
+2846,"Winsted Police Department, Winsted",1
+2847,Winston County Sheriff,1
+2848,Vermont Capitol Police Department,1
+2849,Venice Police Deparment,1
+2850,Veazie Police Department,1
+2851,Strathmoor Village Police Department,1
+2852,"Sudbury, Ma Police Department",1
+2853,Suffolk County Sheriff's Office,1
+2854,Summit County Sheriff Office,1
+2855,Sumter County Sheriff,1
+2856,Sunflower County Sheriff's Department,1
+2857,Sunnyside Police Department Records,1
+2858,Susanville Police Department,1
+2859,Susquehanna Regional Police Department,1
+2860,Swain County Sheriff's Office,1
+2861,Swanzey Police Department,1
+2862,Swissvale Police Department,1
+2863,Taliaferro County Sheriff's Office,1
+2864,Tallahatchie County Sheriff's Department,1
+2865,Tamworth Police Department,1
+2866,Tarpon Springs Police Department,1
+2867,Tarrytown Village Police Department,1
+2868,Tattnall County Sheriff's Office,1
+2869,Taylor County Sheriff,1
+2870,Taylorsville Police Department,1
+2871,Teaneck Police Department,1
+2872,Tega Cay Police Department,1
+2873,Temecula Police Department,1
+2874,Texas City Police Department,1
+2875,Texas County Sheriff's Office,1
+2876,The Borough of Downingtown Police Department,1
+2877,The Walker River Tribal Police,1
+2878,Theresa Village Police Department,1
+2879,Thomas County Sheriff,1
+2880,Thomasville Police Department NC,1
+2881,Sublette County Sheriff's Office,1
+2882,Stratford Police Department,1
+2883,Tippah County Sheriff's Department,1
+2884,Strafford County Sheriff,1
+2885,St Helena Parish Sheriff's Office,1
+2886,St James Parish Sheriff's Office,1
+2887,St John the Baptist Parish Sheriff's Office,1
+2888,St Johns County Sheriff's Department,1
+2889,St Johns County Sheriff's Office,1
+2890,St Landry Parish Sheriff's Office,1
+2891,St Martin Parish Sheriff's Office,1
+2892,St Mary Parish Sheriff's Office,1
+2893,St Tammany Parish Sheriff's Office,1
+2894,St. Charles Police Department,1
+2895,St. Francis County Sheriff's Office,1
+2896,St. Johnsville Village Police Department,1
+2897,St. Lawrence County Sheriff,1
+2898,St. Louis County & Municipal Police Academy,1
+2899,St. Louis County Sheriff,1
+2900,St. Louis County and Municipal Police Academy,1
+2901,"St. Louis Park Police Department, St. Louis Park",1
+2902,St. Matthews Police Department,1
+2903,Stafford Police Department,1
+2904,Stallion Springs Police Department,1
+2905,"Stanford University Department Of Public Safety, Stanford",1
+2906,Stanly County Sheriff's Office,1
+2907,Staunton City Police Department,1
+2908,Stewart County Sheriff's Office,1
+2909,Stillwater Town Police Department,1
+2910,Stokes County Sheriff's Office,1
+2911,Stone County Sheriff,1
+2912,Stone County Sheriff's Office,1
+2913,Stony Point Town Police Department,1
+2914,Tioga County Sheriff,1
+2915,Tippecanoe County Sheriff,1
+2916,Varnell Police Department,1
+2917,UCI Public Safety,1
+2918,Uinta County Sheriff's Office,1
+2919,Ulster County Sheriff,1
+2920,Umatilla County Sheriff,1
+2921,Unified Police Department Of Greater Salt Lake,1
+2922,Union County Sheriff's Department,1
+2923,Union County Sheriffs Office,1
+2924,Union Parish Police Jury,1
+2925,Union Parish Sheriff's Office,1
+2926,University Of Minnesota Police Department,1
+2927,University Of Montana Police Department,1
+2928,University Of New Mexico Police Department,1
+2929,University Of Virginia Police Department,1
+2930,University Of Wisconsin - Milwaukee Police Department,1
+2931,University of Alabama Police Department,1
+2932,University of Kansas Medical Center Police Department,1
+2933,University of Kentucky Police Department,1
+2934,University of Maryland Department of Public Safety,1
+2935,University of New Hampshire Police Department,1
+2936,University of North Texas Police Department,1
+2937,University of Oklahoma Police,1
+2938,Upland Police Department,1
+2939,Upshur County Sheriff,1
+2940,Urbana Police Department,1
+2941,Urbandale Police Department,1
+2942,Vail Police Department,1
+2943,Valley County Sheriff's Office,1
+2944,Van Buren County Sheriff,1
+2945,Van Buren County Sheriff's Office,1
+2946,Vance County Sheriff's Office,1
+2947,UCLA Police Department,1
+2948,Tyrrell County Sheriff's Office,1
+2949,Tishomingo County Sheriff's Department,1
+2950,Tyrone Police Department,1
+2951,Tom Green County Sheriff,1
+2952,Toms River Police Department,1
+2953,Tonganoxie Police Department,1
+2954,Tooele County Sheriff's Office,1
+2955,Toombs County Sheriff's Office,1
+2956,Town of Beloit Police Department,1
+2957,Towns County Sheriff's Office,1
+2958,Townsend Police Department,1
+2959,Tracy Police Department,1
+2960,Transylvania County Sheriff's Office,1
+2961,Travis County Sheriff,1
+2962,"Trego County Sheriff's Office, Wakeeney Ks",1
+2963,Treutlen County Sheriff's Office,1
+2964,Trinidad Police Department,1
+2965,Troup County Sheriff,1
+2966,"Trousdale County Sheriff, Trousdale County",1
+2967,Troy University Police Department,1
+2968,Tuckahoe Police Department,1
+2969,Tuftonboro Police Department,1
+2970,Tufts University Police,1
+2971,Tulare County Sheriff's Office,1
+2972,Tulare Police Department,1
+2973,Tunnel Hill Police Department,1
+2974,Tupper Lake Village Police Department,1
+2975,Turner County Sheriff's Office,1
+2976,Twiggs County Sheriff's Office,1
+2977,Twin Falls County Sheriff,1
+2978,Twin Falls Police Department,1
+2979,Tybee Island Police Dept,1
+2980,Oktibbeha County Sheriff's Department,1
+2981,Oglethorpe County Sheriff's Office,1
+2982,Ogle County Sheriff's Office,1
+2983,Ilion Village Police Department,1
+2984,Hughes County Sheriff's Department,1
+2985,Hughestown Police Deparment,1
+2986,Humphrey County Sheriff's Department,1
+2987,Hunter Town Police Department,1
+2988,Hunterdon County Sheriff's Office,1
+2989,Huntington Bay Village Police Department,1
+2990,Huron City Police Department,1
+2991,Huron County Sheriff,1
+2992,Hurricane City Police Department,1
+2993,Hutchinson Police Department,1
+2994,Hyattsville Police Department,1
+2995,Hyde County Sheriff's Office,1
+2996,Hyde Park Town Police Department,1
+2997,Iberia Parish Sheriff's Office,1
+2998,Imperial Police Department,1
+2999,Lapeer County Sheriff's Office,1
+3000,Independence County Sheriff's Office,1
+3001,Indian Hills Police Department,1
+3002,Indiana Integrated Public Safety Commission,1
+3003,Indiana University Police Department,1
+3004,Ingram Police Department,1
+3005,Inkster Police Department,1
+3006,Inlet Town Police Department,1
+3007,Interlaken Village Police Department,1
+3008,Ionia County Sheriff's Office,1
+3009,Iosco County Sheriff's Office,1
+3010,"Iowa Department of Public Safety, Division of Criminal Investigation",1
+3011,Iroquois County Sheriff's Office,1
+3012,Irvington Village Police Department,1
+3013,Irwinton Police Department,1
+3014,Hudson Falls Village Police Department,1
+3015,Hubbard Township Police Department,1
+3016,Howard County Sheriff,1
+3017,Houston County Sheriff's Office,1
+3018,Highland Police Department,1
+3019,Highlands County Sheriff's Office,1
+3020,Hillside Police Department,1
+3021,Hinesville Police Department,1
+3022,Hocking County Sheriff,1
+3023,Hoffman Estates Police Department,1
+3024,Holbrook Police Department,1
+3025,Holden Beach Police Department,1
+3026,Holland Police Department,1
+3027,Hollis Police Department,1
+3028,Hollister Police Department,1
+3029,Hollywood Park Police Department,1
+3030,Holmes County Sheriff's Department,1
+3031,Holyoke Police Department,1
+3032,Homer Village Police Department,1
+3033,Homerville Police Department,1
+3034,Homestead Police Department (PA),1
+3035,Hometown Police Department,1
+3036,Honolulu Police Department–Kapolei Police Station,1
+3037,Hooksett Police Department,1
+3038,Hoosick Falls Village Police Department,1
+3039,Hopewell Police Department,1
+3040,Horn Lake Police Department,1
+3041,Hornell City Police Department,1
+3042,Horry County Sheriff's Office,1
+3043,Horseheads Village Police Department,1
+3044,Hot Spring County Sheriff's Office,1
+3045,Hot Springs County Sheriff's Office,1
+3046,Hot Springs Police Department,1
+3047,Isanti County Sheriff,1
+3048,Issaquena County Sheriff's Department,1
+3049,Itasca County Sheriff,1
+3050,Kennesaw State University Police,1
+3051,Kensington Village Police Department,1
+3052,Kershaw County Sheriff,1
+3053,Key Colony Beach Police Department,1
+3054,Kiefer Police Department,1
+3055,Kings County Sheriff's Department,1
+3056,Kingstree Police Department,1
+3057,Kissimmee Police Department,1
+3058,Kittson County Sheriff's Office,1
+3059,Kyle Police Department,1
+3060,La Crescent Police Department,1
+3061,La Crosse Police Department,1
+3062,La Paz County Sheriff,1
+3063,Lackawanna City Police Department,1
+3064,Lacy Lakeview Police Department,1
+3065,Lafayette County Sheriff's Department,1
+3066,Lafayette Parish Sheriff's Office,1
+3067,Lake Arthur Police Department,1
+3068,Lake Mills Police Department,1
+3069,Lake Ozark Police Department,1
+3070,Lake Shastina Police Department,1
+3071,Lake Success Village Police Department,1
+3072,"Lake Zurich Police Department, Illinois",1
+3073,Lakeway Police Department,1
+3074,Lakewood-Busti Village Police Department,1
+3075,Lamar County Sheriffs Department GA,1
+3076,Lancaster County Sheriff,1
+3077,Lancaster Police Department,1
+3078,Lander County Sheriff's Office,1
+3079,Lanier County Sheriff's Office,1
+3080,Kensington Police Protection and Community Services District,1
+3081,Kenner Police Department,1
+3082,Itasca Police Department,1
+3083,Kennebunk Police Department,1
+3084,Itawamba County Sheriff's Department,1
+3085,Iuka Police Department,1
+3086,Izard County Sheriff'S Office,1
+3087,Jamestown City Police Department,1
+3088,Jasper County Sheriff MO,1
+3089,Jasper County Sheriff's Office,1
+3090,Jasper County Sheriffs Office MS,1
+3091,Jefferson County Sheriff's Department (wa),1
+3092,Jefferson County TX Sheriff Office,1
+3093,Jefferson Davis County Sheriff's Department,1
+3094,Jersey County Sheriff's Office,1
+3095,Jo Daviess County Sheriff's Office,1
+3096,Johnson City Village Police Department,1
+3097,Johnsonville Police Department,1
+3098,Johnstown City Police Department,1
+3099,Jones County Sheriff's Department,1
+3100,Jones County Sheriffs Department,1
+3101,Joplin Police Department,1
+3102,Jordan Village Police Department,1
+3103,Josephine County Sheriff's Office,1
+3104,Junction City Police Department,1
+3105,Justice And Public Safety Cabinet,1
+3106,Kalkaska County Sheriff's Office,1
+3107,Karnes County Sheriff,1
+3108,Katy Independent School District Police Department,1
+3109,Katy Police Department,1
+3110,Kaukauna Police,1
+3111,Kendall County Sheriff,1
+3112,Kenmore Village Police Department,1
+3113,Hialeah Gardens Police Department,1
+3114,Hertford County Sheriff's Office,1
+3115,Hernando Police Department,1
+3116,Galloway Township Police Department,1
+3117,Garden City Village Police Department,1
+3118,Garland County Sheriff,1
+3119,Garza County Sheriff's Office,1
+3120,Gates County Sheriff's Office,1
+3121,Gates Town Police Department,1
+3122,Gatlinburg Police Department,1
+3123,Gem County Sheriff's Office,1
+3124,Genesee County Sheriff,1
+3125,Genesee County Sheriff's Office,1
+3126,Geneva City Police Department,1
+3127,George County Sheriff,1
+3128,Germantown Town Police Department,1
+3129,Gibson County Sheriff,1
+3130,Gila County Sheriff's Office,1
+3131,Giles County Sheriff,1
+3132,Gilroy Police Department,1
+3133,Gladwin County Sheriff,1
+3134,Glascock County Sheriff's Office,1
+3135,Glen Cove Police Department,1
+3136,Glen Ellyn Police Department,1
+3137,Glen Park Village Police Department,1
+3138,Glen Ridge Police Department,1
+3139,Glenn County Sheriffs Office,1
+3140,Glens Falls City Police Department,1
+3141,Glenville Town Police Department,1
+3142,Glenwood Springs Police Department,1
+3143,Globe Sheriff's Office,1
+3144,Gloucester County Sheriff's Office,1
+3145,Gloversville City Police Department,1
+3146,Galway Village Police Department,1
+3147,Gaithersburg Police Department,1
+3148,Golden Valley Police Department,1
+3149,Gadsden County Sheriff's Office,1
+3150,Fond du Lac Police Department,1
+3151,Ford County Sheriff's Office,1
+3152,Forest City Police Department,1
+3153,Forrest County Police Department,1
+3154,Forrest County Sheriff,1
+3155,Fort Edward Village Police Department,1
+3156,Fort Pierce Police Department,1
+3157,Fort Plain Village Police Department,1
+3158,Fort Scott Police Department,1
+3159,Four Oaks Police Department,1
+3160,Fox Valley Metro Police,1
+3161,Framingham State University Police,1
+3162,Franconia Police Department,1
+3163,Frankfort Police Department,1
+3164,Frankfort Town Police Department,1
+3165,Frankfort Village Police Department,1
+3166,Franklin County Sheriff's Department,1
+3167,Franklin Township Police Department,1
+3168,Fredericksburg Police Department,1
+3169,Fredonia Village Police Department,1
+3170,Freedom Police Department,1
+3171,Freeport Village Police Department,1
+3172,Fremont County Sheriff's Office,1
+3173,Fridley Police Department,1
+3174,Fullerton Police Department CA,1
+3175,Fulton City Police Department,1
+3176,Fulton County Police Department,1
+3177,Fulton County Sheriff's Department,1
+3178,Fulton Police Department,1
+3179,Goffstown Police Department,1
+3180,Gooding County Sheriff's Office,1
+3181,Herkimer County Sheriff's Office,1
+3182,Guilderland Police,1
+3183,Gunnison Police Department,1
+3184,Gurnee Police Department,1
+3185,Haddon Heights Police Department,1
+3186,Hadley Police Department,1
+3187,Hagan Police Department,1
+3188,Hale County Sheriff's Office,1
+3189,Halifax County Sheriff's Office,1
+3190,Hamburg Village Police Department,1
+3191,Hamden Police Department,1
+3192,Hamilton County Sheriff (ID),1
+3193,Hamilton Village Police Department,1
+3194,Hammondsport Village Police Department,1
+3195,Hampton County Sheriffs Office,1
+3196,Hancock County Sheriff,1
+3197,Hancock County Sheriff's Department,1
+3198,Hancock County Sheriff's Office,1
+3199,Hanford Police Department,1
+3200,Hardin County Sheriff,1
+3201,Hardin County Sheriff's Office,1
+3202,Hardin County Sheriffs Office,1
+3203,Harriman Village Police Department,1
+3204,Harrison County Sheriff,1
+3205,Harrison Town Police Department,1
+3206,Hart County Sheriff's Office,1
+3207,Harwood Heights Police Department Illinois,1
+3208,Haysville Police Department,1
+3209,Henderson County Sheriff's Office,1
+3210,Henrico County Sheriff,1
+3211,Hercules Police Department,1
+3212,Gulf Shores Police Department,1
+3213,Guam Police Department,1
+3214,Goshen County Sheriff's Office,1
+3215,Guadalupe Police Department,1
+3216,Goshen Police Department,1
+3217,Gouverneur Village Police Department,1
+3218,Gowanda Village Police Department,1
+3219,Graham County Sheriff's Office,1
+3220,Grantville Police Department,1
+3221,Granville County Sheriff's Office,1
+3222,Granville Village Police Department,1
+3223,Gratiot County Sheriff,1
+3224,Graves County Sheriff's Office,1
+3225,Graymoor-devondale Police Department,1
+3226,Great Barrington Police Department,1
+3227,Great Neck Estates Village Police Department,1
+3228,"Green Cove Springs, Police Department",1
+3229,Green Island Village Police Department,1
+3230,Greene County Sheriff's Department,1
+3231,"Greene County, Ms Sheriff's Office",1
+3232,Greenport Town Police Department,1
+3233,Greenwich Village Police Department,1
+3234,Greenwood Lake Village Police Department,1
+3235,Greer Police Department,1
+3236,Grenada County Sheriff's Department,1
+3237,Gretna City Police Department,1
+3238,Gretna Police Department,1
+3239,Grosse Pointe Park Public Safety,1
+3240,Groton Police Department,1
+3241,Groton Village Police Department,1
+3242,Grover Beach Police Department,1
+3243,Grundy County Sheriff's Office,1
+3244,Guadalupe County Sheriffs Office,1
+3245,Lanier County Sheriffs Office,1
+3246,Laramie Police Department,1
+3247,Ogemaw County Sheriff,1
+3248,"Mt Lebanon Police Department, Mt Lebanon",1
+3249,Moore County Sheriff's Office,1
+3250,Mooresville Police Department,1
+3251,Morristown New Jersey Bureau Of Police,1
+3252,Morton Police Department,1
+3253,Moultonborough Police Department,1
+3254,Moultrie Police Department,1
+3255,Moundville Police Department,1
+3256,Mount Joy Borough Police Department,1
+3257,Mount Morris Village Police Department,1
+3258,"Mount Olive Township Police Department, Budd Lake",1
+3259,Mount Pleasant Town Police Department,1
+3260,Mount Union Police Department,1
+3261,Mount Vernon Police Department,1
+3262,Mower County Sheriff's Department,1
+3263,Mt Pleasant Police Department,1
+3264,Larchmont Village Police Department,1
+3265,Mt. Shasta Police Department,1
+3266,Mukwonago Police Department,1
+3267,Mundelein Police Department,1
+3268,Murray Police Department,1
+3269,Muscatine County Sheriff,1
+3270,Muskogee County Sheriff,1
+3271,Muttontown Village Police Department,1
+3272,Myrtle Beach Police Department,1
+3273,Nassau County Sheriff,1
+3274,Natrona County Sheriff,1
+3275,Navarro County Sheriff,1
+3276,Needham Police Department,1
+3277,Neshoba County Sheriff's Department,1
+3278,Nevada City Police Department,1
+3279,Moore County Sheriff,1
+3280,Moody Police Department,1
+3281,Montville Township Police Department,1
+3282,Montville Police Department,1
+3283,Miami Springs Police Department,1
+3284,Miami Township Police Department,1
+3285,Miami-Dade Schools Police Department,1
+3286,Middlebury Police Department,1
+3287,Middleport Village Police Department,1
+3288,Middlesex County Sheriff,1
+3289,"Middletown Police Department, Middletown Delaware",1
+3290,Midway Police Department,1
+3291,Millcreek Police Department,1
+3292,Millen Police Department,1
+3293,Millerton Village Police Department,1
+3294,Minneapolis Parks Police,1
+3295,Minocqua Police Department,1
+3296,Mississippi County Sheriff,1
+3297,Missouri Police Chiefs Association,1
+3298,Mitchell County Sheriff's Office,1
+3299,Mitchell Police Department,1
+3300,Moffat County Sheriff's Office,1
+3301,Monroe County Sheriff's Department,1
+3302,Monroe Police Department,1
+3303,Monroe Police Department Connecticut,1
+3304,Monterey Police Department,1
+3305,Montezuma Police Department,1
+3306,Montgomery County Sheriff's Department,1
+3307,"Montgomery County, Pa Sheriff's Office",1
+3308,Montgomery Township Police Department,1
+3309,Monticello Village Police Department,1
+3310,Montmorency County Sheriff's Office,1
+3311,Montrose Police Department,1
+3312,New Berlin Police Department,1
+3313,New Berlin Town Police Department,1
+3314,New Bern Police Department,1
+3315,North Castle Town Police Department,1
+3316,North East King County Regional Public Safety Communications Agency,1
+3317,North Greenbush Town Police Department,1
+3318,North Hornell Village Police Department,1
+3319,North Park Police Department,1
+3320,North Salem Town Police Department,1
+3321,North St Paul Police Department,1
+3322,North Syracuse Village Police Department,1
+3323,Northampton County Sheriff's Office,1
+3324,Northeastern University Division of Public Safety,1
+3325,Northport Village Police Department,1
+3326,Northumberland County Sheriffs PA,1
+3327,Northville Village Police Department,1
+3328,Northwest Lancaster County Regional Police,1
+3329,Norton police department,1
+3330,Norwood Village Police Department,1
+3331,Noxubee County Sheriff's Department,1
+3332,Nueces County Sheriff,1
+3333,Nunda Town & Village Police Department,1
+3334,O'Fallon Police Department,1
+3335,Oachita Parish Sheriff Office Louisiana,1
+3336,Oakdale Police Department,1
+3337,Oakley Police Department,1
+3338,Ocean Isle Police Department,1
+3339,Ocean View Police Department,1
+3340,Oceana County Sheriff's Office,1
+3341,Office of Public Safety Accountability,1
+3342,Office of Public Safety and Homeland Security,1
+3343,Ogden Town Police Department,1
+3344,Ogdensburg City Police Department,1
+3345,North County Police Cooperative,1
+3346,North Bergen Police Department,1
+3347,New Castle County Sheriff,1
+3348,Norristown Police Department,1
+3349,New Castle Police Department,1
+3350,New Castle Town Police Department,1
+3351,New Hanover Police Department,1
+3352,"New Jersey Department Of Law And Public Safety, Division Of Gaming Enforcement",1
+3353,New Lenox Police Department,1
+3354,New Middletown Village Police Department,1
+3355,New Richmond Police Department,1
+3356,New York Mills Police,1
+3357,New York State Municipal Police Training Council,1
+3358,New York State Parks Police,1
+3359,Newark Village Police Department,1
+3360,Newberry County Sheriff's Office,1
+3361,Newington Police Department,1
+3362,Newnan Police Department,1
+3363,Newport News Police Department,1
+3364,Newton County Sheriff's Department,1
+3365,Newton County Sheriff's Office,1
+3366,Newton County Sheriffs Office,1
+3367,Newton Fall Police Department,1
+3368,Nez Perce County Sheriff's Office,1
+3369,Nicholas County Sheriff,1
+3370,Nicholls Police Department,1
+3371,Niobrara County Sheriff's Office,1
+3372,Niskayuna Town Police Department,1
+3373,Nissequogue Village Police Department,1
+3374,Nome Police Department,1
+3375,Norfolk County Sheriff's Office Library,1
+3376,Norfolk Town Police Department,1
+3377,Normal Police Department,1
+3378,Metuchen Police Department,1
+3379,Merrimack Police Department,1
+3380,Merriam Police Department,1
+3381,Lincoln Park Police Department,1
+3382,Lincolnshire Police Department,1
+3383,Lincolnton Police Department,1
+3384,Linden Police Department,1
+3385,rancho cucamonga police department,1
+3386,Litchfield Police Department,1
+3387,Lithonia Police Department,1
+3388,Little Falls City Police Department,1
+3389,Littleton Police Department,1
+3390,Liverpool Village Police Department,1
+3391,Livingston County Missouri Sheriff,1
+3392,Lloyd Harbor Village Police Department,1
+3393,Locust Grove Police Department,1
+3394,Lomita Sheriff’s Station - City of Rancho Palos Verdes,1
+3395,Long County Sheriffs Office,1
+3396,Long Hill Township Police Department,1
+3397,Los Banos Police Department,1
+3398,Los Gatos Monte Sereno Police Department,1
+3399,Los Gatos/Monte Sereno Police Department,1
+3400,Loudon County Sheriff,1
+3401,Louisiana Department Of Public Safety And Corrections,1
+3402,Lovejoy Police Dept,1
+3403,Lower Makefield Township Police Department,1
+3404,Lower Paxton Township Police Department,1
+3405,Lower Salford Police Department,1
+3406,Lowville Village Police Department,1
+3407,Luce County Sheriff,1
+3408,Lufkin Police Department,1
+3409,Lumber City Police Department,1
+3410,Lumpkin County Sheriff's Office,1
+3411,Lincoln Police And Fire Pension Fund,1
+3412,Lincoln County Sheriff MO,1
+3413,Lynbrook Village Police Department,1
+3414,Lincoln County Sheriff,1
+3415,Largo Police Department,1
+3416,Las Animas Police Department,1
+3417,Las Vegas Metro Police Department Citizen Review Board,1
+3418,"Las Vegas Police Department, HQ",1
+3419,Lasalle Parish Sheriff's Office,1
+3420,Laurel Police Department,1
+3421,Laurens County Sheriff,1
+3422,Lawrence County Sheriff,1
+3423,Layton Police Department,1
+3424,Le Roy Village Police Department,1
+3425,Leavenworth Police Department,1
+3426,Leawood Police Department,1
+3427,Lee County Sheriffs Office GA,1
+3428,Lees Summit Police Department,1
+3429,Leesburg Police Department FL,1
+3430,Leesburg Police Department VA,1
+3431,Leflore County Sheriff,1
+3432,Lemoore Police Department,1
+3433,Lenawee County Sheriff,1
+3434,Lenoir County Sheriff's Office,1
+3435,Leslie Police Department,1
+3436,Levy County Sheriff,1
+3437,Lewis And Clark County Sheriff's Department,1
+3438,Lewis County Sheriff,1
+3439,Liberal Police Department,1
+3440,Liberty County Sheriffs Office GA,1
+3441,Liberty Village Police Department,1
+3442,Lilburn Police Department,1
+3443,Lima Police Department,1
+3444,Lumpkin Police Department,1
+3445,Lyndeborough Police Department,1
+3446,Meriwether County Sheriffs Office,1
+3447,Massachusetts College of Art and Design Public Safety,1
+3448,Massena Village Police Department,1
+3449,Maui County Police Department,1
+3450,Maypearl Police (Texas),1
+3451,Maywood Police Department,1
+3452,McCracken County Sheriff,1
+3453,McCulloch County Sheriff,1
+3454,McDuffie County Sheriffs Office,1
+3455,McFarland Police Department,1
+3456,McGraw Village Police Department,1
+3457,McHenry County Sheriff,1
+3458,McIntosh County Sheriff's Office,1
+3459,McRae-Helena Police Department,1
+3460,Mccomb Police Department,1
+3461,Mcdonough County Sheriff's Office,1
+3462,Mcdowell County Sheriff's Office,1
+3463,Mchenry Police Department Illinois,1
+3464,Mcintosh County Sheriff's Office,1
+3465,Mcnairy County Sheriff,1
+3466,Mechanicville City Police Department,1
+3467,Mecosta County Sheriff’s Office,1
+3468,Medfield Police Department,1
+3469,Medina County Sheriff,1
+3470,Medina Police Department,1
+3471,Medina Village Police Department,1
+3472,Meigs Police Department,1
+3473,Menands Village Police Department,1
+3474,Menasha Police,1
+3475,Mendham Police Department,1
+3476,Meriwether County Sheriff's Office,1
+3477,Massachusetts Sheriffs' Association,1
+3478,Massac County Sheriff's Office,1
+3479,Macedon Town Police Department,1
+3480,Mass Maritime Academy Public Safety,1
+3481,Macon County Sheriff,1
+3482,Macoupin County Sheriff's Office,1
+3483,Madison County Sheriff’s Office,1
+3484,Madisonville Police Department,1
+3485,Mahanoy Township Police Department,1
+3486,Mahaska County Sheriff,1
+3487,Maine Committee On Criminal Justice And Public Safety,1
+3488,Maine Department of Public Safety,1
+3489,Malone Village Police Department,1
+3490,Malvern Police Department,1
+3491,Malverne Village Police Department,1
+3492,Mamou Police Department,1
+3493,Manassas Police Department,1
+3494,Manhattan Beach Police Department,1
+3495,Manlius Police Department,1
+3496,Manor Township Police Department,1
+3497,Maplewood Police Department,1
+3498,Marana Police Department,1
+3499,Marathon County Sheriff's Office,1
+3500,Marcellus Village Police Department,1
+3501,"Marin Community College District Police Department, Kentfield",1
+3502,Marion Police Department,1
+3503,Marlborough Town Police Department,1
+3504,Marshall County Sheriff's Department,1
+3505,Marshallville Police Department,1
+3506,Martinsville Police Department IN,1
+3507,Martinsville Police Department VA,1
+3508,Maryville Police Department,1
+3509,Mason County Sheriff,1
+3510,Abbevile Police Department,1
